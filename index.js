@@ -1,5 +1,6 @@
 const fs = require('fs')
 const path = require('path')
+const mustache = require('mustache')
 const yaml = require('js-yaml')
 const Ajv = require('ajv/dist/2020')
 const addFormats = require('ajv-formats')
@@ -31,3 +32,13 @@ if (!validateFunction(DATA)) {
   }
   process.exit(1)
 }
+
+/*
+ * Generate the README from the data
+ */
+console.error(`Reading template...`)
+const template = fs.readFileSync(path.resolve(__dirname, 'template.mustache'), 'utf8')
+console.error('Generating README...')
+const output = mustache.render(template, DATA)
+fs.writeFileSync(path.resolve(__dirname, 'README.md'), output)
+console.error('Done!')
