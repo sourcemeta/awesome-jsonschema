@@ -11,3 +11,11 @@
 - ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}
+
+## Videos
+
+{{#each (sortBy data "year")}}
+{{#compare type "==" "video"}}
+- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}

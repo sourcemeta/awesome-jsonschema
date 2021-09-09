@@ -19,7 +19,7 @@
         "minimum": 0
       },
       "type": {
-        "enum": [ "book" ]
+        "enum": [ "book", "video" ]
       },
       "summary": {
         "type": "string"

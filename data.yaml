@@ -8,3 +8,13 @@
   year: 2017
   type: book
   summary: A comprehensive overview of the JSON ecosystem, including JSON Schema
+- title: Configuring Umbraco on .NET Core - JSON Schema
+  url: https://www.youtube.com/watch?v=rpUg-oySw8g
+  year: 2021
+  type: video
+  summary: Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json using SchemaStore
+- title: What is JSON Schema
+  url: https://www.youtube.com/watch?v=kK-_gL7Vsc0
+  year: 2020
+  type: video
+  summary: A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document
