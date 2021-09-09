@@ -41,6 +41,9 @@ if (!validateFunction(DATA)) {
 console.error(`Reading template...`)
 const template = fs.readFileSync(path.resolve(__dirname, 'template.hbs'), 'utf8')
 console.error('Generating README...')
-const output = handlebars.compile(template)({ data: DATA })
+const output = handlebars.compile(template)({
+  data: DATA,
+  yearCompare: (a, b) => b.year - a.year
+})
 fs.writeFileSync(path.resolve(__dirname, 'README.md'), output)
 console.error('Done!')

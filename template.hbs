@@ -29,7 +29,7 @@ npm start
 
 ## Books
 
-{{#each (sortBy data "year")}}
+{{#each (sortBy data yearCompare)}}
 {{#compare type "==" "book"}}
 - ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
@@ -37,7 +37,7 @@ npm start
 
 ## Videos
 
-{{#each (sortBy data "year")}}
+{{#each (sortBy data yearCompare)}}
 {{#compare type "==" "video"}}
 - ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
