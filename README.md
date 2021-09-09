@@ -4,6 +4,9 @@
 
 ## Table of Contents
 
+- [Books](#books)
+- [Videos](#videos)
+
 ## Books
 
 - (2014) [Using JSON Schema](https://books.apple.com/us/book/using-json-schema/id903248630) - Learn and Apply JSON Schema by Example, with Javascript (Node.js) and Python Programs
