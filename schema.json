@@ -1,0 +1,29 @@
+{
+  "$id": "https://raw.githubusercontent.com/jviotti/awesome-jsonschema/master/schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": true,
+    "required": [ "title", "url", "year", "category", "summary" ],
+    "properties": {
+      "title": {
+        "type": "string"
+      },
+      "url": {
+        "type": "string",
+        "format": "uri"
+      },
+      "year": {
+        "type": "integer",
+        "minimum": 0
+      },
+      "category": {
+        "enum": [ "book" ]
+      },
+      "summary": {
+        "type": "string"
+      }
+    }
+  }
+}

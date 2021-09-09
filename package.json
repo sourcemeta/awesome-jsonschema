@@ -13,5 +13,9 @@
   "homepage": "https://github.com/jviotti/awesome-jsonschema",
   "bugs": {
     "url": "https://github.com/jviotti/awesome-jsonschema/issues"
+  },
+  "dependencies": {
+    "ajv": "^8.6.2",
+    "ajv-formats": "^2.1.1"
   }
 }
