@@ -38,7 +38,7 @@ if (!validateFunction(DATA)) {
 /*
  * Generate the README from the data
  */
-console.error(`Reading template...`)
+console.error('Reading template...')
 const template = fs.readFileSync(path.resolve(__dirname, 'template.hbs'), 'utf8')
 console.error('Generating README...')
 const output = handlebars.compile(template)({
