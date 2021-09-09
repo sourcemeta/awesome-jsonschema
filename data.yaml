@@ -18,3 +18,13 @@
   year: 2020
   type: video
   summary: A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document
+- title: "What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example"
+  url: https://www.youtube.com/watch?v=hGXxXyJmaUo
+  year: 2019
+  type: video
+  summary: An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
+- title: "JSON Schema Validation: How to Validate JSON Schema with Postman?"
+  url: https://www.youtube.com/watch?v=X072eKtOIio
+  year: 2019
+  type: video
+  summary: An introduction to JSON Schema and how to use it in Postman
