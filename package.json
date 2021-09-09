@@ -2,7 +2,7 @@
   "name": "awesome-jsonschema",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "A curated list of awesome JSON Schema resources",
   "main": "index.js",
   "repository": {
     "type": "git",
