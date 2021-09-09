@@ -6,6 +6,6 @@
 
 ## Books
 
-{{#data}}
-- ({{year}}) [{{title}}]({{{url}}}) - {{summary}}
-{{/data}}
+{{#each data}}
+- ({{./year}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/each}}

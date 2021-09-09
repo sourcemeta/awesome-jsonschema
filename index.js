@@ -4,6 +4,8 @@ const handlebars = require('handlebars')
 const yaml = require('js-yaml')
 const Ajv = require('ajv/dist/2020')
 const addFormats = require('ajv-formats')
+require('handlebars-helpers')({ handlebars })
+
 const SCHEMA = require('./schema.json')
 
 const ajv = new Ajv({
