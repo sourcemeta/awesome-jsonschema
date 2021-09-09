@@ -39,6 +39,6 @@ if (!validateFunction(DATA)) {
 console.error(`Reading template...`)
 const template = fs.readFileSync(path.resolve(__dirname, 'template.mustache'), 'utf8')
 console.error('Generating README...')
-const output = mustache.render(template, DATA)
+const output = mustache.render(template, { data: DATA })
 fs.writeFileSync(path.resolve(__dirname, 'README.md'), output)
 console.error('Done!')
