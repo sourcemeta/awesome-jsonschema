@@ -1,0 +1,17 @@
+{
+  "name": "awesome-jsonschema",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jviotti/awesome-jsonschema.git"
+  },
+  "author": "Juan Cruz Viotti <jv@jviotti.com>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/jviotti/awesome-jsonschema",
+  "bugs": {
+    "url": "https://github.com/jviotti/awesome-jsonschema/issues"
+  }
+}
