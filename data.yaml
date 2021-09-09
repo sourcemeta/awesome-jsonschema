@@ -1,0 +1,10 @@
+- title: Using JSON Schema
+  url: https://books.apple.com/us/book/using-json-schema/id903248630
+  year: 2014
+  category: book 
+  summary: Learn and Apply JSON Schema by Example, with Javascript (Node.js) and Python Programs
+- title: JSON at Work 
+  url: https://www.oreilly.com/library/view/json-at-work/9781491982389/
+  year: 2017
+  category: book 
+  summary: A comprehensive overview of the JSON ecosystem, including JSON Schema
