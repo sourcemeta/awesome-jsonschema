@@ -33,6 +33,7 @@ npm start
 ## Table of Contents
 
 - [Articles](#articles)
+- [Specifications](#specifications)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
@@ -41,6 +42,14 @@ npm start
 
 {{#each (sortBy data yearCompare)}}
 {{#compare type "==" "article"}}
+- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
+## Specifications
+
+{{#each (sortBy data yearCompare)}}
+{{#compare type "==" "spec"}}
 - ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}

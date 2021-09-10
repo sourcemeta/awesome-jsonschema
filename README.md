@@ -33,6 +33,7 @@ npm start
 ## Table of Contents
 
 - [Articles](#articles)
+- [Specifications](#specifications)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
@@ -53,6 +54,10 @@ npm start
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
 - (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
+
+## Specifications
+
+- (2021) [JSON Schema in RDF](https://www.w3.org/2019/wot/json-schema) - This document introduces an RDF vocabulary for JSON schema definitions. This vocabulary provides a stable namespace IRI for JSON schema keywords, as well as simple axioms, defined against schema.org&#x27;s meta-model. Various examples on how to use the vocabulary are also introduced, e.g. to annotate schemas with JSON-LD metadata or to embed schema annotations inside RDF graphs
 
 ## Books
 
