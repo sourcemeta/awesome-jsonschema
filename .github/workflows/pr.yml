@@ -1,7 +1,7 @@
 name: Test
 on: pull_request
 jobs:
-  awesome:
+  pr:
     runs-on: ubuntu-20.04
     steps:
       - name: Check out repository code
@@ -12,3 +12,5 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm start
+      - name: Check that there are no uncommitted changes
+        run: ./.github/no-staged-uncommitted-files.sh
