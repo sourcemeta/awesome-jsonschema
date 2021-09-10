@@ -5,8 +5,14 @@
   "$defs": {
     "base-link": {
       "type": "object",
-      "required": [ "title", "summary", "url" ],
+      "additionalProperties": false,
+      "required": [ "type", "title", "summary", "url" ],
       "properties": {
+        "type": { "type": "string" },
+        "year": {
+          "type": "integer",
+          "minimum": 0
+        },
         "title": { "type": "string" },
         "summary": { "type": "string" },
         "url": {
@@ -23,10 +29,6 @@
         "allOf": [ { "$ref": "#/$defs/base-link" } ],
         "required": [ "year", "type" ],
         "properties": {
-          "year": {
-            "type": "integer",
-            "minimum": 0
-          },
           "type": {
             "enum": [ "book", "video", "course", "article", "spec" ]
           }
