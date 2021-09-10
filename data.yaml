@@ -83,3 +83,23 @@
   year: 2019
   type: article
   summary: Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
+- title: "Validating and documenting JSON with JSON Schema"
+  url: https://www.mscharhag.com/api-design/json-schema
+  year: 2020
+  type: article
+  summary: Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
+- title: How to Integrate "React JSON Schema Form" into a Redux and Typescript Project
+  url: https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/
+  year: 2020
+  type: article
+  summary: Adding a form using "React JSON Schema Form" and integrating it with Redux and Typescript
+- title: JSON Schema Validation & Expressive Query Syntax in MongoDB 3.6
+  url: https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/
+  year: 2018
+  type: article
+  summary: An in-depth discussion about using JSON Schema to define collection validation on MongoDB
+- title: Azure Pipelines autocomplete in PyCharm, IntelliJ, WebStorm, CLion, and Rider
+  url: https://tonybaloney.github.io/posts/azure-pipelines-autocomplete-in-pycharm.html
+  year: 2020
+  type: article
+  summary: Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax highlighting and validation support of Azure Pipelines workflows
