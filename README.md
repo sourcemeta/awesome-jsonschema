@@ -69,9 +69,9 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2020) [Validating and documenting JSON with JSON Schema](https://www.mscharhag.com/api-design/json-schema) - Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
 - (2019) [PHP With MySQL](https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html) - A practical tutorial on expressing JSON Schema table constraints on MySQL
 - (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
-- (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
+- (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
 - (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
 
 ## Specifications
@@ -92,12 +92,13 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - (2021) [Configuring Umbraco on .NET Core - JSON Schema](https://www.youtube.com/watch?v=rpUg-oySw8g) - Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json using SchemaStore
 - (2021) [JSON Schema Validation in Postman](https://www.youtube.com/watch?v=8BfshV5n6ac) - An tutorial of performing JSON Schema validation in Postman in API tests
-- (2019) [JSON Schema Validation: How to Validate JSON Schema with Postman?](https://www.youtube.com/watch?v=X072eKtOIio) - An introduction to JSON Schema and how to use it in Postman
 - (2020) [What is JSON Schema](https://www.youtube.com/watch?v=kK-_gL7Vsc0) - A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document
+- (2019) [JSON Schema Validation: How to Validate JSON Schema with Postman?](https://www.youtube.com/watch?v=X072eKtOIio) - An introduction to JSON Schema and how to use it in Postman
 - (2019) [What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example](https://www.youtube.com/watch?v=hGXxXyJmaUo) - An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
 
 ## Tools
 
+- (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 - (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
 - (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
 

@@ -146,6 +146,11 @@
   type: tool
   subtype: Rust
   summary: A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
+- title: RapidJSON
+  url: https://rapidjson.org/md_doc_schema.html
+  type: tool
+  subtype: C++
+  summary: The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 
 - title: KrakenD
   url: https://www.krakend.io/docs/endpoints/json-schema/
