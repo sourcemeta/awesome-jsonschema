@@ -192,3 +192,7 @@
   url: https://docs.jamf.com/technical-papers/jamf-pro/json-schema/10.26.0/Understanding_the_Structure_of_a_JSON_Schema_Manifest.html
   type: adoption
   summary: The JamF Apple enterprise management service supports creating app manifests using JSON Schema
+- title: SpreadJS
+  url: https://www.grapecity.com/spreadjs/docs/v13/online/jsonschema.html
+  type: adoption
+  summary: The SpreadJS JavaScript spreadsheet library uses JSON Schema to describe the SpreadJS JSON data format
