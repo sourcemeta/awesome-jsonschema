@@ -159,3 +159,7 @@
   url: https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-json.html
   type: adoption
   summary: JSON Schema can be configured with the Apache Kafka Java client and console tools to fail if the payload is not valid for the given schema
+- title: RESTHeart
+  url: https://restheart.org/docs/json-schema-validation/
+  type: adoption
+  summary: "RESTHeart supports MongoDB schema validation to enforce a format to documents: rules-based validation from MongoDB 3.2 and Json Schema validation from MongoDB 3.6"
