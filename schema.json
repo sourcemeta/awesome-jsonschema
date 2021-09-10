@@ -2,49 +2,43 @@
   "$id": "https://raw.githubusercontent.com/jviotti/awesome-jsonschema/master/schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
+  "$defs": {
+    "base-link": {
+      "type": "object",
+      "required": [ "title", "summary", "url" ],
+      "properties": {
+        "title": { "type": "string" },
+        "summary": { "type": "string" },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    }
+  },
   "items": {
     "oneOf": [
       {
         "type": "object",
-        "additionalProperties": false,
-        "required": [ "title", "url", "year", "type", "summary" ],
+        "allOf": [ { "$ref": "#/$defs/base-link" } ],
+        "required": [ "year", "type" ],
         "properties": {
-          "title": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string",
-            "format": "uri"
-          },
           "year": {
             "type": "integer",
             "minimum": 0
           },
           "type": {
             "enum": [ "book", "video", "course", "article", "spec" ]
-          },
-          "summary": {
-            "type": "string"
           }
         }
       },
       {
         "type": "object",
-        "additionalProperties": false,
-        "required": [ "title", "url", "type", "summary" ],
+        "allOf": [ { "$ref": "#/$defs/base-link" } ],
+        "required": [ "type" ],
         "properties": {
-          "title": {
-            "type": "string"
-          },
-          "url": {
-            "type": "string",
-            "format": "uri"
-          },
           "type": {
             "enum": [ "adoption" ]
-          },
-          "summary": {
-            "type": "string"
           }
         }
       }

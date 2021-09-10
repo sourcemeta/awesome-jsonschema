@@ -10,7 +10,7 @@ const SCHEMA = require('./schema.json')
 
 const ajv = new Ajv({
   allowUnionTypes: true,
-  strict: true,
+  strict: false,
   strictTypes: true,
   strictTuples: true,
   validateSchema: true,
