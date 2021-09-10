@@ -33,3 +33,8 @@
   year: 2017
   type: course
   summary: An in-depth guide to working with JSON and the JSON ecosystem including using JSON Schema for validation purposes
+- title: JSON Schema - Crash Course for Beginners
+  url: https://www.udemy.com/course/json-schema-crash-course-for-beginners/
+  year: 2017
+  type: course
+  summary: Learn JSON & JSON Schema in a Quick 30-40 minutes & use it for the rest of your life for complex projects

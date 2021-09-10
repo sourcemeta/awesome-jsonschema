@@ -44,6 +44,7 @@ npm start
 ## Courses
 
 - (2017) [Processing and Interchanging JSON Data](https://www.linkedin.com/learning/processing-and-interchanging-json-data) - An in-depth guide to working with JSON and the JSON ecosystem including using JSON Schema for validation purposes
+- (2017) [JSON Schema - Crash Course for Beginners](https://www.udemy.com/course/json-schema-crash-course-for-beginners/) - Learn JSON &amp; JSON Schema in a Quick 30-40 minutes &amp; use it for the rest of your life for complex projects
 
 ## Videos
 
