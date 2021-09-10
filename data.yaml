@@ -58,3 +58,18 @@
   year: 2013
   type: article
   summary: A short introduction to JSON Schema Draft4 validation
+- title: "An introduction to JSON Schema"
+  url: https://medium.com/swlh/an-introduction-to-json-schema-8eaea643fcda
+  year: 2020
+  type: article
+  summary: An introduction to JSON Schema covering its history, common keywords and how to use the AJV validator
+- title: "Introduction to JSON Schema in Java"
+  url: https://www.baeldung.com/introduction-to-json-schema-in-java
+  year: 2021
+  type: article
+  summary: A short introduction to validating JSON documents with JSON Schema in Java
+- title: "Using the JSON Schema standard for scientific applications?"
+  url: https://cerfacs.fr/coop/json-schema-for-sci-apps
+  year: 2020
+  type: article
+  summary: A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications

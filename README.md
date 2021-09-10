@@ -39,7 +39,10 @@ npm start
 
 ## Articles
 
+- (2021) [Introduction to JSON Schema in Java](https://www.baeldung.com/introduction-to-json-schema-in-java) - A short introduction to validating JSON documents with JSON Schema in Java
 - (2020) [JSON Schema Tutorial](https://www.w3resource.com/JSON/JSON-Schema.php) - A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
+- (2020) [An introduction to JSON Schema](https://medium.com/swlh/an-introduction-to-json-schema-8eaea643fcda) - An introduction to JSON Schema covering its history, common keywords and how to use the AJV validator
+- (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
 - (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
 - (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
