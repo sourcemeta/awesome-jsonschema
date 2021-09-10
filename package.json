@@ -5,6 +5,7 @@
   "description": "A curated list of awesome JSON Schema resources",
   "scripts": {
     "start": "node index.js",
+    "lint": "shellcheck .github/*.sh",
     "test": "eslint *.js"
   },
   "main": "index.js",
