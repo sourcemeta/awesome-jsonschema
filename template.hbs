@@ -87,6 +87,14 @@ npm start
 {{/compare}}
 {{/each}}
 
+## Tools
+
+{{#each (sortBy data "subtype")}}
+{{#compare type "==" "tool"}}
+- ({{subtype}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
 ## Credits
 
 Special thanks to [@kinlane](https://github.com/kinlane) for curating the

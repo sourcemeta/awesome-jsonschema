@@ -131,3 +131,9 @@
   url: https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html
   type: adoption
   summary: MySQL 8.0.17 supports table constraints to validate a JSON document against a JSON Schema
+
+- title: chai-json-schema
+  url: https://www.chaijs.com/plugins/chai-json-schema/
+  type: tool
+  subtype: JavaScript
+  summary: Chai plugin with assertions to validate values against JSON Schema v4
