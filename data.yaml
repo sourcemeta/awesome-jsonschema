@@ -73,3 +73,13 @@
   year: 2020
   type: article
   summary: A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
+- title: "Building a No-Code JSON Schema Form Builder with ReactJS"
+  url: https://www.ginkgobioworks.com/2020/10/08/building-a-no-code-json-schema-form-builder/
+  year: 2020
+  type: article
+  summary: An update on the additional features implemented in the react-json-schema-form-builder open-source JSON Schema form builder project
+- title: "Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs"
+  url: https://blog.heroku.com/json-schema-document-debug-apis
+  year: 2019
+  type: article
+  summary: Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
