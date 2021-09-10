@@ -151,3 +151,7 @@
   url: https://www.krakend.io/docs/endpoints/json-schema/
   type: adoption
   summary: KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends
+- title: IBM App Connect
+  url: https://www.ibm.com/docs/en/app-connect/11.0.0?topic=schema-json-requirements-message-maps
+  type: adoption
+  summary: The Graphical Data Mapping editor can be used to create and transform JSON messages with the data model defined from a JSON schema
