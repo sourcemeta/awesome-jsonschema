@@ -155,3 +155,7 @@
   url: https://www.ibm.com/docs/en/app-connect/11.0.0?topic=schema-json-requirements-message-maps
   type: adoption
   summary: The Graphical Data Mapping editor can be used to create and transform JSON messages with the data model defined from a JSON schema
+- title: Confluent Schema Registry
+  url: https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-json.html
+  type: adoption
+  summary: JSON Schema can be configured with the Apache Kafka Java client and console tools to fail if the payload is not valid for the given schema
