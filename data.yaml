@@ -234,3 +234,7 @@
   url: https://gdc.cancer.gov/developers/gdc-data-model
   type: adoption
   summary: The Genomic Data Commons data model is defined using JSON Schema
+- title: Drupal Patternkit
+  url: https://www.drupal.org/project/patternkit
+  type: adoption
+  summary: The Drupal Patternkit module uses JSON Schema to define pattern templates
