@@ -4,6 +4,9 @@ instructions -->
 
 # Awesome JSON Schema [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Join Slack](https://img.shields.io/badge/Slack-Join%20Slack-blue.svg?style=flat-square)](https://json-schema.slack.com)
+
 > A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
 JSON Schema is a JSON-based format to annotate and validate JSON documents with
