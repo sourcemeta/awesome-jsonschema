@@ -184,3 +184,7 @@
   url: https://www.ory.sh/kratos/docs/reference/json-schema-json-paths/
   type: adoption
   summary: The Ory Kratos identity & user management product relies on JSON Schema from configuration validation, documentation generation for defining identity schemas
+- title: Hackolade
+  url: https://hackolade.com/help/JSONSchema.html
+  type: adoption
+  summary: The Hackolade data modelling service supports defining entities using JSON Schema
