@@ -238,3 +238,7 @@
   url: https://www.drupal.org/project/patternkit
   type: adoption
   summary: The Drupal Patternkit module uses JSON Schema to define pattern templates
+- title: Smart Data Models
+  url: https://github.com/smart-data-models
+  type: adoption
+  summary: The Smart Data Models GitHub organization makes use of JSON Schema to describe harmonized Data Models for different Smart Domains
