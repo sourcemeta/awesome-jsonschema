@@ -6,6 +6,7 @@ instructions -->
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Join Slack](https://img.shields.io/badge/Slack-Join%20Slack-blue.svg?style=flat-square)](https://json-schema.slack.com)
+[![OpenCollective](https://img.shields.io/opencollective/all/json-schema?label=OpenCollective&style=flat-square)](https://opencollective.com/json-schema)
 
 > A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
