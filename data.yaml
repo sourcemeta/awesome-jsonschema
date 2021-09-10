@@ -171,3 +171,7 @@
   url: https://help.apiary.io/api_101/json-schema/
   type: adoption
   summary: Apiary's interactive documentation is able to render JSON Schema documents associated with payloads
+- title: Axway API Gateway
+  url: https://docs.axway.com/bundle/APIGateway_762_PolicyDevFilterReference_allOS_en_HTML5/page/Content/PolicyDevTopics/content_schema_json.htm
+  type: adoption
+  summary: The API Gateway can check that JavaScript Object Notation (JSON) messages conform to the format expected by a web service by validating requests against a specified JSON schema
