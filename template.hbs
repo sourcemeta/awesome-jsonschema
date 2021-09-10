@@ -41,7 +41,7 @@ npm start
 
 ## Adoption
 
-{{#each (sortBy data yearCompare)}}
+{{#each (sortBy data "title")}}
 {{#compare type "==" "adoption"}}
 - [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
