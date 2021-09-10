@@ -222,3 +222,7 @@
   url: https://www.jetbrains.com/help/objc/json.html
   type: adoption
   summary: The suite of JetBrains programming editors supports JSON code-completion based on JSON Schema
+- title: Postman
+  url: https://learning.postman.com/docs/writing-scripts/script-references/test-examples/
+  type: adoption
+  summary: The Postman API platform supports running JSON Schema validation in API tests
