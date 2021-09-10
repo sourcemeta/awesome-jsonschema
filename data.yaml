@@ -167,3 +167,7 @@
   url: https://docs.mulesoft.com/json-module/2.1/json-schema-validation
   type: adoption
   summary: The MuleSoft integration framework supports validating a JSON document against a JSON Schema
+- title: Apiary
+  url: https://help.apiary.io/api_101/json-schema/
+  type: adoption
+  summary: Apiary's interactive documentation is able to render JSON Schema documents associated with payloads
