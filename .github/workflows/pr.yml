@@ -10,6 +10,7 @@ jobs:
         with:
           node-version: '14'
       - run: npm ci
+      - run: npm run lint
       - run: npm test
       - run: npm start
       - name: Check that there are no uncommitted changes
