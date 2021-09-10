@@ -188,3 +188,7 @@
   url: https://hackolade.com/help/JSONSchema.html
   type: adoption
   summary: The Hackolade data modelling service supports defining entities using JSON Schema
+- title: JamF
+  url: https://docs.jamf.com/technical-papers/jamf-pro/json-schema/10.26.0/Understanding_the_Structure_of_a_JSON_Schema_Manifest.html
+  type: adoption
+  summary: The JamF Apple enterprise management service supports creating app manifests using JSON Schema

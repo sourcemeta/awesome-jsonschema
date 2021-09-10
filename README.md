@@ -52,6 +52,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-json.html) - JSON Schema can be configured with the Apache Kafka Java client and console tools to fail if the payload is not valid for the given schema
 - [Hackolade](https://hackolade.com/help/JSONSchema.html) - The Hackolade data modelling service supports defining entities using JSON Schema
 - [IBM App Connect](https://www.ibm.com/docs/en/app-connect/11.0.0?topic=schema-json-requirements-message-maps) - The Graphical Data Mapping editor can be used to create and transform JSON messages with the data model defined from a JSON schema
+- [JamF](https://docs.jamf.com/technical-papers/jamf-pro/json-schema/10.26.0/Understanding_the_Structure_of_a_JSON_Schema_Manifest.html) - The JamF Apple enterprise management service supports creating app manifests using JSON Schema
 - [KrakenD](https://www.krakend.io/docs/endpoints/json-schema/) - KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
 - [MuleSoft](https://docs.mulesoft.com/json-module/2.1/json-schema-validation) - The MuleSoft integration framework supports validating a JSON document against a JSON Schema
@@ -70,9 +71,9 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
 - (2020) [Validating and documenting JSON with JSON Schema](https://www.mscharhag.com/api-design/json-schema) - Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
 - (2019) [PHP With MySQL](https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html) - A practical tutorial on expressing JSON Schema table constraints on MySQL
-- (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
+- (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
 - (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
 - (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
 
