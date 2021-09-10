@@ -151,6 +151,11 @@
   type: tool
   subtype: C++
   summary: The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
+- title: Eclipse Vert.x
+  url: https://vertx.io/docs/vertx-json-schema/java/
+  type: tool
+  subtype: Java
+  summary: The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
 
 - title: KrakenD
   url: https://www.krakend.io/docs/endpoints/json-schema/

@@ -54,7 +54,7 @@
             "enum": [ "tool" ]
           },
           "subtype": {
-            "enum": [ "JavaScript", "Rust", "C++" ]
+            "enum": [ "JavaScript", "Rust", "C++", "Java" ]
           }
         }
       }
