@@ -42,7 +42,8 @@ npm start
 ## Adoption
 
 - [Assertible](https://assertible.com/json-schema-validation) - Assertible provides a free-to-use API to validate a JSON document against a JSON Schema and a service to test and monitor web services using JSON Schema
-- [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB supports JSON Schema for querying data and defining collection constraints
+- [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
+- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html) - MySQL 8.0.17 supports table constraints to validate a JSON document against a JSON Schema
 
 ## Articles
 
