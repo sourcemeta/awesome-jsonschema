@@ -32,9 +32,18 @@ npm start
 
 ## Table of Contents
 
+- [Articles](#articles)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+
+## Articles
+
+{{#each (sortBy data yearCompare)}}
+{{#compare type "==" "article"}}
+- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
 
 ## Books
 

@@ -38,3 +38,23 @@
   year: 2017
   type: course
   summary: Learn JSON & JSON Schema in a Quick 30-40 minutes & use it for the rest of your life for complex projects
+- title: JSON Schema Tutorial
+  url: https://www.w3resource.com/JSON/JSON-Schema.php
+  year: 2020
+  type: article
+  summary: A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
+- title: JSON Schema Validator, Generator & Editor Guide
+  url: https://stoplight.io/json-guide/
+  year: 2018
+  type: article
+  summary: How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
+- title: "REST API Tutorial: JSON Schema"
+  url: https://restfulapi.net/json-schema/
+  year: 2019
+  type: article
+  summary: An short introduction to JSON Schema validation
+- title: "TutorialsPoint: JSON Schema"
+  url: https://www.tutorialspoint.com/json/json_schema.htm
+  year: 2013
+  type: article
+  summary: A short introduction to JSON Schema Draft4 validation
