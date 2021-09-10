@@ -163,3 +163,7 @@
   url: https://restheart.org/docs/json-schema-validation/
   type: adoption
   summary: "RESTHeart supports MongoDB schema validation to enforce a format to documents: rules-based validation from MongoDB 3.2 and Json Schema validation from MongoDB 3.6"
+- title: MuleSoft
+  url: https://docs.mulesoft.com/json-module/2.1/json-schema-validation
+  type: adoption
+  summary: The MuleSoft integration framework supports validating a JSON document against a JSON Schema
