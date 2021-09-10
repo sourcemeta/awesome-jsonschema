@@ -32,11 +32,16 @@ npm start
 
 ## Table of Contents
 
+- [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+
+## Adoption
+
+- [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB supports JSON Schema for querying data and defining collection constraints
 
 ## Articles
 

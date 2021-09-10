@@ -3,27 +3,51 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "type": "array",
   "items": {
-    "type": "object",
-    "additionalProperties": true,
-    "required": [ "title", "url", "year", "type", "summary" ],
-    "properties": {
-      "title": {
-        "type": "string"
+    "oneOf": [
+      {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [ "title", "url", "year", "type", "summary" ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "year": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "type": {
+            "enum": [ "book", "video", "course", "article", "spec" ]
+          },
+          "summary": {
+            "type": "string"
+          }
+        }
       },
-      "url": {
-        "type": "string",
-        "format": "uri"
-      },
-      "year": {
-        "type": "integer",
-        "minimum": 0
-      },
-      "type": {
-        "enum": [ "book", "video", "course", "article", "spec" ]
-      },
-      "summary": {
-        "type": "string"
+      {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [ "title", "url", "type", "summary" ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "type": {
+            "enum": [ "adoption" ]
+          },
+          "summary": {
+            "type": "string"
+          }
+        }
       }
-    }
+    ]
   }
 }

@@ -32,11 +32,20 @@ npm start
 
 ## Table of Contents
 
+- [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+
+## Adoption
+
+{{#each (sortBy data yearCompare)}}
+{{#compare type "==" "adoption"}}
+- [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
 
 ## Articles
 
