@@ -218,3 +218,7 @@
   url: https://docs.informatica.com/data-integration/b2b-data-transformation/10-2-2/user-guide/wizard-input-and-output-formats/json/sample-json-schema.html
   type: adoption
   summary: The Informatica data management platform supports creating auto-generated data processor transformations using JSON Schema
+- title: JetBrains
+  url: https://www.jetbrains.com/help/objc/json.html
+  type: adoption
+  summary: The suite of JetBrains programming editors supports JSON code-completion based on JSON Schema
