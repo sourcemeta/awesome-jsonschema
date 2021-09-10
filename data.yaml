@@ -28,6 +28,11 @@
   year: 2019
   type: video
   summary: An introduction to JSON Schema and how to use it in Postman
+- title: JSON Schema Validation in Postman
+  url: https://www.youtube.com/watch?v=8BfshV5n6ac
+  year: 2021
+  type: video
+  summary: An tutorial of performing JSON Schema validation in Postman in API tests
 - title: Processing and Interchanging JSON Data
   url: https://www.linkedin.com/learning/processing-and-interchanging-json-data
   year: 2017
@@ -103,3 +108,8 @@
   year: 2020
   type: article
   summary: Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax highlighting and validation support of Azure Pipelines workflows
+- title: PHP With MySQL
+  url: https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html
+  year: 2019
+  type: article
+  summary: A practical tutorial on expressing JSON Schema table constraints on MySQL
