@@ -131,6 +131,10 @@
   url: https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html
   type: adoption
   summary: MySQL 8.0.17 supports table constraints to validate a JSON document against a JSON Schema
+- title: Amazon EventBridge Schema Registry
+  url: https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-eventbridge-schema-registry-announces-support-for-json-schema/
+  type: adoption
+  summary: Amazon EventBridge Schema Registry has support for JSON Schema, allowing customers to validate, annotate, and manipulate JSON documents conforming to JSON Schema Draft 4 specification
 
 - title: chai-json-schema
   url: https://www.chaijs.com/plugins/chai-json-schema/
