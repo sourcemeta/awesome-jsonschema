@@ -196,3 +196,7 @@
   url: https://www.grapecity.com/spreadjs/docs/v13/online/jsonschema.html
   type: adoption
   summary: The SpreadJS JavaScript spreadsheet library uses JSON Schema to describe the SpreadJS JSON data format
+- title: Contentstack
+  url: https://www.contentstack.com/docs/developers/create-content-types/json-schema-for-creating-a-content-type/
+  type: adoption
+  summary: The Contentstack CMS platform supports creating content types using JSON Schema
