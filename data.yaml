@@ -210,3 +210,7 @@
   url: https://www.contentstack.com/docs/developers/create-content-types/json-schema-for-creating-a-content-type/
   type: adoption
   summary: The Contentstack CMS platform supports creating content types using JSON Schema
+- title: Decisions
+  url: https://documentation.decisions.com/docs/create-types-json-schema
+  type: adoption
+  summary: The Decisions rules-driven business process automation platform support using JSON Schema to generate JSON deserializers
