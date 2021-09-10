@@ -214,3 +214,7 @@
   url: https://documentation.decisions.com/docs/create-types-json-schema
   type: adoption
   summary: The Decisions rules-driven business process automation platform support using JSON Schema to generate JSON deserializers
+- title: Informatica
+  url: https://docs.informatica.com/data-integration/b2b-data-transformation/10-2-2/user-guide/wizard-input-and-output-formats/json/sample-json-schema.html
+  type: adoption
+  summary: The Informatica data management platform supports creating auto-generated data processor transformations using JSON Schema
