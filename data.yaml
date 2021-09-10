@@ -141,3 +141,8 @@
   type: tool
   subtype: JavaScript
   summary: Chai plugin with assertions to validate values against JSON Schema v4
+- title: jsonschema
+  url: https://docs.rs/jsonschema/0.8.0/jsonschema/
+  type: tool
+  subtype: Rust
+  summary: A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters

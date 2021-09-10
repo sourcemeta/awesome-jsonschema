@@ -92,6 +92,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 ## Tools
 
 - (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
+- (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
 
 ## Credits
 
