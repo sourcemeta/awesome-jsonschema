@@ -146,3 +146,8 @@
   type: tool
   subtype: Rust
   summary: A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
+
+- title: KrakenD
+  url: https://www.krakend.io/docs/endpoints/json-schema/
+  type: adoption
+  summary: KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends
