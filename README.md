@@ -50,7 +50,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [IBM App Connect](https://www.ibm.com/docs/en/app-connect/11.0.0?topic=schema-json-requirements-message-maps) - The Graphical Data Mapping editor can be used to create and transform JSON messages with the data model defined from a JSON schema
 - [KrakenD](https://www.krakend.io/docs/endpoints/json-schema/) - KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
-- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html) - MySQL 8.0.17 supports table constraints to validate a JSON document against a JSON Schema
+- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html) - MySQL 8.0.17 and later support table constraints to validate a JSON document against a JSON Schema
 
 ## Articles
 
