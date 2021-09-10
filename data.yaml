@@ -156,6 +156,11 @@
   type: tool
   subtype: Java
   summary: The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
+- title: Formly
+  url: https://formly.dev
+  type: tool
+  subtype: JavaScript
+  summary: The Formly Angular form generator supports generating forms using JSON Schema
 
 - title: KrakenD
   url: https://www.krakend.io/docs/endpoints/json-schema/
