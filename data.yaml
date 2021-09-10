@@ -28,3 +28,8 @@
   year: 2019
   type: video
   summary: An introduction to JSON Schema and how to use it in Postman
+- title: Processing and Interchanging JSON Data
+  url: https://www.linkedin.com/learning/processing-and-interchanging-json-data
+  year: 2017
+  type: course
+  summary: An in-depth guide to working with JSON and the JSON ecosystem including using JSON Schema for validation purposes
