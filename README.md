@@ -55,6 +55,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
 - [MuleSoft](https://docs.mulesoft.com/json-module/2.1/json-schema-validation) - The MuleSoft integration framework supports validating a JSON document against a JSON Schema
 - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html) - MySQL 8.0.17 and later support table constraints to validate a JSON document against a JSON Schema
+- [Ory Kratos](https://www.ory.sh/kratos/docs/reference/json-schema-json-paths/) - The Ory Kratos identity &amp; user management product relies on JSON Schema from configuration validation, documentation generation for defining identity schemas
 - [RESTHeart](https://restheart.org/docs/json-schema-validation/) - RESTHeart supports MongoDB schema validation to enforce a format to documents: rules-based validation from MongoDB 3.2 and Json Schema validation from MongoDB 3.6
 
 ## Articles

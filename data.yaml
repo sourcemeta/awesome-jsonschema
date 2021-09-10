@@ -180,3 +180,7 @@
   url: https://docs.axway.com/bundle/APIGateway_762_PolicyDevFilterReference_allOS_en_HTML5/page/Content/PolicyDevTopics/content_schema_json.htm
   type: adoption
   summary: The API Gateway can check that JavaScript Object Notation (JSON) messages conform to the format expected by a web service by validating requests against a specified JSON schema
+- title: Ory Kratos
+  url: https://www.ory.sh/kratos/docs/reference/json-schema-json-paths/
+  type: adoption
+  summary: The Ory Kratos identity & user management product relies on JSON Schema from configuration validation, documentation generation for defining identity schemas
