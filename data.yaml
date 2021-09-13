@@ -300,3 +300,7 @@
   url: https://nakadi.io
   type: adoption
   summary: The Nakadi open-source distributed event bus supports defining event types with JSON Schema
+- title: Mozilla Data Pipeline
+  url: https://docs.telemetry.mozilla.org/concepts/pipeline/schemas.html
+  type: adoption
+  summary: Mozilla Data Pipeline uses JSON Schema to define telemetry data ingested from Mozilla products and logs from various services
