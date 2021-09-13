@@ -32,12 +32,24 @@ npm start
 
 ## Table of Contents
 
+- [Official](#official)
 - [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+
+## Official
+
+- [GitHub](https://github.com/json-schema-org) - The official GitHub organization of the JSON Schema project
+- [GitHub Discussions](https://github.com/json-schema-org/community/discussions) - The discussions page of JSON Schema
+- [OpenCollective](https://opencollective.com/json-schema) - The official OpenCollective account of JSON Schema
+- [Slack](https://json-schema.org/slack) - The official Slack workspace of JSON Schema
+- [StackOverflow](https://stackoverflow.com/questions/tagged/jsonschema) - The JSON Schema tag in StackOverflow
+- [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - The official test suite for JSON Schema implementations
+- [Twitter](https://twitter.com/jsonschema) - The Twitter account of the JSON Schema project
+- [Website](https://json-schema.org) - The official website of the JSON Schema project
 
 ## Adoption
 

@@ -333,3 +333,36 @@
   url: https://www.infoq.com/news/2021/04/cloudflare-terraform/
   type: adoption
   summary: The Cloudflare Terraform provider comes with a tool to generate Terraform configuration from existing Cloudflare resources that uses JSON Schema to map data between both technologies
+
+- title: Website
+  url: https://json-schema.org
+  type: official
+  summary: The official website of the JSON Schema project
+- title: GitHub Discussions
+  url: https://github.com/json-schema-org/community/discussions
+  type: official
+  summary: The discussions page of JSON Schema
+- title: Twitter
+  url: https://twitter.com/jsonschema
+  type: official
+  summary: The Twitter account of the JSON Schema project
+- title: GitHub
+  url: https://github.com/json-schema-org
+  type: official
+  summary: The official GitHub organization of the JSON Schema project
+- title: Test Suite
+  url: https://github.com/json-schema-org/JSON-Schema-Test-Suite
+  type: official
+  summary: The official test suite for JSON Schema implementations
+- title: Slack
+  url: https://json-schema.org/slack
+  type: official
+  summary: The official Slack workspace of JSON Schema
+- title: OpenCollective
+  url: https://opencollective.com/json-schema
+  type: official
+  summary: The official OpenCollective account of JSON Schema
+- title: StackOverflow
+  url: https://stackoverflow.com/questions/tagged/jsonschema
+  type: official
+  summary: The JSON Schema tag in StackOverflow

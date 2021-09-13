@@ -41,7 +41,7 @@
         "required": [ "type" ],
         "properties": {
           "type": {
-            "enum": [ "adoption" ]
+            "enum": [ "adoption", "official" ]
           }
         }
       },
