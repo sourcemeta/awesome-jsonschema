@@ -308,3 +308,7 @@
   url: https://nf-co.re/tools/#pipeline-schema
   type: adoption
   summary: The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows
+- title: Linux
+  url: https://www.kernel.org/doc/html/latest/devicetree/bindings/writing-schema.html
+  type: adoption
+  summary: The Linux kernel uses JSON Schema to define Devicetree bindings
