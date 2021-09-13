@@ -312,3 +312,7 @@
   url: https://www.kernel.org/doc/html/latest/devicetree/bindings/writing-schema.html
   type: adoption
   summary: The Linux kernel uses JSON Schema to define Devicetree bindings
+- title: Cloudflare Terraform
+  url: https://www.infoq.com/news/2021/04/cloudflare-terraform/
+  type: adoption
+  summary: The Cloudflare Terraform provider comes with a tool to generate Terraform configuration from existing Cloudflare resources that uses JSON Schema to map data between both technologies
