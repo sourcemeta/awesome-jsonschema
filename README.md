@@ -126,6 +126,11 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Tools
 
+*A collection of open-source tools to work with JSON Schema official and
+third-party vocabularies. Did we miss any? Did you build a JSON Schema tool?
+[Let us
+know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=awesome-link&template=link.md&title=)*
+
 - (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 - (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
 - (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
