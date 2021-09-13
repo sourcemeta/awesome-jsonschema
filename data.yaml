@@ -288,3 +288,7 @@
   url: https://docs.snowplowanalytics.com/docs/understanding-tracking-design/understanding-schemas-and-validation/
   type: adoption
   summary: The Snowplow analytics platform support using JSON Schema to define the structure of the data to collect
+- title: Heroku
+  url: https://blog.heroku.com/json_schema_for_heroku_platform_api
+  type: adoption
+  summary: Heroku makes use of JSON Schema to publish machine-readable schema definitions for their public APIs
