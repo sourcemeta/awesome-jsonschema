@@ -254,3 +254,7 @@
   url: https://experienceleague.adobe.com/docs/experience-manager-65/forms/adaptive-forms-advanced-authoring/adaptive-form-json-schema-form-model.html?lang=en
   type: adoption
   summary: The Adobe Experience Manager content management solution for building websites, mobile apps and forms supports creating adaptative forms using JSON Schema
+- title: Form.io
+  url: https://www.form.io/article/angular-json-schema-form-builder
+  type: adoption
+  summary: The Form.io online web form generator supports generating Angular.js forms using JSON Schema
