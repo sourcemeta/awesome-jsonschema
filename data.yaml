@@ -161,6 +161,11 @@
   type: tool
   subtype: JavaScript
   summary: The Formly Angular form generator supports generating forms using JSON Schema
+- title: json-schema-tools
+  url: https://github.com/cloudflare/json-schema-tools
+  type: tool
+  subtype: JavaScript
+  summary: A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
 
 - title: KrakenD
   url: https://www.krakend.io/docs/endpoints/json-schema/

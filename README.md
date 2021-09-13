@@ -120,6 +120,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
 - (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
 - (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
+- (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
 - (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
 
 ## Credits
