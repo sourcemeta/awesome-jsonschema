@@ -64,6 +64,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [JamF](https://docs.jamf.com/technical-papers/jamf-pro/json-schema/10.26.0/Understanding_the_Structure_of_a_JSON_Schema_Manifest.html) - The JamF Apple enterprise management service supports creating app manifests using JSON Schema
 - [JetBrains](https://www.jetbrains.com/help/objc/json.html) - The suite of JetBrains programming editors supports JSON code-completion based on JSON Schema
 - [KrakenD](https://www.krakend.io/docs/endpoints/json-schema/) - KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends
+- [Lightblue.io](https://docs.lightblue.io/standards/json_schema.html) - The Lightblue document based data access layer framework uses JSON Schema to define certain file resources in the project
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
 - [MuleSoft](https://docs.mulesoft.com/json-module/2.1/json-schema-validation) - The MuleSoft integration framework supports validating a JSON document against a JSON Schema
 - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html) - MySQL 8.0.17 and later support table constraints to validate a JSON document against a JSON Schema

@@ -267,3 +267,7 @@
   url: https://blog.cloudflare.com/cloudflares-json-powered-documentation-generator/
   type: adoption
   summary: The Cloudflare makes use of JSON Schema and Hyper Schema to keep track of their API endpoints
+- title: Lightblue.io
+  url: https://docs.lightblue.io/standards/json_schema.html
+  type: adoption
+  summary: The Lightblue document based data access layer framework uses JSON Schema to define certain file resources in the project
