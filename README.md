@@ -135,6 +135,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 - (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
+- (JavaScript) [Cambria](https://www.inkandswitch.com/cambria.html) - Cambria is a library for implementing schema evolution in JSON data and JSON Schema in the context local-first distributed systems
 - (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
 - (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
 - (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation

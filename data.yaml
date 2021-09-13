@@ -176,6 +176,11 @@
   type: tool
   subtype: PHP
   summary: A JSON Schema validator for PHP
+- title: Cambria
+  url: https://www.inkandswitch.com/cambria.html
+  type: tool
+  subtype: JavaScript
+  summary: Cambria is a library for implementing schema evolution in JSON data and JSON Schema in the context local-first distributed systems
 
 - title: KrakenD
   url: https://www.krakend.io/docs/endpoints/json-schema/
