@@ -304,3 +304,7 @@
   url: https://docs.telemetry.mozilla.org/concepts/pipeline/schemas.html
   type: adoption
   summary: Mozilla Data Pipeline uses JSON Schema to define telemetry data ingested from Mozilla products and logs from various services
+- title: nf-core
+  url: https://nf-co.re/tools/#pipeline-schema
+  type: adoption
+  summary: The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows
