@@ -280,3 +280,7 @@
   url: https://blog.openpolicyagent.org/enhanced-type-checking-for-opa-with-json-schema-annotations-826acb0f575
   type: adoption
   summary: The OPA policy-based control platform 0.27.0 and newer support statically type-checking Rego policy code using JSON Schema
+- title: Serverless
+  url: https://www.serverless.com/framework/docs/configuration-validation/
+  type: adoption
+  summary: The Serverless framework validates service configuration files using JSON Schema
