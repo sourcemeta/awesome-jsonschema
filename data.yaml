@@ -292,3 +292,7 @@
   url: https://blog.heroku.com/json_schema_for_heroku_platform_api
   type: adoption
   summary: Heroku makes use of JSON Schema to publish machine-readable schema definitions for their public APIs
+- title: DocSpring
+  url: https://docspring.com/docs/api/get_template_schema.html
+  type: adoption
+  summary: The DocSpring service to automatically fill out PDF forms supports generating JSON Schema definitions for user-created templates

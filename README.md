@@ -54,6 +54,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [Confluent Schema Registry](https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-json.html) - JSON Schema can be configured with the Apache Kafka Java client and console tools to fail if the payload is not valid for the given schema
 - [Contentstack](https://www.contentstack.com/docs/developers/create-content-types/json-schema-for-creating-a-content-type/) - The Contentstack CMS platform supports creating content types using JSON Schema
 - [Decisions](https://documentation.decisions.com/docs/create-types-json-schema) - The Decisions rules-driven business process automation platform support using JSON Schema to generate JSON deserializers
+- [DocSpring](https://docspring.com/docs/api/get_template_schema.html) - The DocSpring service to automatically fill out PDF forms supports generating JSON Schema definitions for user-created templates
 - [Drupal Patternkit](https://www.drupal.org/project/patternkit) - The Drupal Patternkit module uses JSON Schema to define pattern templates
 - [Form.io](https://www.form.io/article/angular-json-schema-form-builder) - The Form.io online web form generator supports generating Angular.js forms using JSON Schema
 - [Genomic Data Commons](https://gdc.cancer.gov/developers/gdc-data-model) - The Genomic Data Commons data model is defined using JSON Schema
@@ -91,10 +92,10 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
 - (2019) [PHP With MySQL](https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html) - A practical tutorial on expressing JSON Schema table constraints on MySQL
-- (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
+- (2020) [Validating and documenting JSON with JSON Schema](https://www.mscharhag.com/api-design/json-schema) - Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
 - (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
 - (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
-- (2020) [Validating and documenting JSON with JSON Schema](https://www.mscharhag.com/api-design/json-schema) - Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
+- (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
 - (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
 
 ## Specifications
