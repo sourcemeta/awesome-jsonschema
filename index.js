@@ -4,7 +4,7 @@ const handlebars = require('handlebars')
 const yaml = require('js-yaml')
 const Ajv = require('ajv/dist/2020')
 const addFormats = require('ajv-formats')
-require('handlebars-helpers')({ handlebars })
+const helpers = require('handlebars-helpers')({ handlebars })
 
 const SCHEMA = require('./schema.json')
 
@@ -43,7 +43,9 @@ const template = fs.readFileSync(path.resolve(__dirname, 'template.hbs'), 'utf8'
 console.error('Generating README...')
 const output = handlebars.compile(template)({
   data: DATA,
-  yearCompare: (a, b) => b.year - a.year
+  reverseSortBy: (...args) => {
+    return helpers.sortBy(...args).reverse()
+  }
 })
 fs.writeFileSync(path.resolve(__dirname, 'README.md'), output)
 console.error('Done!')
