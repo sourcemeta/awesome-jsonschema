@@ -246,3 +246,7 @@
   url: https://developer.walmart.com/documentation/item-object-v4-0/
   type: adoption
   summary: Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform
+- title: Retool
+  url: https://docs.retool.com/docs/working-with-json-schema-form
+  type: adoption
+  summary: The Retool no-code platform supports generating web forms using JSON Schema
