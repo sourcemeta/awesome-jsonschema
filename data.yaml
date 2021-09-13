@@ -284,3 +284,7 @@
   url: https://www.serverless.com/framework/docs/configuration-validation/
   type: adoption
   summary: The Serverless framework validates service configuration files using JSON Schema
+- title: Snowplow
+  url: https://docs.snowplowanalytics.com/docs/understanding-tracking-design/understanding-schemas-and-validation/
+  type: adoption
+  summary: The Snowplow analytics platform support using JSON Schema to define the structure of the data to collect
