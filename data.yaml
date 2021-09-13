@@ -258,3 +258,7 @@
   url: https://www.form.io/article/angular-json-schema-form-builder
   type: adoption
   summary: The Form.io online web form generator supports generating Angular.js forms using JSON Schema
+- title: Cloudflare
+  url: https://blog.cloudflare.com/cloudflares-json-powered-documentation-generator/
+  type: adoption
+  summary: The Cloudflare makes use of JSON Schema and Hyper Schema to keep track of their API endpoints
