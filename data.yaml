@@ -242,7 +242,7 @@
   url: https://github.com/smart-data-models
   type: adoption
   summary: The Smart Data Models GitHub organization makes use of JSON Schema to describe harmonized Data Models for different Smart Domains
-- title: Walmart
+- title: Walmart eCommerce
   url: https://developer.walmart.com/documentation/item-object-v4-0/
   type: adoption
   summary: Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform
@@ -250,3 +250,7 @@
   url: https://docs.retool.com/docs/working-with-json-schema-form
   type: adoption
   summary: The Retool no-code platform supports generating web forms using JSON Schema
+- title: Adobe Experience Manager
+  url: https://experienceleague.adobe.com/docs/experience-manager-65/forms/adaptive-forms-advanced-authoring/adaptive-form-json-schema-form-model.html?lang=en
+  type: adoption
+  summary: The Adobe Experience Manager content management solution for building websites, mobile apps and forms supports creating adaptative forms using JSON Schema
