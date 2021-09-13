@@ -70,6 +70,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
 - [MuleSoft](https://docs.mulesoft.com/json-module/2.1/json-schema-validation) - The MuleSoft integration framework supports validating a JSON document against a JSON Schema
 - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html) - MySQL 8.0.17 and later support table constraints to validate a JSON document against a JSON Schema
+- [Nakadi](https://nakadi.io) - The Nakadi open-source distributed event bus supports defining event types with JSON Schema
 - [Open Policy Agent (OPA)](https://blog.openpolicyagent.org/enhanced-type-checking-for-opa-with-json-schema-annotations-826acb0f575) - The OPA policy-based control platform 0.27.0 and newer support statically type-checking Rego policy code using JSON Schema
 - [Ory Kratos](https://www.ory.sh/kratos/docs/reference/json-schema-json-paths/) - The Ory Kratos identity &amp; user management product relies on JSON Schema from configuration validation, documentation generation for defining identity schemas
 - [Postman](https://learning.postman.com/docs/writing-scripts/script-references/test-examples/) - The Postman API platform supports running JSON Schema validation in API tests

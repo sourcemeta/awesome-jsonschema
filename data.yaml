@@ -296,3 +296,7 @@
   url: https://docspring.com/docs/api/get_template_schema.html
   type: adoption
   summary: The DocSpring service to automatically fill out PDF forms supports generating JSON Schema definitions for user-created templates
+- title: Nakadi
+  url: https://nakadi.io
+  type: adoption
+  summary: The Nakadi open-source distributed event bus supports defining event types with JSON Schema
