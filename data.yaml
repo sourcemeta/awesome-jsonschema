@@ -276,3 +276,7 @@
   url: https://docs.lightblue.io/standards/json_schema.html
   type: adoption
   summary: The Lightblue document based data access layer framework uses JSON Schema to define certain file resources in the project
+- title: Open Policy Agent (OPA)
+  url: https://blog.openpolicyagent.org/enhanced-type-checking-for-opa-with-json-schema-annotations-826acb0f575
+  type: adoption
+  summary: The OPA policy-based control platform 0.27.0 and newer support statically type-checking Rego policy code using JSON Schema
