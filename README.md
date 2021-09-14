@@ -129,6 +129,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Articles
 
+- (2021) [Modeling a file system with JSON Schema](https://json-schema.org/learn/file-system.html) - This example shows a possible JSON Schema representation of file system mount points as represented in an /etc/fstab file
 - (2021) [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) - A close look at bundling and de-referencing JSON Schema documents
 - (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
 - (2020) [How to Integrate &quot;React JSON Schema Form&quot; into a Redux and Typescript Project](https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/) - Adding a form using &quot;React JSON Schema Form&quot; and integrating it with Redux and Typescript

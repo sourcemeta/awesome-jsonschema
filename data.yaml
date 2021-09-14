@@ -53,6 +53,12 @@
   year: 2021
   type: article
   summary: A close look at bundling and de-referencing JSON Schema documents
+- title: Modeling a file system with JSON Schema
+  url: https://json-schema.org/learn/file-system.html
+  year: 2021
+  type: article
+  summary: This example shows a possible JSON Schema representation of file system mount points as represented in an /etc/fstab file
+
 - title: JSON Schema Validator, Generator & Editor Guide
   url: https://stoplight.io/json-guide/
   year: 2018
