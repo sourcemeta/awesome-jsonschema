@@ -40,6 +40,8 @@ npm start
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+- [Papers](#papers)
+- [Tools](#tools)
 
 ## Official
 
@@ -105,6 +107,14 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "video"}}
+- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
+## Papers
+
+{{#each (reverseSortBy data "year")}}
+{{#compare type "==" "paper"}}
 - ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}

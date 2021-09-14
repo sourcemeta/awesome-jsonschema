@@ -438,3 +438,8 @@
   type: vocabulary
   summary: Keywords to annotate JSON documents with hyperlinks. These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
 
+- title: Type Safety with JSON Subschema
+  url: https://arxiv.org/abs/1911.12651
+  year: 2020
+  type: paper
+  summary: Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers

@@ -40,6 +40,8 @@ npm start
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+- [Papers](#papers)
+- [Tools](#tools)
 
 ## Official
 
@@ -158,6 +160,10 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2019) [What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example](https://www.youtube.com/watch?v=hGXxXyJmaUo) - An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
 - (2019) [JSON Schema Validation: How to Validate JSON Schema with Postman?](https://www.youtube.com/watch?v=X072eKtOIio) - An introduction to JSON Schema and how to use it in Postman
 
+## Papers
+
+- (2020) [Type Safety with JSON Subschema](https://arxiv.org/abs/1911.12651) - Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
+
 ## Tools
 
 *A collection of open-source tools to work with JSON Schema official and
@@ -167,10 +173,10 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 - (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
-- (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
-- (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
-- (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
 - (JavaScript) [Cambria](https://www.inkandswitch.com/cambria.html) - Cambria is a library for implementing schema evolution for JSON and JSON Schema in the context of local-first distributed systems
+- (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
+- (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
+- (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
 - (PHP) [Opis JSON Schema](https://github.com/opis/json-schema) - A JSON Schema validator for PHP
 - (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
 
