@@ -127,6 +127,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
 - (2018) [Definitions for filtering properties in JSON schema](https://gist.github.com/LucianBuzzo/5ff9106ce3ae12fb58e4def572b9344d) - An introduction to the problem of using JSON Schema for data filtering and querying purposes
+- (2017) [Getting started with JSON Hyper-Schema](https://apisyouwonthate.com/blog/getting-started-with-json-hyper-schema) - An introduction to the Hyper-Schema JSON Schema vocabulary
 - (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
 
 ## Specifications
