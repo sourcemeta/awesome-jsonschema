@@ -507,3 +507,9 @@
   year: 2012
   type: paper
   summary: This paper presents, firstly, a semi-automatic approach to extract schema information from instance data. Secondly, transformations of the derived schemas to different technical spaces are utilized, thereby allowing, amongst other benefits, the application of established integration tools and methods. Finally, as a case study, schemas are derived for Facebook, Google+, and LinkedIn
+
+- title: Example-Driven Web API Specification Discovery
+  url: https://link.springer.com/chapter/10.1007/978-3-319-61482-3_16
+  year: 2017
+  type: paper
+  summary: In this paper we present an example-driven discovery process that generates model-based OpenAPI specifications for REST Web APIs by using API call examples. A tool implementing our approach and a community-driven repository for the discovered APIs are also presented
