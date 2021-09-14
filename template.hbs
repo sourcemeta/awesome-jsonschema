@@ -33,6 +33,7 @@ npm start
 ## Table of Contents
 
 - [Official](#official)
+- [Vocabularies](#vocabularies)
 - [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
@@ -44,6 +45,14 @@ npm start
 
 {{#each (sortBy data "title")}}
 {{#compare type "==" "official"}}
+- [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
+## Vocabularies
+
+{{#each (sortBy data "title")}}
+{{#compare type "==" "vocabulary"}}
 - [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}

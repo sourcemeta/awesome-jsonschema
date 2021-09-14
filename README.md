@@ -33,6 +33,7 @@ npm start
 ## Table of Contents
 
 - [Official](#official)
+- [Vocabularies](#vocabularies)
 - [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
@@ -50,6 +51,17 @@ npm start
 - [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - The official test suite for JSON Schema implementations
 - [Twitter](https://twitter.com/jsonschema) - The Twitter account of the JSON Schema project
 - [Website](https://json-schema.org) - The official website of the JSON Schema project
+
+## Vocabularies
+
+- [JSON Schema 2020-12 Applicator](https://json-schema.org/draft/2020-12/vocab/applicator) - Applicator keywords that are recommended for use as the basis of other vocabularies
+- [JSON Schema 2020-12 Content](https://json-schema.org/draft/2020-12/vocab/content) - Annotations keywords that indicate that an instance contains non-JSON data encoded in a JSON string
+- [JSON Schema 2020-12 Core](https://json-schema.org/draft/2020-12/vocab/core) - Keywords that are either required in order to process any schema or meta-schema, including those split across multiple documents, or exist to reserve keywords for purposes that require guaranteed interoperability
+- [JSON Schema 2020-12 Format Annotation](https://json-schema.org/draft/2020-12/vocab/format-annotation) - An annotation keyword defined to allow schema authors to convey semantic information for a fixed subset of values which are accurately described by authoritative resources
+- [JSON Schema 2020-12 Format Assertion](https://json-schema.org/draft/2020-12/vocab/format-assertion) - An assertion keyword defined to allow schema authors to convey semantic information for a fixed subset of values which are accurately described by authoritative resources
+- [JSON Schema 2020-12 Meta-Data](https://json-schema.org/draft/2020-12/vocab/meta-data) - These general-purpose annotation keywords provide commonly used information for documentation and user interface display purposes
+- [JSON Schema 2020-12 Unevaluated](https://json-schema.org/draft/2020-12/vocab/unevaluated) - Keywords that enable schema authors to apply subschemas to array items or object properties that have not been successfully evaluated against any dynamic-scope subschema of any adjacent keywords
+- [JSON Schema 2020-12 Validation](https://json-schema.org/draft/2020-12/vocab/validation) - Validation keywords in a schema impose requirements for successful validation of an instance. These keywords are all assertions without any annotation behavior
 
 ## Adoption
 

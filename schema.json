@@ -41,7 +41,7 @@
         "required": [ "type" ],
         "properties": {
           "type": {
-            "enum": [ "adoption", "official" ]
+            "enum": [ "adoption", "official", "vocabulary" ]
           }
         }
       },

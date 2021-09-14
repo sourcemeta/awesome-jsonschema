@@ -366,3 +366,36 @@
   url: https://stackoverflow.com/questions/tagged/jsonschema
   type: official
   summary: The JSON Schema tag in StackOverflow
+
+- title: JSON Schema 2020-12 Core
+  url: https://json-schema.org/draft/2020-12/vocab/core
+  type: vocabulary
+  summary: Keywords that are either required in order to process any schema or meta-schema, including those split across multiple documents, or exist to reserve keywords for purposes that require guaranteed interoperability
+- title: JSON Schema 2020-12 Applicator
+  url: https://json-schema.org/draft/2020-12/vocab/applicator
+  type: vocabulary
+  summary: Applicator keywords that are recommended for use as the basis of other vocabularies
+- title: JSON Schema 2020-12 Unevaluated
+  url: https://json-schema.org/draft/2020-12/vocab/unevaluated
+  type: vocabulary
+  summary: Keywords that enable schema authors to apply subschemas to array items or object properties that have not been successfully evaluated against any dynamic-scope subschema of any adjacent keywords
+- title: JSON Schema 2020-12 Validation
+  url: https://json-schema.org/draft/2020-12/vocab/validation
+  type: vocabulary
+  summary: Validation keywords in a schema impose requirements for successful validation of an instance. These keywords are all assertions without any annotation behavior
+- title: JSON Schema 2020-12 Format Annotation
+  url: https://json-schema.org/draft/2020-12/vocab/format-annotation
+  type: vocabulary
+  summary: An annotation keyword defined to allow schema authors to convey semantic information for a fixed subset of values which are accurately described by authoritative resources
+- title: JSON Schema 2020-12 Format Assertion
+  url: https://json-schema.org/draft/2020-12/vocab/format-assertion
+  type: vocabulary
+  summary: An assertion keyword defined to allow schema authors to convey semantic information for a fixed subset of values which are accurately described by authoritative resources
+- title: JSON Schema 2020-12 Content
+  url: https://json-schema.org/draft/2020-12/vocab/content
+  type: vocabulary
+  summary: Annotations keywords that indicate that an instance contains non-JSON data encoded in a JSON string
+- title: JSON Schema 2020-12 Meta-Data
+  url: https://json-schema.org/draft/2020-12/vocab/meta-data
+  type: vocabulary
+  summary: These general-purpose annotation keywords provide commonly used information for documentation and user interface display purposes
