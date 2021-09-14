@@ -137,6 +137,30 @@
   type: spec
   summary: The JSON:API 1.0 and later specifications for building APIs in JSON use JSON Schema to define JSON:API responses
 
+- title: JSON Schema Core 2020-12
+  url: https://json-schema.org/draft/2020-12/json-schema-core.html
+  year: 2020
+  type: spec
+  summary: JSON Schema defines the media type "application/schema+json", a JSON-based format for describing the structure of JSON data. JSON Schema asserts what a JSON document must look like, ways to extract information from it, and how to interact with it. The "application/schema-instance+json" media type provides additional feature-rich integration with "application/schema+json" beyond what can be offered for "application/json" documents
+
+- title: JSON Schema Validation 2020-12
+  url: https://json-schema.org/draft/2020-12/json-schema-validation.html
+  year: 2020
+  type: spec
+  summary: JSON Schema (application/schema+json) has several purposes, one of which is JSON instance validation. This document specifies a vocabulary for JSON Schema to describe the meaning of JSON documents, provide hints for user interfaces working with JSON data, and to make assertions about what a valid document must look like
+
+- title: Relative JSON Pointers
+  url: https://json-schema.org/draft/2020-12/relative-json-pointer.html
+  year: 2020
+  type: spec
+  summary: JSON Pointer is a syntax for specifying locations in a JSON document, starting from the document root. This document defines an extension to the JSON Pointer syntax, allowing relative locations from within the document
+
+- title: JSON Hyper-Schema
+  url: https://datatracker.ietf.org/doc/html/draft-handrews-json-schema-hyperschema-02
+  year: 2019
+  type: spec
+  summary: JSON Schema is a JSON-based format for describing JSON data using various vocabularies.  This document specifies a vocabulary for annotating JSON documents with hyperlinks.  These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
+
 - title: MongoDB
   url: https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/
   type: adoption
