@@ -131,11 +131,6 @@
   year: 2021
   type: spec
   summary: This document introduces an RDF vocabulary for JSON schema definitions. This vocabulary provides a stable namespace IRI for JSON schema keywords, as well as simple axioms, defined against schema.org's meta-model. Various examples on how to use the vocabulary are also introduced, e.g. to annotate schemas with JSON-LD metadata or to embed schema annotations inside RDF graphs
-- title: JSON:API
-  url: https://jsonapi.org
-  year: 2015
-  type: spec
-  summary: The JSON:API 1.0 and later specifications for building APIs in JSON use JSON Schema to define JSON:API responses
 
 - title: JSON Schema Core 2020-12
   url: https://json-schema.org/draft/2020-12/json-schema-core.html
@@ -161,6 +156,10 @@
   type: spec
   summary: JSON Schema is a JSON-based format for describing JSON data using various vocabularies.  This document specifies a vocabulary for annotating JSON documents with hyperlinks.  These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
 
+- title: JSON:API
+  url: https://github.com/json-api/json-api/blob/a0296352b6eb57a4ea3eb08a1332e311f78adafa/schema
+  type: adoption
+  summary: The JSON:API 1.0 and later specifications for building APIs in JSON use JSON Schema to define JSON:API responses
 - title: MongoDB
   url: https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/
   type: adoption
