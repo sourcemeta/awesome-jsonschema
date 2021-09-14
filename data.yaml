@@ -531,3 +531,9 @@
   year: 2015
   type: paper
   summary: Rather than designing the schema up front, extracting a schema in hindsight can be seen as a reverse-engineering step. Based on the extracted schema information, we propose set of similarity measures that capture the degree of heterogeneity of JSON data and which reveal structural outliers in the data
+
+- title: Definition of REST web services with JSON schema
+  url: https://dl.acm.org/doi/abs/10.1002/spe.2466
+  year: 2017
+  type: paper
+  summary: The aim of this article is to demonstrate how JSON Schema, and particularly the JSON Hyper Schema extension, is suitable to describe JSON-based web services that follow the REST architectural pattern
