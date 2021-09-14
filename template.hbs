@@ -33,9 +33,9 @@ npm start
 ## Table of Contents
 
 - [Official](#official)
+- [Getting Started](#getting-started)
 - [Vocabularies](#vocabularies)
 - [Adoption](#adoption)
-- [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Specifications](#specifications)
 - [Books](#books)
@@ -49,6 +49,14 @@ npm start
 {{#each (sortBy data "title")}}
 {{#compare type "==" "official"}}
 - [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
+## Getting Started
+
+{{#each (reverseSortBy data "year")}}
+{{#compare type "==" "tutorial"}}
+- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}
 
@@ -69,14 +77,6 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 {{#each (sortBy data "title")}}
 {{#compare type "==" "adoption"}}
 - [{{title}}]({{{url}}}) - {{summary}}
-{{/compare}}
-{{/each}}
-
-## Tutorials
-
-{{#each (reverseSortBy data "year")}}
-{{#compare type "==" "tutorial"}}
-- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}
 

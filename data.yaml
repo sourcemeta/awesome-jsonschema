@@ -131,6 +131,18 @@
   type: tutorial
   summary: An introduction to the Hyper-Schema JSON Schema vocabulary
 
+- title: "JSON Schema: Getting Started Step-By-Step"
+  url: https://json-schema.org/learn/getting-started-step-by-step.html
+  year: 2021
+  type: tutorial
+  summary: A comprehensive introduction to JSON Schema
+
+- title: Understanding JSON Schema
+  url: https://json-schema.org/understanding-json-schema/
+  year: 2021
+  type: tutorial
+  summary: An in-depth guide to JSON Schema
+
 - title: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
   year: 2021
