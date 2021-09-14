@@ -1,11 +1,20 @@
 ---
-name: ":link: Share a link"
+name: Awesome Link
 about: Add an awesome link to the list
 title: ''
 labels: awesome-link
 assignees: ''
-
----
-
-- **URL:**
-- **Summary:**
+body:
+  - type: input
+    id: url
+    attributes:
+      description: URL
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      description: Summary
+      placeholder: A short summary of the link's content
+    validations:
+      required: true
