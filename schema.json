@@ -51,7 +51,7 @@
         "required": [ "type", "subtype" ],
         "properties": {
           "type": {
-            "enum": [ "tool" ]
+            "const": "library"
           },
           "subtype": {
             "enum": [ "JavaScript", "Rust", "C++", "Java", "PHP" ]

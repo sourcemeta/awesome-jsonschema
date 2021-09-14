@@ -42,7 +42,7 @@ npm start
 - [Courses](#courses)
 - [Videos](#videos)
 - [Papers](#papers)
-- [Tools](#tools)
+- [Libraries](#libraries)
 
 ## Official
 
@@ -174,9 +174,9 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2020) [Type Safety with JSON Subschema](https://arxiv.org/abs/1911.12651) - Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
 - (2019) [What Are Real JSON Schemas Like?](https://link.springer.com/chapter/10.1007/978-3-030-34146-6_9) - A first empirical analysis of a curated collection of real-world JSON Schemas. Knowing what real JSON Schemas are like (to borrow from a title of a related study on DTDs) helps practitioners and researchers in making realistic assumptions when building tools for JSON Schema processing
 
-## Tools
+## Libraries
 
-*A collection of open-source tools to work with JSON Schema official and
+*A collection of open-source libraries to work with JSON Schema official and
 third-party vocabularies. Did we miss any? Did you build a JSON Schema tool?
 [Let us
 know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=awesome-link&template=link.md&title=)*
