@@ -18,3 +18,4 @@ body:
       placeholder: A short summary of the link's content
     validations:
       required: true
+---
