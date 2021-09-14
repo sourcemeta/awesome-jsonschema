@@ -19,8 +19,8 @@ documents.
 
 If you know of a resource discussing JSON Schema or have created a tool or
 website about JSON Schema, [open a GitHub
-issue](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=awesome-link&template=link.md&title=)
-or add it directly to
+issue](https://github.com/jviotti/awesome-jsonschema/issues/new/choose) or add
+it directly to
 [`data.yaml`](https://github.com/jviotti/awesome-jsonschema/blob/master/data.yaml)
 and send a pull request. The README is auto-generated from `data.yaml`. You can
 locally render the README as follows:
@@ -84,7 +84,7 @@ npm start
 
 *Awesome products and companies that adopted JSON Schema. Did we miss any? [Let
 us
-know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=awesome-link&template=link.md&title=)*
+know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=adoption&template=course.md&title=)*
 
 - [Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-65/forms/adaptive-forms-advanced-authoring/adaptive-form-json-schema-form-model.html?lang=en) - The Adobe Experience Manager content management solution for building websites, mobile apps and forms supports creating adaptative forms using JSON Schema
 - [Amazon EventBridge Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-eventbridge-schema-registry-announces-support-for-json-schema/) - Amazon EventBridge Schema Registry has support for JSON Schema, allowing customers to validate, annotate, and manipulate JSON documents conforming to JSON Schema Draft 4 specification
@@ -193,7 +193,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 *A collection of open-source libraries to work with JSON Schema official and
 third-party vocabularies. Did we miss any? Did you build a JSON Schema tool?
 [Let us
-know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=awesome-link&template=link.md&title=)*
+know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=library&template=library.md&title=)*
 
 - (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 - (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
