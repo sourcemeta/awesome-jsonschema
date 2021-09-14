@@ -443,3 +443,22 @@
   year: 2020
   type: paper
   summary: Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
+
+- title: What Are Real JSON Schemas Like?
+  url: https://link.springer.com/chapter/10.1007/978-3-030-34146-6_9
+  year: 2019
+  type: paper
+  summary: A first empirical analysis of a curated collection of real-world JSON Schemas. Knowing what real JSON Schemas are like (to borrow from a title of a related study on DTDs) helps practitioners and researchers in making realistic assumptions when building tools for JSON Schema processing
+
+- title: Challenges in Checking JSON Schema Containment over Evolving Real-World Schemas
+  url: https://link.springer.com/chapter/10.1007/978-3-030-65847-2_20
+  year: 2020
+  type: paper
+  summary: This paper presents the results of an empirical study of the first generation of tools for checking JSON Schema containment which is applied to a diverse collection of over 230 real-world schemas and their altogether 1k historic versions
+
+- title: JSON Schema Inference Approaches
+  url: https://link.springer.com/chapter/10.1007/978-3-030-65847-2_16
+  year: 2020
+  type: paper
+  summary: In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
+
