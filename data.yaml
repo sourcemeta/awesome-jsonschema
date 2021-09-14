@@ -48,6 +48,11 @@
   year: 2020
   type: article
   summary: A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
+- title: JSON Schema bundling finally formalised
+  url: https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
+  year: 2021
+  type: article
+  summary: A close look at bundling and de-referencing JSON Schema documents
 - title: JSON Schema Validator, Generator & Editor Guide
   url: https://stoplight.io/json-guide/
   year: 2018
