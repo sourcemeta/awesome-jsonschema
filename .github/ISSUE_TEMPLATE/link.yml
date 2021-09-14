@@ -3,13 +3,11 @@ description: Add an awesome link to the list
 labels: link
 body:
   - type: input
-    id: url
     attributes:
       label: Paste the awesome URL here
     validations:
       required: true
   - type: textarea
-    id: summary
     attributes:
       label: Summary
     validations:
