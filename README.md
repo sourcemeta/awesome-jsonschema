@@ -164,6 +164,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - (2021) [JSON Schema Validation in Postman](https://www.youtube.com/watch?v=8BfshV5n6ac) - An tutorial of performing JSON Schema validation in Postman in API tests
 - (2021) [Configuring Umbraco on .NET Core - JSON Schema](https://www.youtube.com/watch?v=rpUg-oySw8g) - Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json using SchemaStore
+- (2021) [API Storytelling with Ben Hutton](https://www.youtube.com/watch?v=4xbA82lo_lc) - This episode we sit down with Ben Hutton, the lead behind the JSON Schema community to talk about vocabularies and other ways we validate and annotate how we tell stories we tell in the API space
 - (2020) [What is JSON Schema](https://www.youtube.com/watch?v=kK-_gL7Vsc0) - A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document
 - (2019) [What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example](https://www.youtube.com/watch?v=hGXxXyJmaUo) - An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
 - (2019) [JSON Schema Validation: How to Validate JSON Schema with Postman?](https://www.youtube.com/watch?v=X072eKtOIio) - An introduction to JSON Schema and how to use it in Postman

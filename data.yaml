@@ -13,6 +13,11 @@
   year: 2021
   type: video
   summary: Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json using SchemaStore
+- title: API Storytelling with Ben Hutton
+  url: https://www.youtube.com/watch?v=4xbA82lo_lc
+  year: 2021
+  type: video
+  summary: This episode we sit down with Ben Hutton, the lead behind the JSON Schema community to talk about vocabularies and other ways we validate and annotate how we tell stories we tell in the API space
 - title: What is JSON Schema
   url: https://www.youtube.com/watch?v=kK-_gL7Vsc0
   year: 2020
