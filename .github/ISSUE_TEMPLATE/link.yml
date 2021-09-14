@@ -1,18 +1,16 @@
 name: Link
 description: Add an awesome link to the list
-title: ''
-labels: awesome-link
+labels: link
 body:
   - type: input
     id: url
     attributes:
-      description: URL
+      label: Paste the awesome URL here
     validations:
       required: true
   - type: textarea
     id: summary
     attributes:
-      description: Summary
-      placeholder: A short summary of the link's content
+      label: Summary
     validations:
       required: true
