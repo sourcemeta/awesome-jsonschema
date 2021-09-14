@@ -484,3 +484,9 @@
   url: https://jsonschema.dev
   type: tool
   summary: An online JSON Schema validator created by the JSON Schema specification lead
+
+- title: Top-Down Model-Driven Engineering of Web Services from Extended OpenAPI Models
+  url: https://ieeexplore.ieee.org/abstract/document/9000020
+  year: 2018
+  type: paper
+  summary: Shows how OpenAPI can be extended to add implementation details inside models. These extensions link services to assemblies of components that describe computations. Hence a top-down development process that keeps model and implementation aligned
