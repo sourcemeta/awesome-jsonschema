@@ -46,7 +46,7 @@
 - title: JSON Schema Tutorial
   url: https://www.w3resource.com/JSON/JSON-Schema.php
   year: 2020
-  type: article
+  type: tutorial
   summary: A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
 - title: JSON Schema bundling finally formalised
   url: https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
@@ -61,22 +61,22 @@
 - title: "REST API Tutorial: JSON Schema"
   url: https://restfulapi.net/json-schema/
   year: 2019
-  type: article
+  type: tutorial
   summary: An short introduction to JSON Schema validation
 - title: "TutorialsPoint: JSON Schema"
   url: https://www.tutorialspoint.com/json/json_schema.htm
   year: 2013
-  type: article
+  type: tutorial
   summary: A short introduction to JSON Schema Draft4 validation
 - title: "An introduction to JSON Schema"
   url: https://medium.com/swlh/an-introduction-to-json-schema-8eaea643fcda
   year: 2020
-  type: article
+  type: tutorial
   summary: An introduction to JSON Schema covering its history, common keywords and how to use the AJV validator
 - title: "Introduction to JSON Schema in Java"
   url: https://www.baeldung.com/introduction-to-json-schema-in-java
   year: 2021
-  type: article
+  type: tutorial
   summary: A short introduction to validating JSON documents with JSON Schema in Java
 - title: "Using the JSON Schema standard for scientific applications?"
   url: https://cerfacs.fr/coop/json-schema-for-sci-apps
@@ -96,8 +96,8 @@
 - title: "Validating and documenting JSON with JSON Schema"
   url: https://www.mscharhag.com/api-design/json-schema
   year: 2020
-  type: article
-  summary: Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
+  type: tutorial
+  summary: An introduction to JSON Schema by example by showing an annotated JSON Schema that validates an example document
 - title: How to Integrate "React JSON Schema Form" into a Redux and Typescript Project
   url: https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/
   year: 2020
@@ -128,7 +128,7 @@
 - title: Getting started with JSON Hyper-Schema
   url: https://apisyouwonthate.com/blog/getting-started-with-json-hyper-schema
   year: 2017
-  type: article
+  type: tutorial
   summary: An introduction to the Hyper-Schema JSON Schema vocabulary
 
 - title: JSON Schema in RDF

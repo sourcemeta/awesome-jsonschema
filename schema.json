@@ -31,7 +31,7 @@
         "required": [ "year", "type" ],
         "properties": {
           "type": {
-            "enum": [ "book", "video", "course", "article", "spec", "paper" ]
+            "enum": [ "book", "video", "course", "article", "spec", "paper", "tutorial" ]
           }
         }
       },

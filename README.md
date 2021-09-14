@@ -35,6 +35,7 @@ npm start
 - [Official](#official)
 - [Vocabularies](#vocabularies)
 - [Adoption](#adoption)
+- [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Specifications](#specifications)
 - [Books](#books)
@@ -114,32 +115,35 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [Walmart eCommerce](https://developer.walmart.com/documentation/item-object-v4-0/) - Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform
 - [nf-core](https://nf-co.re/tools/#pipeline-schema) - The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows
 
+## Tutorials
+
+- (2021) [Introduction to JSON Schema in Java](https://www.baeldung.com/introduction-to-json-schema-in-java) - A short introduction to validating JSON documents with JSON Schema in Java
+- (2020) [Validating and documenting JSON with JSON Schema](https://www.mscharhag.com/api-design/json-schema) - An introduction to JSON Schema by example by showing an annotated JSON Schema that validates an example document
+- (2020) [JSON Schema Tutorial](https://www.w3resource.com/JSON/JSON-Schema.php) - A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
+- (2020) [An introduction to JSON Schema](https://medium.com/swlh/an-introduction-to-json-schema-8eaea643fcda) - An introduction to JSON Schema covering its history, common keywords and how to use the AJV validator
+- (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
+- (2017) [Getting started with JSON Hyper-Schema](https://apisyouwonthate.com/blog/getting-started-with-json-hyper-schema) - An introduction to the Hyper-Schema JSON Schema vocabulary
+- (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
+
 ## Articles
 
 - (2021) [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) - A close look at bundling and de-referencing JSON Schema documents
-- (2021) [Introduction to JSON Schema in Java](https://www.baeldung.com/introduction-to-json-schema-in-java) - A short introduction to validating JSON documents with JSON Schema in Java
-- (2020) [Validating and documenting JSON with JSON Schema](https://www.mscharhag.com/api-design/json-schema) - Introduce JSON Schema by example by showing an annotated JSON Schema that validates an example document
-- (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
-- (2020) [JSON Schema Tutorial](https://www.w3resource.com/JSON/JSON-Schema.php) - A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
-- (2020) [How to Integrate &quot;React JSON Schema Form&quot; into a Redux and Typescript Project](https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/) - Adding a form using &quot;React JSON Schema Form&quot; and integrating it with Redux and Typescript
-- (2020) [Building a No-Code JSON Schema Form Builder with ReactJS](https://www.ginkgobioworks.com/2020/10/08/building-a-no-code-json-schema-form-builder/) - An update on the additional features implemented in the react-json-schema-form-builder open-source JSON Schema form builder project
 - (2020) [Azure Pipelines autocomplete in PyCharm, IntelliJ, WebStorm, CLion, and Rider](https://tonybaloney.github.io/posts/azure-pipelines-autocomplete-in-pycharm.html) - Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax highlighting and validation support of Azure Pipelines workflows
-- (2020) [An introduction to JSON Schema](https://medium.com/swlh/an-introduction-to-json-schema-8eaea643fcda) - An introduction to JSON Schema covering its history, common keywords and how to use the AJV validator
-- (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
-- (2019) [REST API Tutorial: JSON Schema](https://restfulapi.net/json-schema/) - An short introduction to JSON Schema validation
+- (2020) [Building a No-Code JSON Schema Form Builder with ReactJS](https://www.ginkgobioworks.com/2020/10/08/building-a-no-code-json-schema-form-builder/) - An update on the additional features implemented in the react-json-schema-form-builder open-source JSON Schema form builder project
+- (2020) [How to Integrate &quot;React JSON Schema Form&quot; into a Redux and Typescript Project](https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/) - Adding a form using &quot;React JSON Schema Form&quot; and integrating it with Redux and Typescript
+- (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
 - (2019) [PHP With MySQL](https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html) - A practical tutorial on expressing JSON Schema table constraints on MySQL
-- (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
-- (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
+- (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
 - (2018) [Definitions for filtering properties in JSON schema](https://gist.github.com/LucianBuzzo/5ff9106ce3ae12fb58e4def572b9344d) - An introduction to the problem of using JSON Schema for data filtering and querying purposes
-- (2017) [Getting started with JSON Hyper-Schema](https://apisyouwonthate.com/blog/getting-started-with-json-hyper-schema) - An introduction to the Hyper-Schema JSON Schema vocabulary
-- (2013) [TutorialsPoint: JSON Schema](https://www.tutorialspoint.com/json/json_schema.htm) - A short introduction to JSON Schema Draft4 validation
+- (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB
+- (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
 
 ## Specifications
 
 - (2021) [JSON Schema in RDF](https://www.w3.org/2019/wot/json-schema) - This document introduces an RDF vocabulary for JSON schema definitions. This vocabulary provides a stable namespace IRI for JSON schema keywords, as well as simple axioms, defined against schema.org&#x27;s meta-model. Various examples on how to use the vocabulary are also introduced, e.g. to annotate schemas with JSON-LD metadata or to embed schema annotations inside RDF graphs
-- (2020) [JSON Schema Core 2020-12](https://json-schema.org/draft/2020-12/json-schema-core.html) - JSON Schema defines the media type &quot;application/schema+json&quot;, a JSON-based format for describing the structure of JSON data. JSON Schema asserts what a JSON document must look like, ways to extract information from it, and how to interact with it. The &quot;application/schema-instance+json&quot; media type provides additional feature-rich integration with &quot;application/schema+json&quot; beyond what can be offered for &quot;application/json&quot; documents
-- (2020) [JSON Schema Validation 2020-12](https://json-schema.org/draft/2020-12/json-schema-validation.html) - JSON Schema (application/schema+json) has several purposes, one of which is JSON instance validation. This document specifies a vocabulary for JSON Schema to describe the meaning of JSON documents, provide hints for user interfaces working with JSON data, and to make assertions about what a valid document must look like
 - (2020) [Relative JSON Pointers](https://json-schema.org/draft/2020-12/relative-json-pointer.html) - JSON Pointer is a syntax for specifying locations in a JSON document, starting from the document root. This document defines an extension to the JSON Pointer syntax, allowing relative locations from within the document
+- (2020) [JSON Schema Validation 2020-12](https://json-schema.org/draft/2020-12/json-schema-validation.html) - JSON Schema (application/schema+json) has several purposes, one of which is JSON instance validation. This document specifies a vocabulary for JSON Schema to describe the meaning of JSON documents, provide hints for user interfaces working with JSON data, and to make assertions about what a valid document must look like
+- (2020) [JSON Schema Core 2020-12](https://json-schema.org/draft/2020-12/json-schema-core.html) - JSON Schema defines the media type &quot;application/schema+json&quot;, a JSON-based format for describing the structure of JSON data. JSON Schema asserts what a JSON document must look like, ways to extract information from it, and how to interact with it. The &quot;application/schema-instance+json&quot; media type provides additional feature-rich integration with &quot;application/schema+json&quot; beyond what can be offered for &quot;application/json&quot; documents
 - (2019) [JSON Hyper-Schema](https://datatracker.ietf.org/doc/html/draft-handrews-json-schema-hyperschema-02) - JSON Schema is a JSON-based format for describing JSON data using various vocabularies.  This document specifies a vocabulary for annotating JSON documents with hyperlinks.  These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
 
 ## Books
@@ -149,22 +153,22 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Courses
 
-- (2017) [JSON Schema - Crash Course for Beginners](https://www.udemy.com/course/json-schema-crash-course-for-beginners/) - Learn JSON &amp; JSON Schema in a Quick 30-40 minutes &amp; use it for the rest of your life for complex projects
 - (2017) [Processing and Interchanging JSON Data](https://www.linkedin.com/learning/processing-and-interchanging-json-data) - An in-depth guide to working with JSON and the JSON ecosystem including using JSON Schema for validation purposes
+- (2017) [JSON Schema - Crash Course for Beginners](https://www.udemy.com/course/json-schema-crash-course-for-beginners/) - Learn JSON &amp; JSON Schema in a Quick 30-40 minutes &amp; use it for the rest of your life for complex projects
 
 ## Videos
 
-- (2021) [JSON Schema Validation in Postman](https://www.youtube.com/watch?v=8BfshV5n6ac) - An tutorial of performing JSON Schema validation in Postman in API tests
 - (2021) [Configuring Umbraco on .NET Core - JSON Schema](https://www.youtube.com/watch?v=rpUg-oySw8g) - Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json using SchemaStore
+- (2021) [JSON Schema Validation in Postman](https://www.youtube.com/watch?v=8BfshV5n6ac) - An tutorial of performing JSON Schema validation in Postman in API tests
 - (2020) [What is JSON Schema](https://www.youtube.com/watch?v=kK-_gL7Vsc0) - A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document
-- (2019) [What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example](https://www.youtube.com/watch?v=hGXxXyJmaUo) - An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
 - (2019) [JSON Schema Validation: How to Validate JSON Schema with Postman?](https://www.youtube.com/watch?v=X072eKtOIio) - An introduction to JSON Schema and how to use it in Postman
+- (2019) [What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example](https://www.youtube.com/watch?v=hGXxXyJmaUo) - An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
 
 ## Papers
 
-- (2020) [Challenges in Checking JSON Schema Containment over Evolving Real-World Schemas](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_20) - This paper presents the results of an empirical study of the first generation of tools for checking JSON Schema containment which is applied to a diverse collection of over 230 real-world schemas and their altogether 1k historic versions
-- (2020) [JSON Schema Inference Approaches](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_16) - In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
 - (2020) [Type Safety with JSON Subschema](https://arxiv.org/abs/1911.12651) - Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
+- (2020) [JSON Schema Inference Approaches](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_16) - In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
+- (2020) [Challenges in Checking JSON Schema Containment over Evolving Real-World Schemas](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_20) - This paper presents the results of an empirical study of the first generation of tools for checking JSON Schema containment which is applied to a diverse collection of over 230 real-world schemas and their altogether 1k historic versions
 - (2019) [What Are Real JSON Schemas Like?](https://link.springer.com/chapter/10.1007/978-3-030-34146-6_9) - A first empirical analysis of a curated collection of real-world JSON Schemas. Knowing what real JSON Schemas are like (to borrow from a title of a related study on DTDs) helps practitioners and researchers in making realistic assumptions when building tools for JSON Schema processing
 
 ## Tools
@@ -176,10 +180,10 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
 - (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
-- (JavaScript) [Cambria](https://www.inkandswitch.com/cambria.html) - Cambria is a library for implementing schema evolution for JSON and JSON Schema in the context of local-first distributed systems
-- (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
-- (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
 - (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
+- (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
+- (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
+- (JavaScript) [Cambria](https://www.inkandswitch.com/cambria.html) - Cambria is a library for implementing schema evolution for JSON and JSON Schema in the context of local-first distributed systems
 - (PHP) [Opis JSON Schema](https://github.com/opis/json-schema) - A JSON Schema validator for PHP
 - (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
 
