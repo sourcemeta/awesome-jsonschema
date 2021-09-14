@@ -1,5 +1,5 @@
 ---
-name: ":movie_camera: Share a video"
+name: Video
 about: Add an awesome video to the list
 title: ''
 labels: video

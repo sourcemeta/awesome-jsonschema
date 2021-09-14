@@ -1,5 +1,4 @@
----
-name: Awesome Link
+name: Link
 about: Add an awesome link to the list
 title: ''
 labels: awesome-link
@@ -18,4 +17,3 @@ body:
       placeholder: A short summary of the link's content
     validations:
       required: true
----
