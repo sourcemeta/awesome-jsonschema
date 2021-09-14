@@ -1,8 +1,7 @@
 name: Link
-about: Add an awesome link to the list
+description: Add an awesome link to the list
 title: ''
 labels: awesome-link
-assignees: ''
 body:
   - type: input
     id: url
