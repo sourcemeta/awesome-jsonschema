@@ -480,3 +480,7 @@
   type: paper
   summary: In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
 
+- title: JSONSchema.dev
+  url: https://jsonschema.dev
+  type: tool
+  summary: An online JSON Schema validator created by the JSON Schema specification lead

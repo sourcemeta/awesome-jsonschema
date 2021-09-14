@@ -42,6 +42,7 @@ npm start
 - [Courses](#courses)
 - [Videos](#videos)
 - [Papers](#papers)
+- [Tools](#tools)
 - [Libraries](#libraries)
 
 ## Official
@@ -173,6 +174,10 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2020) [JSON Schema Inference Approaches](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_16) - In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
 - (2020) [Type Safety with JSON Subschema](https://arxiv.org/abs/1911.12651) - Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
 - (2019) [What Are Real JSON Schemas Like?](https://link.springer.com/chapter/10.1007/978-3-030-34146-6_9) - A first empirical analysis of a curated collection of real-world JSON Schemas. Knowing what real JSON Schemas are like (to borrow from a title of a related study on DTDs) helps practitioners and researchers in making realistic assumptions when building tools for JSON Schema processing
+
+## Tools
+
+- [JSONSchema.dev](https://jsonschema.dev) - An online JSON Schema validator created by the JSON Schema specification lead
 
 ## Libraries
 
