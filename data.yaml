@@ -399,3 +399,8 @@
   url: https://json-schema.org/draft/2020-12/vocab/meta-data
   type: vocabulary
   summary: These general-purpose annotation keywords provide commonly used information for documentation and user interface display purposes
+- title: Hyper-Schema 2019-09
+  url: https://json-schema.org/draft/2019-09/vocab/hyper-schema
+  type: vocabulary
+  summary: Keywords to annotate JSON documents with hyperlinks. These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
+

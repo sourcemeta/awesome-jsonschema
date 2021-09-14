@@ -54,6 +54,7 @@ npm start
 
 ## Vocabularies
 
+- [Hyper-Schema 2019-09](https://json-schema.org/draft/2019-09/vocab/hyper-schema) - Keywords to annotate JSON documents with hyperlinks. These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
 - [JSON Schema 2020-12 Applicator](https://json-schema.org/draft/2020-12/vocab/applicator) - Applicator keywords that are recommended for use as the basis of other vocabularies
 - [JSON Schema 2020-12 Content](https://json-schema.org/draft/2020-12/vocab/content) - Annotations keywords that indicate that an instance contains non-JSON data encoded in a JSON string
 - [JSON Schema 2020-12 Core](https://json-schema.org/draft/2020-12/vocab/core) - Keywords that are either required in order to process any schema or meta-schema, including those split across multiple documents, or exist to reserve keywords for purposes that require guaranteed interoperability
