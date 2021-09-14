@@ -501,3 +501,9 @@
   year: 2016
   type: paper
   summary: In this paper we provide the first formal definition of syntax and semantics for JSON Schema and use it to show that implementing this layer on top of JSON is feasible in practice
+
+- title: "User profile integration made easy: model-driven extraction and transformation of social network schemas"
+  url: https://dl.acm.org/doi/abs/10.1145/2187980.2188227
+  year: 2012
+  type: paper
+  summary: This paper presents, firstly, a semi-automatic approach to extract schema information from instance data. Secondly, transformations of the derived schemas to different technical spaces are utilized, thereby allowing, amongst other benefits, the application of established integration tools and methods. Finally, as a case study, schemas are derived for Facebook, Google+, and LinkedIn
