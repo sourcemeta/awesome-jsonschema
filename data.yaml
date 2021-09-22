@@ -537,3 +537,9 @@
   year: 2017
   type: paper
   summary: The aim of this article is to demonstrate how JSON Schema, and particularly the JSON Hyper Schema extension, is suitable to describe JSON-based web services that follow the REST architectural pattern
+
+- title: Understanding API Complexity Through Schema Entropy
+  url: https://smizell.com/posts/2021/05/understanding-api-complexity-through-schema-entropy/
+  year: 2021
+  type: article
+  summary: A look at API complexity by analyzing entropy of JSON Schema documents
