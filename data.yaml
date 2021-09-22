@@ -430,6 +430,11 @@
   type: adoption
   summary: The Cloudflare Terraform provider comes with a tool to generate Terraform configuration from existing Cloudflare resources that uses JSON Schema to map data between both technologies
 
+- title: RDA DMP Common Standard for machine-actionable Data Management Plans
+  url: https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard
+  type: adoption
+  summary: The RDA DMP Common Standards Working Group maintains JSON Schemas to validate maDMP JSON documents
+
 - title: Website
   url: https://json-schema.org
   type: official

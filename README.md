@@ -131,6 +131,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [Open Policy Agent (OPA)](https://blog.openpolicyagent.org/enhanced-type-checking-for-opa-with-json-schema-annotations-826acb0f575) - The OPA policy-based control platform 0.27.0 and newer support statically type-checking Rego policy code using JSON Schema
 - [Ory Kratos](https://www.ory.sh/kratos/docs/reference/json-schema-json-paths/) - The Ory Kratos identity &amp; user management product relies on JSON Schema from configuration validation, documentation generation for defining identity schemas
 - [Postman](https://learning.postman.com/docs/writing-scripts/script-references/test-examples/) - The Postman API platform supports running JSON Schema validation in API tests
+- [RDA DMP Common Standard for machine-actionable Data Management Plans](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard) - The RDA DMP Common Standards Working Group maintains JSON Schemas to validate maDMP JSON documents
 - [RESTHeart](https://restheart.org/docs/json-schema-validation/) - RESTHeart supports MongoDB schema validation to enforce a format to documents: rules-based validation from MongoDB 3.2 and Json Schema validation from MongoDB 3.6
 - [Retool](https://docs.retool.com/docs/working-with-json-schema-form) - The Retool no-code platform supports generating web forms using JSON Schema
 - [Serverless](https://www.serverless.com/framework/docs/configuration-validation/) - The Serverless framework validates service configuration files using JSON Schema
