@@ -15,6 +15,13 @@ a vibrant community. JSON Schema is defined by a set of IETF specifications and
 it is the industry-standard for defining the structure and meaning of JSON
 documents.
 
+***
+
+**Interested in JSON Schema? Come join us at the official [JSON Schema Office
+Hours](https://github.com/json-schema-org/community/discussions/34)!**
+
+***
+
 ## Contributing
 
 If you know of a resource discussing JSON Schema or have created a tool or
