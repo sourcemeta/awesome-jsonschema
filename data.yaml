@@ -434,6 +434,10 @@
   url: https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard
   type: adoption
   summary: The RDA DMP Common Standards Working Group maintains JSON Schemas to validate maDMP JSON documents
+- title: NinJS
+  url: https://www.iptc.org/std/ninjs/userguide/
+  type: adoption
+  summary: NinJS standardises the representation of news content in JSON and maintains a JSON Schema document to help validate NinJS implementations
 
 - title: Website
   url: https://json-schema.org
