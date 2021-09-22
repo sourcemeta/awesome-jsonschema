@@ -543,3 +543,9 @@
   year: 2021
   type: article
   summary: A look at API complexity by analyzing entropy of JSON Schema documents
+
+- title: Robustness, Tolerance, and JSON Schema
+  url: https://smizell.com/posts/2021/07/robustness-tolerance-and-json-schema/
+  year: 2021
+  type: article
+  summary: Applying the Robustness Principle and increasing schema entropy when making changes to an API

@@ -131,6 +131,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 ## Articles
 
 - (2021) [Understanding API Complexity Through Schema Entropy](https://smizell.com/posts/2021/05/understanding-api-complexity-through-schema-entropy/) - A look at API complexity by analyzing entropy of JSON Schema documents
+- (2021) [Robustness, Tolerance, and JSON Schema](https://smizell.com/posts/2021/07/robustness-tolerance-and-json-schema/) - Applying the Robustness Principle and increasing schema entropy when making changes to an API
 - (2021) [Modeling a file system with JSON Schema](https://json-schema.org/learn/file-system.html) - This example shows a possible JSON Schema representation of file system mount points as represented in an /etc/fstab file
 - (2021) [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) - A close look at bundling and de-referencing JSON Schema documents
 - (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
