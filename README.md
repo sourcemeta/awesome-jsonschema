@@ -158,6 +158,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Specifications
 
+- (2021) [AsyncAPI](https://www.asyncapi.com/docs/specifications/v2.1.0) - AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). The AsyncAPI supports data modeling using JSON Schema
 - (2021) [JSON Schema in RDF](https://www.w3.org/2019/wot/json-schema) - This document introduces an RDF vocabulary for JSON schema definitions. This vocabulary provides a stable namespace IRI for JSON schema keywords, as well as simple axioms, defined against schema.org&#x27;s meta-model. Various examples on how to use the vocabulary are also introduced, e.g. to annotate schemas with JSON-LD metadata or to embed schema annotations inside RDF graphs
 - (2021) [OpenAPI](https://swagger.io/specification/) - The OpenAPI specification embeds and extends JSON Schema for defining API request and responses
 - (2021) [RAML](https://raml.org) - The RAML specification supports modeling API data using JSON Schema

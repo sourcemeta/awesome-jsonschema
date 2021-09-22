@@ -165,6 +165,12 @@
   type: spec
   summary: The RAML specification supports modeling API data using JSON Schema
 
+- title: AsyncAPI
+  url: https://www.asyncapi.com/docs/specifications/v2.1.0
+  year: 2021
+  type: spec
+  summary: AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). The AsyncAPI supports data modeling using JSON Schema
+
 - title: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
   year: 2021
