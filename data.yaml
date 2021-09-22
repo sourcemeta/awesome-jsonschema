@@ -489,6 +489,22 @@
   url: https://jsonschema.dev
   type: tool
   summary: An online JSON Schema validator created by the JSON Schema specification lead
+- title: Hyperjump JSON Schema Validator
+  url: https://json-schema.hyperjump.io
+  type: tool
+  summary: An online JSON Schema validator that supports Draft 04, 06, 07, 2019-09, and 2020-12
+- title: JSONschema.Net
+  url: https://www.jsonschema.net
+  type: tool
+  summary: An online tool that generates JSON schema from JSON documents
+- title: JSON Schema Validator
+  url: https://www.jsonschemavalidator.net
+  type: tool
+  summary: An online JSON Schema validator with support for JSON Schema Draft 3, Draft 4, Draft 6, Draft 7 and Draft 2019-09
+- title: JSON Schema Validator and Generator
+  url: https://extendsclass.com/json-schema-validator.html
+  type: tool
+  summary: An online JSON Schema validator that can generate JSON Schema from JSON documents and generate random JSON documents from JSON Schema
 
 - title: Top-Down Model-Driven Engineering of Web Services from Extended OpenAPI Models
   url: https://ieeexplore.ieee.org/abstract/document/9000020
