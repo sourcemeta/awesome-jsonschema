@@ -42,6 +42,7 @@ npm start
 - [Official](#official)
 - [Getting Started](#getting-started)
 - [Vocabularies](#vocabularies)
+- [Registries](#registries)
 - [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
@@ -86,6 +87,10 @@ npm start
 - [JSON Schema 2020-12 Meta-Data](https://json-schema.org/draft/2020-12/vocab/meta-data) - These general-purpose annotation keywords provide commonly used information for documentation and user interface display purposes
 - [JSON Schema 2020-12 Unevaluated](https://json-schema.org/draft/2020-12/vocab/unevaluated) - Keywords that enable schema authors to apply subschemas to array items or object properties that have not been successfully evaluated against any dynamic-scope subschema of any adjacent keywords
 - [JSON Schema 2020-12 Validation](https://json-schema.org/draft/2020-12/vocab/validation) - Validation keywords in a schema impose requirements for successful validation of an instance. These keywords are all assertions without any annotation behavior
+
+## Registries
+
+- [SchemaStore](https://www.schemastore.org) - The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found
 
 ## Adoption
 

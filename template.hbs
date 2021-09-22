@@ -42,6 +42,7 @@ npm start
 - [Official](#official)
 - [Getting Started](#getting-started)
 - [Vocabularies](#vocabularies)
+- [Registries](#registries)
 - [Adoption](#adoption)
 - [Articles](#articles)
 - [Specifications](#specifications)
@@ -72,6 +73,14 @@ npm start
 
 {{#each (sortBy data "title")}}
 {{#compare type "==" "vocabulary"}}
+- [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
+## Registries
+
+{{#each (sortBy data "title")}}
+{{#compare type "==" "registry"}}
 - [{{title}}]({{{url}}}) - {{summary}}
 {{/compare}}
 {{/each}}

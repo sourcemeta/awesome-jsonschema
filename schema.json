@@ -48,6 +48,16 @@
       {
         "type": "object",
         "allOf": [ { "$ref": "#/$defs/base-link" } ],
+        "required": [ "type" ],
+        "properties": {
+          "type": {
+            "enum": [ "adoption", "official", "vocabulary", "tool", "registry" ]
+          }
+        }
+      },
+      {
+        "type": "object",
+        "allOf": [ { "$ref": "#/$defs/base-link" } ],
         "required": [ "type", "subtype" ],
         "properties": {
           "type": {

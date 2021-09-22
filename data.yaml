@@ -598,3 +598,8 @@
   year: 2021
   type: article
   summary: Applying the Robustness Principle and increasing schema entropy when making changes to an API
+
+- title: SchemaStore
+  url: https://www.schemastore.org
+  type: registry
+  summary: The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found
