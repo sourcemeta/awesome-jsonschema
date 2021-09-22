@@ -54,7 +54,7 @@
             "const": "library"
           },
           "subtype": {
-            "enum": [ "JavaScript", "Rust", "C++", "Java", "PHP" ]
+            "enum": [ "JavaScript", "Rust", "C++", "Java", "PHP", "Python", "PL/pgSQL" ]
           }
         }
       }

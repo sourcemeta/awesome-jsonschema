@@ -246,6 +246,28 @@
   subtype: JavaScript
   summary: Cambria is a library for implementing schema evolution for JSON and JSON Schema in the context of local-first distributed systems
 
+- title: JSONSchema2DB
+  url: https://better.engineering/jsonschema2db/
+  type: library
+  subtype: Python
+  summary: A simple utility to convert JSON Schemas into relational tables in Postgres/Redshift
+- title: postgres-json-schema
+  url: https://github.com/gavinwahl/postgres-json-schema
+  type: library
+  subtype: PL/pgSQL
+  summary: JSON Schema validation for PostgreSQL with support for Draft 4
+- title: thinkagain
+  url: https://github.com/mbroadst/thinkagain
+  type: library
+  subtype: JavaScript
+  summary: A Node.js ODM for RethinkDB featuring first-class support for JSON schema
+- title: Statham
+  url: https://statham-schema.readthedocs.io
+  type: library
+  subtype: Python
+  summary: A Model Parsing Library for JSON Schema
+
+
 - title: KrakenD
   url: https://www.krakend.io/docs/endpoints/json-schema/
   type: adoption

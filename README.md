@@ -214,7 +214,11 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
 - (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
 - (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
+- (JavaScript) [thinkagain](https://github.com/mbroadst/thinkagain) - A Node.js ODM for RethinkDB featuring first-class support for JSON schema
 - (PHP) [Opis JSON Schema](https://github.com/opis/json-schema) - A JSON Schema validator for PHP
+- (PL/pgSQL) [postgres-json-schema](https://github.com/gavinwahl/postgres-json-schema) - JSON Schema validation for PostgreSQL with support for Draft 4
+- (Python) [JSONSchema2DB](https://better.engineering/jsonschema2db/) - A simple utility to convert JSON Schemas into relational tables in Postgres/Redshift
+- (Python) [Statham](https://statham-schema.readthedocs.io) - A Model Parsing Library for JSON Schema
 - (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
 
 ## Credits
