@@ -154,6 +154,12 @@
   type: tutorial
   summary: An in-depth guide to JSON Schema
 
+- title: OpenAPI
+  url: https://swagger.io/specification/
+  year: 2021
+  type: spec
+  summary: The OpenAPI specification embeds and extends JSON Schema for defining API request and responses
+
 - title: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
   year: 2021
