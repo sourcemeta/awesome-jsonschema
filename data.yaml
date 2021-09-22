@@ -159,6 +159,11 @@
   year: 2021
   type: spec
   summary: The OpenAPI specification embeds and extends JSON Schema for defining API request and responses
+- title: RAML
+  url: https://raml.org
+  year: 2021
+  type: spec
+  summary: The RAML specification supports modeling API data using JSON Schema
 
 - title: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
