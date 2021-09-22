@@ -1,4 +1,5 @@
 const fs = require('fs')
+const util = require('util')
 const path = require('path')
 const handlebars = require('handlebars')
 const yaml = require('js-yaml')
@@ -33,6 +34,15 @@ if (!validateFunction(DATA)) {
     console.error(`- [${error.instancePath}]: ${error.message}`)
   }
   process.exit(1)
+}
+
+for (const item of DATA) {
+  for (const subitem of DATA) {
+    if (!util.isDeepStrictEqual(item, subitem) && item.url === subitem.url) {
+      console.error(`Duplicated URL: ${item.url}`)
+      process.exit(1)
+    }
+  }
 }
 
 /*
