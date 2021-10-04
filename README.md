@@ -171,6 +171,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Books
 
+- (2021) [API by Design](https://smizell.gumroad.com/l/apibydesign) - Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions
 - (2017) [JSON at Work](https://www.oreilly.com/library/view/json-at-work/9781491982389/) - A comprehensive overview of the JSON ecosystem, including JSON Schema
 - (2014) [Using JSON Schema](https://books.apple.com/us/book/using-json-schema/id903248630) - Learn and Apply JSON Schema by Example, with Javascript (Node.js) and Python Programs
 
