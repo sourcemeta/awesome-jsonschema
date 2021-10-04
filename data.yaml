@@ -8,6 +8,12 @@
   year: 2017
   type: book
   summary: A comprehensive overview of the JSON ecosystem, including JSON Schema
+- title: API by Design
+  url: https://smizell.gumroad.com/l/apibydesign
+  year: 2021
+  type: book
+  summary: Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions
+
 - title: Configuring Umbraco on .NET Core - JSON Schema
   url: https://www.youtube.com/watch?v=rpUg-oySw8g
   year: 2021
