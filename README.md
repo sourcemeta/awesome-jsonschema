@@ -214,23 +214,8 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Libraries
 
-*A collection of open-source libraries to work with JSON Schema official and
-third-party vocabularies. Did we miss any? Did you build a JSON Schema tool?
-[Let us
-know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=library&template=library.md&title=)*
-
-- (C++) [RapidJSON](https://rapidjson.org/md_doc_schema.html) - The RapidJSON C++ JSON implementation includes a built-in JSON Schema validator for JSON Schema Draft v4
-- (Java) [Eclipse Vert.x](https://vertx.io/docs/vertx-json-schema/java/) - The Eclipse Vert.x JVM reactive application library provides an extendable and asynchronous JSON Schema implementation
-- (JavaScript) [Cambria](https://www.inkandswitch.com/cambria.html) - Cambria is a library for implementing schema evolution for JSON and JSON Schema in the context of local-first distributed systems
-- (JavaScript) [Formly](https://formly.dev) - The Formly Angular form generator supports generating forms using JSON Schema
-- (JavaScript) [chai-json-schema](https://www.chaijs.com/plugins/chai-json-schema/) - Chai plugin with assertions to validate values against JSON Schema v4
-- (JavaScript) [json-schema-tools](https://github.com/cloudflare/json-schema-tools) - A collection of utilities created by Cloudflare to work with JSON Schema and Hyper Schema including validation, dereferencing, and documentation generation
-- (JavaScript) [thinkagain](https://github.com/mbroadst/thinkagain) - A Node.js ODM for RethinkDB featuring first-class support for JSON schema
-- (PHP) [Opis JSON Schema](https://github.com/opis/json-schema) - A JSON Schema validator for PHP
-- (PL/pgSQL) [postgres-json-schema](https://github.com/gavinwahl/postgres-json-schema) - JSON Schema validation for PostgreSQL with support for Draft 4
-- (Python) [JSONSchema2DB](https://better.engineering/jsonschema2db/) - A simple utility to convert JSON Schemas into relational tables in Postgres/Redshift
-- (Python) [Statham](https://statham-schema.readthedocs.io) - A Model Parsing Library for JSON Schema
-- (Rust) [jsonschema](https://docs.rs/jsonschema/0.8.0/jsonschema/) - A crate for performing fast JSON Schema validation. It is fast due to schema compilation into a validation tree, which reduces runtime costs for working with schema parameters
+The JSON Schema website includes an extensive list of implementations and
+related libraries: https://json-schema.org/implementations.html.
 
 ## Credits
 

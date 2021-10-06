@@ -54,19 +54,6 @@
             "enum": [ "adoption", "official", "vocabulary", "tool", "registry" ]
           }
         }
-      },
-      {
-        "type": "object",
-        "allOf": [ { "$ref": "#/$defs/base-link" } ],
-        "required": [ "type", "subtype" ],
-        "properties": {
-          "type": {
-            "const": "library"
-          },
-          "subtype": {
-            "enum": [ "JavaScript", "Rust", "C++", "Java", "PHP", "Python", "PL/pgSQL" ]
-          }
-        }
       }
     ]
   }
