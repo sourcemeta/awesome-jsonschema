@@ -577,3 +577,9 @@
   year: 2021
   type: paper
   summary: We present TILT, a transparency information language and toolkit explicitly designed to represent and process transparency information in line with the requirements of the GDPR and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do
+
+- title: API Lifecycles, Specifications, and Standards with Kin Lane
+  url: https://www.infoq.com/podcasts/api-lifecycles-specifications-standards/
+  year: 2021
+  type: podcast
+  summary: Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing.

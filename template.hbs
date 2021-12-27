@@ -137,6 +137,14 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 {{/compare}}
 {{/each}}
 
+## Podcasts
+
+{{#each (reverseSortBy data "year")}}
+{{#compare type "==" "podcast"}}
+- ({{this.year}}) [{{title}}]({{{url}}}) - {{summary}}
+{{/compare}}
+{{/each}}
+
 ## Papers
 
 {{#each (reverseSortBy data "year")}}
