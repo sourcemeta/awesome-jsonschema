@@ -49,6 +49,7 @@ npm start
 - [Books](#books)
 - [Courses](#courses)
 - [Videos](#videos)
+- [Podcasts](#podcasts)
 - [Papers](#papers)
 - [Tools](#tools)
 - [Libraries](#libraries)
