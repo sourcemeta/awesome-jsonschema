@@ -141,6 +141,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [SpreadJS](https://www.grapecity.com/spreadjs/docs/v13/online/jsonschema.html) - The SpreadJS JavaScript spreadsheet library uses JSON Schema to describe the SpreadJS JSON data format
 - [TILT (machine-readable privacy policies)](https://github.com/Transparency-Information-Language/schema) - TILT is a transparency information language and toolkit powered by JSON Schema explicitly designed to represent and process transparency information in line with the requirements of the EU General Data Protection Regulation and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do
 - [Walmart eCommerce](https://developer.walmart.com/documentation/item-object-v4-0/) - Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform
+- [Wordpress](https://make.wordpress.org/themes/2021/11/30/theme-json-schema/) - Wordpress maintains official JSON Schema documents to help with building block based themes.
 - [nf-core](https://nf-co.re/tools/#pipeline-schema) - The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows
 
 ## Articles

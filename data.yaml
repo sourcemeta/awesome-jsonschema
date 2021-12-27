@@ -567,6 +567,11 @@
   type: adoption
   summary: TILT is a transparency information language and toolkit powered by JSON Schema explicitly designed to represent and process transparency information in line with the requirements of the EU General Data Protection Regulation and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do
 
+- title: Wordpress
+  url: https://make.wordpress.org/themes/2021/11/30/theme-json-schema/
+  type: adoption
+  summary: Wordpress maintains official JSON Schema documents to help with building block based themes.
+
 - title: "TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy Engineering"
   url: https://dl.acm.org/doi/10.1145/3442188.3445925
   year: 2021
