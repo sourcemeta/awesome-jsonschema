@@ -583,3 +583,9 @@
   year: 2021
   type: podcast
   summary: Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing.
+
+- title: "JSON Schema, Schema.org, JSON-LD: What’s the Difference?"
+  url: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a
+  year: 2020
+  type: article
+  summary: An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org.
