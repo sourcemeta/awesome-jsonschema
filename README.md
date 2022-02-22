@@ -218,7 +218,5 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 The JSON Schema website includes an extensive list of implementations and
 related libraries: https://json-schema.org/implementations.html.
 
-## Credits
-
-Special thanks to [@kinlane](https://github.com/kinlane) for curating the
+> Special thanks to [@kinlane](https://github.com/kinlane) for curating the
 initial version of this list.
