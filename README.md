@@ -24,21 +24,6 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 ---
 
-## Contributing
-
-If you know of a resource discussing JSON Schema or have created a tool or
-website about JSON Schema, [open a GitHub
-issue](https://github.com/jviotti/awesome-jsonschema/issues/new/choose) or add
-it directly to
-[`data.yaml`](https://github.com/jviotti/awesome-jsonschema/blob/master/data.yaml)
-and send a pull request. The README is auto-generated from `data.yaml`. You can
-locally render the README as follows:
-
-```sh
-npm install
-npm start
-```
-
 ## Contents
 
 - [Official](#official)
@@ -55,6 +40,11 @@ npm start
 - [Papers](#papers)
 - [Tools](#tools)
 - [Libraries](#libraries)
+
+```sh
+npm install
+npm start
+```
 
 ## Official
 
