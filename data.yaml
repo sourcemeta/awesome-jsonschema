@@ -382,10 +382,6 @@
   type: adoption
   summary: NinJS standardises the representation of news content in JSON and maintains a JSON Schema document to help validate NinJS implementations
 
-- title: Website
-  url: https://json-schema.org
-  type: official
-  summary: The official website of the JSON Schema project
 - title: GitHub Discussions
   url: https://github.com/json-schema-org/community/discussions
   type: official
@@ -406,10 +402,6 @@
   url: https://json-schema.org/slack
   type: official
   summary: The official Slack workspace of JSON Schema
-- title: OpenCollective
-  url: https://opencollective.com/json-schema
-  type: official
-  summary: The official OpenCollective account of JSON Schema
 - title: Stack Overflow
   url: https://stackoverflow.com/questions/tagged/jsonschema
   type: official
