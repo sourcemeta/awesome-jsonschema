@@ -39,7 +39,7 @@ npm install
 npm start
 ```
 
-## Table of Contents
+## Contents
 
 - [Official](#official)
 - [Getting Started](#getting-started)
