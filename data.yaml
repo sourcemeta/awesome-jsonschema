@@ -2,7 +2,7 @@
   url: https://books.apple.com/us/book/using-json-schema/id903248630
   year: 2014
   type: book
-  summary: Learn and Apply JSON Schema by Example, with Javascript (Node.js) and Python Programs
+  summary: Learn and Apply JSON Schema by Example, with JavaScript (Node.js) and Python Programs
 - title: JSON at Work
   url: https://www.oreilly.com/library/view/json-at-work/9781491982389/
   year: 2017
@@ -109,7 +109,7 @@
   url: https://blog.heroku.com/json-schema-document-debug-apis
   year: 2019
   type: article
-  summary: Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
+  summary: Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals
 - title: "Validating and documenting JSON with JSON Schema"
   url: https://www.mscharhag.com/api-design/json-schema
   year: 2020
@@ -410,10 +410,10 @@
   url: https://opencollective.com/json-schema
   type: official
   summary: The official OpenCollective account of JSON Schema
-- title: StackOverflow
+- title: Stack Overflow
   url: https://stackoverflow.com/questions/tagged/jsonschema
   type: official
-  summary: The JSON Schema tag in StackOverflow
+  summary: The JSON Schema tag in Stack Overflow
 
 - title: JSON Schema 2020-12 Core
   url: https://json-schema.org/draft/2020-12/vocab/core
@@ -570,7 +570,7 @@
 - title: Wordpress
   url: https://make.wordpress.org/themes/2021/11/30/theme-json-schema/
   type: adoption
-  summary: Wordpress maintains official JSON Schema documents to help with building block based themes.
+  summary: Wordpress maintains official JSON Schema documents to help with building block based themes
 
 - title: "TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy Engineering"
   url: https://dl.acm.org/doi/10.1145/3442188.3445925
@@ -582,10 +582,10 @@
   url: https://www.infoq.com/podcasts/api-lifecycles-specifications-standards/
   year: 2021
   type: podcast
-  summary: Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing.
+  summary: Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing
 
-- title: "JSON Schema, Schema.org, JSON-LD: What’s the Difference?"
+- title: "JSON Schema, Schema.org, JSON-LD: What's the Difference?"
   url: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a
   year: 2020
   type: article
-  summary: An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org.
+  summary: An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org

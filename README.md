@@ -4,6 +4,8 @@ instructions -->
 
 # Awesome JSON Schema [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="logo.svg" align="right" width="100">](https://json-schema.org)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Join Slack](https://img.shields.io/badge/Slack-Join%20Slack-blue.svg?style=flat-square)](https://json-schema.slack.com)
 [![OpenCollective](https://img.shields.io/opencollective/all/json-schema?label=OpenCollective&style=flat-square)](https://opencollective.com/json-schema)
@@ -15,12 +17,12 @@ a vibrant community. JSON Schema is defined by a set of IETF specifications and
 it is the industry-standard for defining the structure and meaning of JSON
 documents.
 
-***
+---
 
 **Interested in JSON Schema? Come join us at the official [JSON Schema Office
 Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
-***
+---
 
 ## Contributing
 
@@ -60,7 +62,7 @@ npm start
 - [GitHub Discussions](https://github.com/json-schema-org/community/discussions) - The discussions page of JSON Schema.
 - [OpenCollective](https://opencollective.com/json-schema) - The official OpenCollective account of JSON Schema.
 - [Slack](https://json-schema.org/slack) - The official Slack workspace of JSON Schema.
-- [StackOverflow](https://stackoverflow.com/questions/tagged/jsonschema) - The JSON Schema tag in StackOverflow.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/jsonschema) - The JSON Schema tag in Stack Overflow.
 - [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - The official test suite for JSON Schema implementations.
 - [Twitter](https://twitter.com/jsonschema) - The Twitter account of the JSON Schema project.
 - [Website](https://json-schema.org) - The official website of the JSON Schema project.
@@ -142,7 +144,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [SpreadJS](https://www.grapecity.com/spreadjs/docs/v13/online/jsonschema.html) - The SpreadJS JavaScript spreadsheet library uses JSON Schema to describe the SpreadJS JSON data format.
 - [TILT (machine-readable privacy policies)](https://github.com/Transparency-Information-Language/schema) - TILT is a transparency information language and toolkit powered by JSON Schema explicitly designed to represent and process transparency information in line with the requirements of the EU General Data Protection Regulation and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do.
 - [Walmart eCommerce](https://developer.walmart.com/documentation/item-object-v4-0/) - Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform.
-- [Wordpress](https://make.wordpress.org/themes/2021/11/30/theme-json-schema/) - Wordpress maintains official JSON Schema documents to help with building block based themes..
+- [Wordpress](https://make.wordpress.org/themes/2021/11/30/theme-json-schema/) - Wordpress maintains official JSON Schema documents to help with building block based themes.
 - [nf-core](https://nf-co.re/tools/#pipeline-schema) - The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows.
 
 ## Articles
@@ -152,11 +154,11 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2021) [Modeling a file system with JSON Schema](https://json-schema.org/learn/file-system.html) - This example shows a possible JSON Schema representation of file system mount points as represented in an /etc/fstab file.
 - (2021) [JSON Schema bundling finally formalised](https://json-schema.org/blog/posts/bundling-json-schema-compound-documents) - A close look at bundling and de-referencing JSON Schema documents.
 - (2020) [Using the JSON Schema standard for scientific applications?](https://cerfacs.fr/coop/json-schema-for-sci-apps) - A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications.
-- (2020) [JSON Schema, Schema.org, JSON-LD: What’s the Difference?](https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a) - An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org..
+- (2020) [JSON Schema, Schema.org, JSON-LD: What&#x27;s the Difference?](https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a) - An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org.
 - (2020) [How to Integrate &quot;React JSON Schema Form&quot; into a Redux and Typescript Project](https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/) - Adding a form using &quot;React JSON Schema Form&quot; and integrating it with Redux and Typescript.
 - (2020) [Building a No-Code JSON Schema Form Builder with ReactJS](https://www.ginkgobioworks.com/2020/10/08/building-a-no-code-json-schema-form-builder/) - An update on the additional features implemented in the react-json-schema-form-builder open-source JSON Schema form builder project.
 - (2020) [Azure Pipelines autocomplete in PyCharm, IntelliJ, WebStorm, CLion, and Rider](https://tonybaloney.github.io/posts/azure-pipelines-autocomplete-in-pycharm.html) - Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax highlighting and validation support of Azure Pipelines workflows.
-- (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals..
+- (2019) [Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs](https://blog.heroku.com/json-schema-document-debug-apis) - Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals.
 - (2019) [PHP With MySQL](https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html) - A practical tutorial on expressing JSON Schema table constraints on MySQL.
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs.
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB.
@@ -177,7 +179,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - (2021) [API by Design](https://smizell.gumroad.com/l/apibydesign) - Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions.
 - (2017) [JSON at Work](https://www.oreilly.com/library/view/json-at-work/9781491982389/) - A comprehensive overview of the JSON ecosystem, including JSON Schema.
-- (2014) [Using JSON Schema](https://books.apple.com/us/book/using-json-schema/id903248630) - Learn and Apply JSON Schema by Example, with Javascript (Node.js) and Python Programs.
+- (2014) [Using JSON Schema](https://books.apple.com/us/book/using-json-schema/id903248630) - Learn and Apply JSON Schema by Example, with JavaScript (Node.js) and Python Programs.
 
 ## Courses
 
@@ -195,7 +197,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Podcasts
 
-- (2021) [API Lifecycles, Specifications, and Standards with Kin Lane](https://www.infoq.com/podcasts/api-lifecycles-specifications-standards/) - Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing..
+- (2021) [API Lifecycles, Specifications, and Standards with Kin Lane](https://www.infoq.com/podcasts/api-lifecycles-specifications-standards/) - Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing.
 
 ## Papers
 
