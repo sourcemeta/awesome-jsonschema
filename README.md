@@ -41,11 +41,6 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 - [Tools](#tools)
 - [Libraries](#libraries)
 
-```sh
-npm install
-npm start
-```
-
 ## Official
 
 - [GitHub](https://github.com/json-schema-org) - The official GitHub organization of the JSON Schema project.
@@ -217,6 +212,8 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 The JSON Schema website includes an extensive list of implementations and
 related libraries: https://json-schema.org/implementations.html.
+
+---
 
 > Special thanks to [@kinlane](https://github.com/kinlane) for curating the
 initial version of this list.
