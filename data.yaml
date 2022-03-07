@@ -473,6 +473,12 @@
   type: paper
   summary: This paper presents the results of an empirical study of the first generation of tools for checking JSON Schema containment which is applied to a diverse collection of over 230 real-world schemas and their altogether 1k historic versions
 
+- title: Schema Inference for Massive JSON Datasets
+  url: https://hal.archives-ouvertes.fr/hal-01491765
+  year: 2017
+  type: paper
+  summary: "Recent years have seen the widespread use of JSON as a data format to represent massive data collections. JSON data collections are usually schemaless. While this ensures several advantages, the absence of schema information has important negative consequences: the correctness of complex queries and programs cannot be statically checked, users cannot rely on schema information to quickly figure out structural properties that could speed up the formulation of correct queries, and many schema-based optimizations are not possible. In this paper we deal with the problem of inferring a schema from massive JSON data sets"
+
 - title: JSON Schema Inference Approaches
   url: https://link.springer.com/chapter/10.1007/978-3-030-65847-2_16
   year: 2020
