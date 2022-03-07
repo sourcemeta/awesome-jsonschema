@@ -455,6 +455,12 @@
   type: paper
   summary: Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
 
+- title: Witness Generation for JSON Schema
+  url: https://arxiv.org/abs/2202.12849
+  year: 2022
+  type: paper
+  summary: "JSON Schema is an important, evolving standard schema language for families of JSON documents. It is based on a complex combination of structural and Boolean assertions, and features negation and recursion. The static analysis of JSON Schema documents comprises practically relevant problems, including schema satisfiability, inclusion, and equivalence. These three problems can be reduced to witness generation: given a schema, generate an element of the schema, if it exists, and report failure otherwise"
+
 - title: What Are Real JSON Schemas Like?
   url: https://link.springer.com/chapter/10.1007/978-3-030-34146-6_9
   year: 2019
