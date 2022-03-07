@@ -204,6 +204,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 - [JSONschema.Net](https://www.jsonschema.net) - An online tool that generates JSON schema from JSON documents.
 - [JSONSchema.dev](https://jsonschema.dev) - An online JSON Schema validator created by the JSON Schema specification lead.
+- [JSON Schema Viewer](http://jlblcc.github.io/json-schema-viewer/) - An online tool to visualize JSON Schema definitions.
 - [JSON Schema Validator and Generator](https://extendsclass.com/json-schema-validator.html) - An online JSON Schema validator that can generate JSON Schema from JSON documents and generate random JSON documents from JSON Schema.
 - [JSON Schema Validator](https://www.jsonschemavalidator.net) - An online JSON Schema validator with support for JSON Schema Draft 3, Draft 4, Draft 6, Draft 7 and Draft 2019-09.
 - [Hyperjump JSON Schema Validator](https://json-schema.hyperjump.io) - An online JSON Schema validator that supports Draft 04, 06, 07, 2019-09, and 2020-12.

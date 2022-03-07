@@ -483,6 +483,12 @@
   url: https://jsonschema.dev
   type: tool
   summary: An online JSON Schema validator created by the JSON Schema specification lead
+
+- title: JSON Schema Viewer
+  url: http://jlblcc.github.io/json-schema-viewer/
+  type: tool
+  summary: An online tool to visualize JSON Schema definitions
+
 - title: Hyperjump JSON Schema Validator
   url: https://json-schema.hyperjump.io
   type: tool
