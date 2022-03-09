@@ -49,6 +49,7 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/jsonschema) - The JSON Schema tag in Stack Overflow.
 - [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) - The official test suite for JSON Schema implementations.
 - [Twitter](https://twitter.com/jsonschema) - The Twitter account of the JSON Schema project.
+- [YouTube](https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA) - The JSON Schema official YouTube channel.
 
 ## Getting Started
 

@@ -411,6 +411,10 @@
   url: https://stackoverflow.com/questions/tagged/jsonschema
   type: official
   summary: The JSON Schema tag in Stack Overflow
+- title: YouTube
+  url: https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA
+  type: official
+  summary: The JSON Schema official YouTube channel
 
 - title: JSON Schema 2020-12 Core
   url: https://json-schema.org/draft/2020-12/vocab/core
