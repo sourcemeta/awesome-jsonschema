@@ -626,3 +626,9 @@
   year: 2020
   type: article
   summary: An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org
+
+- title: "Project Cambria: Translate your data with lenses"
+  url: https://www.inkandswitch.com/cambria/
+  year: 2020
+  type: article
+  summary: A proposal for an isolated software layer that translates data between JSON Schema definitions on demand. Translation logic is defined by composing bidirectional lenses, a kind of data transformation that can run both forward and backward
