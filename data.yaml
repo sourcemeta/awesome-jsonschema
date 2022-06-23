@@ -638,3 +638,8 @@
   year: 2021
   type: paper
   summary: Discusses JSON Schema canonicalization and JSON Schema instance derivation in the context of property-based testing of APIs
+
+- title: Microsoft
+  url: https://github.com/microsoft/json-schemas
+  type: adoption
+  summary: A collection of JSON Schema definitions used by products and services at Microsoft

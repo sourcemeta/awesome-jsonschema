@@ -111,6 +111,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [KrakenD](https://www.krakend.io/docs/endpoints/json-schema/) - KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends.
 - [Lightblue.io](https://docs.lightblue.io/standards/json_schema.html) - The Lightblue document based data access layer framework uses JSON Schema to define certain file resources in the project.
 - [Linux](https://www.kernel.org/doc/html/latest/devicetree/bindings/writing-schema.html) - The Linux kernel uses JSON Schema to define Devicetree bindings.
+- [Microsoft](https://github.com/microsoft/json-schemas) - A collection of JSON Schema definitions used by products and services at Microsoft.
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints.
 - [Mozilla Data Pipeline](https://docs.telemetry.mozilla.org/concepts/pipeline/schemas.html) - Mozilla Data Pipeline uses JSON Schema to define telemetry data ingested from Mozilla products and logs from various services.
 - [MuleSoft](https://docs.mulesoft.com/json-module/2.1/json-schema-validation) - The MuleSoft integration framework supports validating a JSON document against a JSON Schema.
