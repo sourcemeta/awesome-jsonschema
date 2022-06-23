@@ -632,3 +632,9 @@
   year: 2020
   type: article
   summary: A proposal for an isolated software layer that translates data between JSON Schema definitions on demand. Translation logic is defined by composing bidirectional lenses, a kind of data transformation that can run both forward and backward
+
+- title: "Deriving Semantics-Aware Fuzzers from Web API Schemas"
+  url: https://arxiv.org/abs/2112.10328
+  year: 2021
+  type: paper
+  summary: Discusses JSON Schema canonicalization and JSON Schema instance derivation in the context of property-based testing of APIs
