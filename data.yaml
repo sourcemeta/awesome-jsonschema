@@ -189,6 +189,12 @@
   type: spec
   summary: The RAML specification supports modeling API data using JSON Schema
 
+- title: W3C Web of Things
+  url: https://www.w3.org/WoT/
+  year: 2020
+  type: spec
+  summary: The Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. WoT models data using JSON Schema
+
 - title: AsyncAPI
   url: https://www.asyncapi.com/docs/specifications/v2.1.0
   year: 2021
