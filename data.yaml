@@ -605,6 +605,11 @@
   type: registry
   summary: The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found
 
+- title: Sourcemeta Schemas
+  url: https://schemas.sourcemeta.com
+  type: registry
+  summary: An immutable collection of curated and versioned modern JSON Schema definitions
+
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema
   type: adoption

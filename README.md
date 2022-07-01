@@ -78,6 +78,7 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 ## Registries
 
 - [SchemaStore](https://www.schemastore.org) - The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found.
+- [Sourcemeta Schemas](https://schemas.sourcemeta.com) - An immutable collection of curated and versioned modern JSON Schema definitions.
 
 ## Adoption
 
