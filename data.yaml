@@ -610,6 +610,11 @@
   type: registry
   summary: An immutable collection of curated and versioned modern JSON Schema definitions
 
+- title: Postman Schemas
+  url: https://schema.postman.com
+  type: registry
+  summary: A collection of Postman-specific JSON Schema definitions
+
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema
   type: adoption
