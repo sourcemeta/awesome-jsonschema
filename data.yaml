@@ -32,6 +32,18 @@
   type: video
   summary: Mads shares the story of bringing JSON Schema support into Visual Studio back in version 2013, the first editor supporting JSON Schema. What's called .Net Core today needed tooling for their "project.json" file, similar to a "package.json" file. JSON Schema ended up playing a key role in the autocompletion and validation infastructure ontop of a basic JSON editor
 
+- title: 'JSON Schema in Production - #4 David Brownman at Zapier'
+  url: https://www.youtube.com/watch?v=yDL98sd4KVE
+  year: 2022
+  type: adoption
+  summary: David shares the story of using JSON Schema at Zapier to validate and document their intergration payloads, enabling a better developer experience for their 4000+ intergration partners.
+
+- title: 'JSON Schema in Production - #5 Jens Neuse at Wundergraph'
+  url: https://www.youtube.com/watch?v=_TCU6da0GA8
+  year: 2022
+  type: video
+  summary: Jens Neuse, Founder of Wundergraph shares how Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query
+
 - title: Configuring Umbraco on .NET Core - JSON Schema
   url: https://www.youtube.com/watch?v=rpUg-oySw8g
   year: 2021
@@ -654,13 +666,3 @@
   url: https://github.com/microsoft/json-schemas
   type: adoption
   summary: A collection of JSON Schema definitions used by products and services at Microsoft
-
-- title: Wundergraph
-  url: https://www.youtube.com/watch?v=_TCU6da0GA8
-  type: adoption
-  summary: Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query
-
-- title: Zapier
-  url: https://www.youtube.com/watch?v=yDL98sd4KVE
-  type: adoption
-  summary: Zapier makes use of JSON Schema to define the interface for third-party integrators into the Zapier platform
