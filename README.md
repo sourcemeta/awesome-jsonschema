@@ -133,6 +133,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [Walmart eCommerce](https://developer.walmart.com/documentation/item-object-v4-0/) - Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform.
 - [Wordpress](https://make.wordpress.org/themes/2021/11/30/theme-json-schema/) - Wordpress maintains official JSON Schema documents to help with building block based themes.
 - [Wundergraph](https://www.youtube.com/watch?v=_TCU6da0GA8) - Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query.
+- [Zapier](https://www.youtube.com/watch?v=yDL98sd4KVE) - Zapier makes use of JSON Schema to define the interface for third-party integrators into the Zapier platform.
 - [nf-core](https://nf-co.re/tools/#pipeline-schema) - The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows.
 
 ## Articles

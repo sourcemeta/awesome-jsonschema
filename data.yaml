@@ -659,3 +659,8 @@
   url: https://www.youtube.com/watch?v=_TCU6da0GA8
   type: adoption
   summary: Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query
+
+- title: Zapier
+  url: https://www.youtube.com/watch?v=yDL98sd4KVE
+  type: adoption
+  summary: Zapier makes use of JSON Schema to define the interface for third-party integrators into the Zapier platform
