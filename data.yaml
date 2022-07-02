@@ -610,11 +610,6 @@
   type: registry
   summary: An immutable collection of curated and versioned modern JSON Schema definitions
 
-- title: Postman Schemas
-  url: https://schema.postman.com
-  type: registry
-  summary: A collection of Postman-specific JSON Schema definitions
-
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema
   type: adoption
@@ -659,3 +654,8 @@
   url: https://github.com/microsoft/json-schemas
   type: adoption
   summary: A collection of JSON Schema definitions used by products and services at Microsoft
+
+- title: Wundergraph
+  url: https://www.youtube.com/watch?v=_TCU6da0GA8
+  type: adoption
+  summary: Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query

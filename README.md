@@ -77,7 +77,6 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 ## Registries
 
-- [Postman Schemas](https://schema.postman.com) - A collection of Postman-specific JSON Schema definitions.
 - [SchemaStore](https://www.schemastore.org) - The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found.
 - [Sourcemeta Schemas](https://schemas.sourcemeta.com) - An immutable collection of curated and versioned modern JSON Schema definitions.
 
@@ -133,6 +132,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [TILT (machine-readable privacy policies)](https://github.com/Transparency-Information-Language/schema) - TILT is a transparency information language and toolkit powered by JSON Schema explicitly designed to represent and process transparency information in line with the requirements of the EU General Data Protection Regulation and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do.
 - [Walmart eCommerce](https://developer.walmart.com/documentation/item-object-v4-0/) - Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform.
 - [Wordpress](https://make.wordpress.org/themes/2021/11/30/theme-json-schema/) - Wordpress maintains official JSON Schema documents to help with building block based themes.
+- [Wundergraph](https://www.youtube.com/watch?v=_TCU6da0GA8) - Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query.
 - [nf-core](https://nf-co.re/tools/#pipeline-schema) - The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows.
 
 ## Articles
