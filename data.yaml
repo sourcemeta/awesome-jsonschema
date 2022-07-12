@@ -673,3 +673,7 @@
   type: paper
   summary: Many software tools, but also formal frameworks for working with JSON Schema, do not fully support negation. This motivates us to study whether negation is actually used in practice, for which aims, and whether it could, in principle, be replaced by simpler operators. We have collected a large corpus of 80k open source JSON Schema documents. We perform a systematic analysis, quantify usage patterns of negation, and also qualitatively analyze schemas. We show that negation is indeed used, albeit infrequently, following a stable set of patterns
 
+- title: JSONBuddy
+  url: https://www.json-buddy.com
+  type: tool
+  summary: A JSON editor and validator desktop application for Windows
