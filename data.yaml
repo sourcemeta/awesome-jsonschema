@@ -677,3 +677,9 @@
   url: https://www.json-buddy.com
   type: tool
   summary: A JSON editor and validator desktop application for Windows
+
+- title: Implicit JSON Schema Versioning Triggered by Temporal Updates to JSON-Based Big Data in the τJSchema Framework
+  url: https://link.springer.com/chapter/10.1007/978-3-031-07969-6_3
+  year: 2022
+  type: paper
+  summary: This paper proposes an approach for handling implicit schema changes triggered by temporal updates of JSON-based Big Data. More precisely, when a user specifies a temporal JSON update operation that modifies a snapshot JSON component assigning a valid-time timestamp to its new value, the execution of such an operation requires the JSON component to become temporal, which is for all intents a schema change. Thus, a new version of the τJSchema temporal characteristics document is generated, with the addition of a new valid-time characteristic. New versions of the temporal JSON schema and of the temporal JSON document are also accordingly created
