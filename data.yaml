@@ -683,3 +683,9 @@
   year: 2022
   type: paper
   summary: This paper proposes an approach for handling implicit schema changes triggered by temporal updates of JSON-based Big Data. More precisely, when a user specifies a temporal JSON update operation that modifies a snapshot JSON component assigning a valid-time timestamp to its new value, the execution of such an operation requires the JSON component to become temporal, which is for all intents a schema change. Thus, a new version of the τJSchema temporal characteristics document is generated, with the addition of a new valid-time characteristic. New versions of the temporal JSON schema and of the temporal JSON document are also accordingly created
+
+- title: "τJSchema: A Framework for Managing Temporal JSON-Based NoSQL Databases"
+  url: https://link.springer.com/chapter/10.1007/978-3-319-44406-2_13
+  year: 2016
+  type: paper
+  summary: This paper proposes a framework called Temporal JSON Schema (τJSchema), inspired by the τXSchema framework defined for XML data. τJSchema allows defining a temporal JSON schema from a conventional JSON schema and a set of temporal logical and physical characteristics. Our framework guarantees logical and physical data independence for temporal schemas and provides a low-impact solution since it requires neither modifications of existing JSON documents, nor extensions to the JSON format, the JSON Schema language, and all related tools and languages
