@@ -35,7 +35,7 @@
 - title: 'JSON Schema in Production - #4 David Brownman at Zapier'
   url: https://www.youtube.com/watch?v=yDL98sd4KVE
   year: 2022
-  type: adoption
+  type: video
   summary: David shares the story of using JSON Schema at Zapier to validate and document their intergration payloads, enabling a better developer experience for their 4000+ intergration partners.
 
 - title: 'JSON Schema in Production - #5 Jens Neuse at Wundergraph'
@@ -211,7 +211,7 @@
   url: https://www.asyncapi.com/docs/specifications/v2.1.0
   year: 2021
   type: spec
-  summary: AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). The AsyncAPI supports data modeling using JSON Schema
+  summary: AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). The AsyncAPI specification supports data modeling using JSON Schema
 
 - title: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
