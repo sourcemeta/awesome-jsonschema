@@ -689,3 +689,8 @@
   year: 2016
   type: paper
   summary: This paper proposes a framework called Temporal JSON Schema (τJSchema), inspired by the τXSchema framework defined for XML data. τJSchema allows defining a temporal JSON schema from a conventional JSON schema and a set of temporal logical and physical characteristics. Our framework guarantees logical and physical data independence for temporal schemas and provides a low-impact solution since it requires neither modifications of existing JSON documents, nor extensions to the JSON format, the JSON Schema language, and all related tools and languages
+
+- title: AlterSchema
+  url: https://alterschema.sourcemeta.com
+  type: tool
+  summary: Convert a JSON Schema definition between specification versions
