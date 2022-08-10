@@ -44,6 +44,13 @@
   type: video
   summary: Jens Neuse, Founder of Wundergraph shares how Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query
 
+- title: 'JSON Schema in Production - #6 Suresh Srinivas at OpenMetadata'
+  url: https://www.youtube.com/watch?v=ZrVTZwmTR3k
+  year: 2022
+  type: video
+  summary: We talk to Suresh Srinivas, Co-Founder at Collate, building OpenMetadata. (Previously engineering leadership at Uber and Founder of Hortonworks.)
+
+
 - title: Configuring Umbraco on .NET Core - JSON Schema
   url: https://www.youtube.com/watch?v=rpUg-oySw8g
   year: 2021
