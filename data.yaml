@@ -701,3 +701,9 @@
   url: https://alterschema.sourcemeta.com
   type: tool
   summary: Convert a JSON Schema definition between specification versions
+
+- title: Introducing SchemaVer for semantic versioning of schemas
+  url: https://snowplowanalytics.com/blog/2014/05/13/introducing-schemaver-for-semantic-versioning-of-schemas/#feedback
+  year: 2014
+  type: article
+  summary: A proposal for a versioning convention for JSON Schema definitions based on SemVer

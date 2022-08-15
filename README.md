@@ -151,6 +151,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2018) [JSON Schema Validator, Generator &amp; Editor Guide](https://stoplight.io/json-guide/?utm_source=awesome-jsonschema) - How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs.
 - (2018) [JSON Schema Validation &amp; Expressive Query Syntax in MongoDB 3.6](https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/?utm_source=awesome-jsonschema) - An in-depth discussion about using JSON Schema to define collection validation on MongoDB.
 - (2018) [Definitions for filtering properties in JSON schema](https://gist.github.com/LucianBuzzo/5ff9106ce3ae12fb58e4def572b9344d?utm_source=awesome-jsonschema) - An introduction to the problem of using JSON Schema for data filtering and querying purposes.
+- (2014) [Introducing SchemaVer for semantic versioning of schemas](https://snowplowanalytics.com/blog/2014/05/13/introducing-schemaver-for-semantic-versioning-of-schemas/#feedback?utm_source=awesome-jsonschema) - A proposal for a versioning convention for JSON Schema definitions based on SemVer.
 
 ## Specifications
 
