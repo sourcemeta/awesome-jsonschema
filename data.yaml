@@ -707,3 +707,9 @@
   year: 2014
   type: article
   summary: A proposal for a versioning convention for JSON Schema definitions based on SemVer
+
+- title: "JSON BinPack: A space-efficient schema-driven and schema-less binary serialization specification based on JSON Schema"
+  url: https://www.jviotti.com/assets/dissertation.pdf
+  year: 2022
+  type: paper
+  summary: A survey and benchmark of JSON-compatible binary serialization specifications followed by the introduction of JSON BinPack, a novel protocol-independent schema-driven and schema-less binary serialization specification that is strictly-compatible with JSON and takes advantage of JSON Schema formal definitions to produce bit-strings that are space-efficient in comparison to every considered alternative serialization specification
