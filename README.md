@@ -65,6 +65,7 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 ## Vocabularies
 
+- [Accessing Data Stored in JSON](https://json-everything.net/json-schema/#a-vocabulary-for-accessing-data-stored-in-json?utm_source=awesome-jsonschema) - A vocabulary defining keywords that can be used to reference values stored in the instance data, the schema data and external JSON data where the dereferenced values serve as input for keywords in a derived subschema.
 - [Hyper-Schema 2019-09](https://json-schema.org/draft/2019-09/vocab/hyper-schema?utm_source=awesome-jsonschema) - Keywords to annotate JSON documents with hyperlinks. These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value.
 - [JSON Schema 2020-12 Applicator](https://json-schema.org/draft/2020-12/vocab/applicator?utm_source=awesome-jsonschema) - Applicator keywords that are recommended for use as the basis of other vocabularies.
 - [JSON Schema 2020-12 Content](https://json-schema.org/draft/2020-12/vocab/content?utm_source=awesome-jsonschema) - Annotations keywords that indicate that an instance contains non-JSON data encoded in a JSON string.
@@ -74,6 +75,7 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 - [JSON Schema 2020-12 Meta-Data](https://json-schema.org/draft/2020-12/vocab/meta-data?utm_source=awesome-jsonschema) - These general-purpose annotation keywords provide commonly used information for documentation and user interface display purposes.
 - [JSON Schema 2020-12 Unevaluated](https://json-schema.org/draft/2020-12/vocab/unevaluated?utm_source=awesome-jsonschema) - Keywords that enable schema authors to apply subschemas to array items or object properties that have not been successfully evaluated against any dynamic-scope subschema of any adjacent keywords.
 - [JSON Schema 2020-12 Validation](https://json-schema.org/draft/2020-12/vocab/validation?utm_source=awesome-jsonschema) - Validation keywords in a schema impose requirements for successful validation of an instance. These keywords are all assertions without any annotation behavior.
+- [Uniqueness of Array Items](https://json-everything.net/json-schema/#a-vocabulary-for-identifying-uniqueness-of-array-items?utm_source=awesome-jsonschema) - A vocabulary defining keywords that can be used to validate that arrary instances contain unique values as determined by one or more given paths within each item.
 
 ## Registries
 

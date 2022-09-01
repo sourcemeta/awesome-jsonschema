@@ -719,3 +719,13 @@
   year: 2022
   type: article
   summary: Representing generic types from strongly-typed programming languages with JSON Schema
+
+- title: Uniqueness of Array Items
+  url: https://json-everything.net/json-schema/#a-vocabulary-for-identifying-uniqueness-of-array-items
+  type: vocabulary
+  summary: A vocabulary defining keywords that can be used to validate that arrary instances contain unique values as determined by one or more given paths within each item
+
+- title: Accessing Data Stored in JSON
+  url: https://json-everything.net/json-schema/#a-vocabulary-for-accessing-data-stored-in-json
+  type: vocabulary
+  summary: A vocabulary defining keywords that can be used to reference values stored in the instance data, the schema data and external JSON data where the dereferenced values serve as input for keywords in a derived subschema
