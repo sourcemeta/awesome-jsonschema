@@ -136,6 +136,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Articles
 
+- (2022) [Using Dynamic References to Support Generic Types](https://json-schema.org/blog/posts/dynamicref-and-generics?utm_source=awesome-jsonschema) - Representing generic types from strongly-typed programming languages with JSON Schema.
 - (2021) [Understanding API Complexity Through Schema Entropy](https://smizell.com/posts/2021/05/understanding-api-complexity-through-schema-entropy/?utm_source=awesome-jsonschema) - A look at API complexity by analyzing entropy of JSON Schema documents.
 - (2021) [Robustness, Tolerance, and JSON Schema](https://smizell.com/posts/2021/07/robustness-tolerance-and-json-schema/?utm_source=awesome-jsonschema) - Applying the Robustness Principle and increasing schema entropy when making changes to an API.
 - (2021) [Modeling a file system with JSON Schema](https://json-schema.org/learn/file-system.html?utm_source=awesome-jsonschema) - This example shows a possible JSON Schema representation of file system mount points as represented in an /etc/fstab file.

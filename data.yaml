@@ -713,3 +713,9 @@
   year: 2022
   type: paper
   summary: A survey and benchmark of JSON-compatible binary serialization specifications followed by the introduction of JSON BinPack, a novel protocol-independent schema-driven and schema-less binary serialization specification that is strictly-compatible with JSON and takes advantage of JSON Schema formal definitions to produce bit-strings that are space-efficient in comparison to every considered alternative serialization specification
+
+- title: Using Dynamic References to Support Generic Types
+  url: https://json-schema.org/blog/posts/dynamicref-and-generics
+  year: 2022
+  type: article
+  summary: Representing generic types from strongly-typed programming languages with JSON Schema
