@@ -729,3 +729,9 @@
   url: https://json-everything.net/json-schema/#a-vocabulary-for-accessing-data-stored-in-json
   type: vocabulary
   summary: A vocabulary defining keywords that can be used to reference values stored in the instance data, the schema data and external JSON data where the dereferenced values serve as input for keywords in a derived subschema
+
+- title: 'Maintaining JSON Schemas at Scale - Jason Desrosiers'
+  url: https://www.youtube.com/watch?v=GjJpRsVffg0
+  year: 2021
+  type: video
+  summary: In this talk, we will cover the keywords, concepts, and patterns for maintaining large schemas or large collections of schemas. We'll tackle problems like how to breakdown and organize schemas, how to bundle schemas, how to make large schemas efficient, how to get better error messages from large schemas, and more
