@@ -735,3 +735,9 @@
   year: 2021
   type: video
   summary: In this talk, we will cover the keywords, concepts, and patterns for maintaining large schemas or large collections of schemas. We'll tackle problems like how to breakdown and organize schemas, how to bundle schemas, how to make large schemas efficient, how to get better error messages from large schemas, and more
+
+- title: 'So you think you understand JSON Schema? - Ben Hutton'
+  url: https://www.youtube.com/watch?v=vMG0NCDifI0
+  year: 2021
+  type: video
+  summary: In this session you'll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary
