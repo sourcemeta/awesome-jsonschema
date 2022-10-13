@@ -775,3 +775,8 @@
   url: https://github.com/usnistgov/OSCAL/tree/main/json
   type: adoption
   summary: The National Institute of Standards and Technology uses JSON Schema Draft 7 to model Open Security Controls Assessment Language (OSCAL) JSON documents
+
+- title: "Zuplo"
+  url: https://zuplo.com/json-schema/lp-a
+  type: adoption
+  summary: The Zuplo API gateway provides JSON Schema validation and supports generating API documentation out of OpenAPI specifications

@@ -136,6 +136,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [U.S. Department of Commerce](https://github.com/usnistgov/OSCAL/tree/main/json?utm_source=awesome-jsonschema) - The National Institute of Standards and Technology uses JSON Schema Draft 7 to model Open Security Controls Assessment Language (OSCAL) JSON documents.
 - [Walmart eCommerce](https://developer.walmart.com/documentation/item-object-v4-0/?utm_source=awesome-jsonschema) - Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform.
 - [Wordpress](https://make.wordpress.org/themes/2021/11/30/theme-json-schema/?utm_source=awesome-jsonschema) - Wordpress maintains official JSON Schema documents to help with building block based themes.
+- [Zuplo](https://zuplo.com/json-schema/lp-a?utm_source=awesome-jsonschema) - The Zuplo API gateway provides JSON Schema validation and supports generating API documentation out of OpenAPI specifications.
 - [nf-core](https://nf-co.re/tools/#pipeline-schema?utm_source=awesome-jsonschema) - The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows.
 
 ## Articles
