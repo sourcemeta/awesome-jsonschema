@@ -759,3 +759,8 @@
   year: 2022
   type: article
   summary: A short tutorial on adding MySQL and PostgreSQL table constraints using JSON Schema
+
+- title: Remote
+  url: https://remote.com/blog/how-remote-builds-onboarding-for-60-countries
+  type: adoption
+  summary: Remote uses JSON Schema to perform form generation and data validation in their frontend and backend systems
