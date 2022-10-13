@@ -780,3 +780,8 @@
   url: https://zuplo.com/json-schema/lp-a
   type: adoption
   summary: The Zuplo API gateway provides JSON Schema validation and supports generating API documentation out of OpenAPI specifications
+
+- title: "Zapier"
+  url: https://github.com/zapier/zapier-platform/tree/master/packages/schema
+  type: adoption
+  summary: Zapier maintains a large set of JSON Schema definitions that define its platform
