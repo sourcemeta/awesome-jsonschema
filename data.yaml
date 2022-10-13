@@ -797,3 +797,8 @@
   year: 2022
   type: article
   summary: A tutorial on validating YAML documents using JSON Schema 2020-12
+
+- title: QuickType.io
+  url: https://app.quicktype.io
+  type: tool
+  summary: An online JSON Schema code-generation utility with diverse programming language support

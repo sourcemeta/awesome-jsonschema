@@ -235,6 +235,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Tools
 
+- [QuickType.io](https://app.quicktype.io?utm_source=awesome-jsonschema) - An online JSON Schema code-generation utility with diverse programming language support.
 - [JSONschema.Net](https://www.jsonschema.net?utm_source=awesome-jsonschema) - An online tool that generates JSON schema from JSON documents.
 - [JSONSchema.dev](https://jsonschema.dev?utm_source=awesome-jsonschema) - An online JSON Schema validator created by the JSON Schema specification lead.
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
