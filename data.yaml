@@ -770,3 +770,8 @@
   year: 2022
   type: article
   summary: A tutorial on validating HTTP request data using JSON Schema using the Architect Functional Web Apps (FWAs) framework
+
+- title: "U.S. Department of Commerce"
+  url: https://github.com/usnistgov/OSCAL/tree/main/json
+  type: adoption
+  summary: The National Institute of Standards and Technology uses JSON Schema Draft 7 to model Open Security Controls Assessment Language (OSCAL) JSON documents
