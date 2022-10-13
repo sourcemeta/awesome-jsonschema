@@ -746,4 +746,10 @@
   url: https://www.youtube.com/watch?v=48QgjmwLWh0
   year: 2022
   type: video
-  summary: Gear the about the journey of organizations that use JSON Schema in production today, and learn about how JSON Schema continues to deliver value.
+  summary: Hear the about the journey of organizations that use JSON Schema in production today, and learn about how JSON Schema continues to deliver value
+
+- title: "React JSON Schema Form"
+  url: https://medium.com/javarevisited/react-json-schema-form-cdc8fbb06f8c
+  year: 2022
+  type: article
+  summary: A tutorial on using the React JSON Schema Form project by Mozilla to generate web forms using JSON Schema
