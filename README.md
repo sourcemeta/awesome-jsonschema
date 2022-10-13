@@ -237,6 +237,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Tools
 
+- [TypedWebhook.tools](https://typedwebhook.tools?utm_source=awesome-jsonschema) - An online webhook testing tool that is able to generate JSON Schema definitions out of incoming data.
 - [QuickType.io](https://app.quicktype.io?utm_source=awesome-jsonschema) - An online JSON Schema code-generation utility with diverse programming language support.
 - [JSONschema.Net](https://www.jsonschema.net?utm_source=awesome-jsonschema) - An online tool that generates JSON schema from JSON documents.
 - [JSONSchema.dev](https://jsonschema.dev?utm_source=awesome-jsonschema) - An online JSON Schema validator created by the JSON Schema specification lead.

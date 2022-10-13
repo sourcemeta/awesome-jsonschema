@@ -814,3 +814,8 @@
   year: 2022
   type: article
   summary: A tutorial on generating web forms using JSON Schema and VueJS
+
+- title: TypedWebhook.tools
+  url: https://typedwebhook.tools
+  type: tool
+  summary: An online webhook testing tool that is able to generate JSON Schema definitions out of incoming data
