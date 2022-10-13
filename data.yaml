@@ -753,3 +753,9 @@
   year: 2022
   type: article
   summary: A tutorial on using the React JSON Schema Form project by Mozilla to generate web forms using JSON Schema
+
+- title: "JSON Schema validation for columns"
+  url: https://sqlfordevs.com/json-schema-validation
+  year: 2022
+  type: article
+  summary: A short tutorial on adding MySQL and PostgreSQL table constraints using JSON Schema
