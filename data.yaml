@@ -428,7 +428,7 @@
 - title: JSON BinPack
   url: https://www.jsonbinpack.org
   type: adoption
-  summary: JSON BinPack uses JSON Schema to perform space-efficient JSON binary serialization.
+  summary: JSON BinPack uses JSON Schema to perform space-efficient JSON binary serialization
 
 - title: GitHub Discussions
   url: https://github.com/json-schema-org/community/discussions
