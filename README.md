@@ -142,6 +142,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Articles
 
+- (2022) [YAML Data Validation](https://infrastructureascode.ch/yaml_validation.html?utm_source=awesome-jsonschema) - A tutorial on validating YAML documents using JSON Schema 2020-12.
 - (2022) [Validating POST Data Against JSON Schema](https://blog.begin.com/posts/2022-06-27-validating-post-data-agaist-json-schema?utm_source=awesome-jsonschema) - A tutorial on validating HTTP request data using JSON Schema using the Architect Functional Web Apps (FWAs) framework.
 - (2022) [Using Dynamic References to Support Generic Types](https://json-schema.org/blog/posts/dynamicref-and-generics?utm_source=awesome-jsonschema) - Representing generic types from strongly-typed programming languages with JSON Schema.
 - (2022) [React JSON Schema Form](https://medium.com/javarevisited/react-json-schema-form-cdc8fbb06f8c?utm_source=awesome-jsonschema) - A tutorial on using the React JSON Schema Form project by Mozilla to generate web forms using JSON Schema.

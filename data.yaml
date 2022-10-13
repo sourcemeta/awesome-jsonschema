@@ -791,3 +791,9 @@
   year: 2022
   type: article
   summary: A tutorial on creating JSON Schema 2020-12 definitions for a fictitious interviewing platform
+
+- title: "YAML Data Validation"
+  url: https://infrastructureascode.ch/yaml_validation.html
+  year: 2022
+  type: article
+  summary: A tutorial on validating YAML documents using JSON Schema 2020-12
