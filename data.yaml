@@ -764,3 +764,9 @@
   url: https://remote.com/blog/how-remote-builds-onboarding-for-60-countries
   type: adoption
   summary: Remote uses JSON Schema to perform form generation and data validation in their frontend and backend systems
+
+- title: "Validating POST Data Against JSON Schema"
+  url: https://blog.begin.com/posts/2022-06-27-validating-post-data-agaist-json-schema
+  year: 2022
+  type: article
+  summary: A tutorial on validating HTTP request data using JSON Schema using the Architect Functional Web Apps (FWAs) framework
