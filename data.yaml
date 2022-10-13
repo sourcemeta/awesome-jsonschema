@@ -785,3 +785,9 @@
   url: https://github.com/zapier/zapier-platform/tree/master/packages/schema
   type: adoption
   summary: Zapier maintains a large set of JSON Schema definitions that define its platform
+
+- title: "Creating a JSON schema"
+  url: https://publishing-project.rivendellweb.net/creating-a-json-schema/
+  year: 2022
+  type: article
+  summary: A tutorial on creating JSON Schema 2020-12 definitions for a fictitious interviewing platform
