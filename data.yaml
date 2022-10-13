@@ -819,3 +819,9 @@
   url: https://typedwebhook.tools
   type: tool
   summary: An online webhook testing tool that is able to generate JSON Schema definitions out of incoming data
+
+- title: "Docs! Docs! Docs!"
+  url: https://brandur.org/nanoglyphs/031-api-docs
+  year: 2022
+  type: article
+  summary: An overview of API documentation generation using Hyper Schema and OpenAPI
