@@ -155,7 +155,7 @@
 - title: How to Integrate "React JSON Schema Form" into a Redux and Typescript Project
   url: https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/
   year: 2020
-  type: article
+  type: tutorial
   summary: Adding a form using "React JSON Schema Form" and integrating it with Redux and Typescript
 - title: JSON Schema Validation & Expressive Query Syntax in MongoDB 3.6
   url: https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/
@@ -170,7 +170,7 @@
 - title: PHP With MySQL
   url: https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html
   year: 2019
-  type: article
+  type: tutorial
   summary: A practical tutorial on expressing JSON Schema table constraints on MySQL
 
 - title: Definitions for filtering properties in JSON schema
@@ -751,13 +751,13 @@
 - title: "React JSON Schema Form"
   url: https://medium.com/javarevisited/react-json-schema-form-cdc8fbb06f8c
   year: 2022
-  type: article
+  type: tutorial
   summary: A tutorial on using the React JSON Schema Form project by Mozilla to generate web forms using JSON Schema
 
 - title: "JSON Schema validation for columns"
   url: https://sqlfordevs.com/json-schema-validation
   year: 2022
-  type: article
+  type: tutorial
   summary: A short tutorial on adding MySQL and PostgreSQL table constraints using JSON Schema
 
 - title: Remote
@@ -768,7 +768,7 @@
 - title: "Validating POST Data Against JSON Schema"
   url: https://blog.begin.com/posts/2022-06-27-validating-post-data-agaist-json-schema
   year: 2022
-  type: article
+  type: tutorial
   summary: A tutorial on validating HTTP request data using JSON Schema using the Architect Functional Web Apps (FWAs) framework
 
 - title: "U.S. Department of Commerce"
@@ -789,13 +789,13 @@
 - title: "Creating a JSON schema"
   url: https://publishing-project.rivendellweb.net/creating-a-json-schema/
   year: 2022
-  type: article
+  type: tutorial
   summary: A tutorial on creating JSON Schema 2020-12 definitions for a fictitious interviewing platform
 
 - title: "YAML Data Validation"
   url: https://infrastructureascode.ch/yaml_validation.html
   year: 2022
-  type: article
+  type: tutorial
   summary: A tutorial on validating YAML documents using JSON Schema 2020-12
 
 - title: QuickType.io
@@ -812,7 +812,7 @@
 - title: "Easy and Quick Form Generation Using JSON Schema in VueJS"
   url: https://www.bacancytechnology.com/blog/form-generation-using-json-schema-in-vuejs
   year: 2022
-  type: article
+  type: tutorial
   summary: A tutorial on generating web forms using JSON Schema and VueJS
 
 - title: TypedWebhook.tools
