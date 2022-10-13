@@ -808,3 +808,9 @@
   year: 2017
   type: video
   summary: With JSON Schema you are required to define your data and the available tooling to do so is not really great (yet). This presentation provides you with criteria to judge whether JSON Schema could be beneficial for your project or is just too much overhead
+
+- title: "Easy and Quick Form Generation Using JSON Schema in VueJS"
+  url: https://www.bacancytechnology.com/blog/form-generation-using-json-schema-in-vuejs
+  year: 2022
+  type: article
+  summary: A tutorial on generating web forms using JSON Schema and VueJS
