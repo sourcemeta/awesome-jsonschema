@@ -802,3 +802,9 @@
   url: https://app.quicktype.io
   type: tool
   summary: An online JSON Schema code-generation utility with diverse programming language support
+
+- title: 'JSON Schema - the Good, the Bad and the Ugly'
+  url: https://vimeo.com/222489288
+  year: 2017
+  type: video
+  summary: With JSON Schema you are required to define your data and the available tooling to do so is not really great (yet). This presentation provides you with criteria to judge whether JSON Schema could be beneficial for your project or is just too much overhead

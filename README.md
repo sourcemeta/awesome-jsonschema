@@ -205,6 +205,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2020) [What is JSON Schema](https://www.youtube.com/watch?v=kK-_gL7Vsc0?utm_source=awesome-jsonschema) - A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document.
 - (2019) [What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example](https://www.youtube.com/watch?v=hGXxXyJmaUo?utm_source=awesome-jsonschema) - An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io.
 - (2019) [JSON Schema Validation: How to Validate JSON Schema with Postman?](https://www.youtube.com/watch?v=X072eKtOIio?utm_source=awesome-jsonschema) - An introduction to JSON Schema and how to use it in Postman.
+- (2017) [JSON Schema - the Good, the Bad and the Ugly](https://vimeo.com/222489288?utm_source=awesome-jsonschema) - With JSON Schema you are required to define your data and the available tooling to do so is not really great (yet). This presentation provides you with criteria to judge whether JSON Schema could be beneficial for your project or is just too much overhead.
 
 ## Podcasts
 
