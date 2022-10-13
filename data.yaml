@@ -741,3 +741,9 @@
   year: 2021
   type: video
   summary: In this session you'll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary
+
+- title: 'JSON Schema In Production - You Can Use It Today - Ben Hutton, Postman'
+  url: https://www.youtube.com/watch?v=48QgjmwLWh0
+  year: 2022
+  type: video
+  summary: Gear the about the journey of organizations that use JSON Schema in production today, and learn about how JSON Schema continues to deliver value.
