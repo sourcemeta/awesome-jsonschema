@@ -825,3 +825,9 @@
   year: 2022
   type: article
   summary: An overview of API documentation generation using Hyper Schema and OpenAPI
+
+- title: "Forming new relationships: Contributing to Open source"
+  url: https://www.crossref.org/blog/forming-new-relationships-contributing-to-open-source/
+  year: 2022
+  type: article
+  summary: A description of adopting and extending JSON Forms, a JSON Schema based form rendering library, to support VueJS and Vuetify.
