@@ -150,7 +150,9 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Articles
 
+- (2022) [What is &quot;Modern&quot; JSON Schema?](https://modern-json-schema.com/what-is-modern-json-schema?utm_source=awesome-jsonschema) - How &quot;modern&quot; JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than &quot;classical&quot; JSON Schema (draft-07 and earlier).
 - (2022) [Using Dynamic References to Support Generic Types](https://json-schema.org/blog/posts/dynamicref-and-generics?utm_source=awesome-jsonschema) - Representing generic types from strongly-typed programming languages with JSON Schema.
+- (2022) [JSON Schema is a constraint system](https://modern-json-schema.com/json-schema-is-a-constraint-system?utm_source=awesome-jsonschema) - Or: Why object-oriented programming is a mis-matched mental model for JSON Schema.
 - (2022) [Forming new relationships: Contributing to Open source](https://www.crossref.org/blog/forming-new-relationships-contributing-to-open-source/?utm_source=awesome-jsonschema) - A description of adopting and extending JSON Forms, a JSON Schema based form rendering library, to support VueJS and Vuetify..
 - (2022) [Docs! Docs! Docs!](https://brandur.org/nanoglyphs/031-api-docs?utm_source=awesome-jsonschema) - An overview of API documentation generation using Hyper Schema and OpenAPI.
 - (2021) [Understanding API Complexity Through Schema Entropy](https://smizell.com/posts/2021/05/understanding-api-complexity-through-schema-entropy/?utm_source=awesome-jsonschema) - A look at API complexity by analyzing entropy of JSON Schema documents.

@@ -831,3 +831,15 @@
   year: 2022
   type: article
   summary: A description of adopting and extending JSON Forms, a JSON Schema based form rendering library, to support VueJS and Vuetify.
+
+- title: "JSON Schema is a constraint system"
+  url: https://modern-json-schema.com/json-schema-is-a-constraint-system
+  year: 2022
+  type: article
+  summary: "Or: Why object-oriented programming is a mis-matched mental model for JSON Schema"
+
+- title: "What is \"Modern\" JSON Schema?"
+  url: https://modern-json-schema.com/what-is-modern-json-schema
+  year: 2022
+  type: article
+  summary: "How \"modern\" JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than \"classical\" JSON Schema (draft-07 and earlier)"
