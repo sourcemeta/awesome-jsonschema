@@ -843,3 +843,9 @@
   year: 2022
   type: article
   summary: "How \"modern\" JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than \"classical\" JSON Schema (draft-07 and earlier)"
+
+- title: Validating Streaming JSON Documents with Learned VPAs
+  url: https://arxiv.org/abs/2211.08891
+  year: 2022
+  type: paper
+  summary: This paper presents a new streaming algorithm to validate JSON documents against a set of constraints given as a JSON schema. It proves that there always exists a visibly pushdown automaton (VPA) that accepts the same set of JSON documents as a JSON schema
