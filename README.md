@@ -122,6 +122,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [KrakenD](https://www.krakend.io/docs/endpoints/json-schema/?utm_source=awesome-jsonschema) - KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends.
 - [Lightblue.io](https://docs.lightblue.io/standards/json_schema.html?utm_source=awesome-jsonschema) - The Lightblue document based data access layer framework uses JSON Schema to define certain file resources in the project.
 - [Linux](https://www.kernel.org/doc/html/latest/devicetree/bindings/writing-schema.html?utm_source=awesome-jsonschema) - The Linux kernel uses JSON Schema to define Devicetree bindings.
+- [Manfred](https://www.youtube.com/watch?v=KB2DkeQo8d8?utm_source=awesome-jsonschema) - Manfred uses JSON Schema to define their APIs and their open CV format.
 - [Microsoft](https://github.com/microsoft/json-schemas?utm_source=awesome-jsonschema) - A collection of JSON Schema definitions used by products and services at Microsoft.
 - [MongoDB](https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/?utm_source=awesome-jsonschema) - MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints.
 - [Mozilla Data Pipeline](https://docs.telemetry.mozilla.org/concepts/pipeline/schemas.html?utm_source=awesome-jsonschema) - Mozilla Data Pipeline uses JSON Schema to define telemetry data ingested from Mozilla products and logs from various services.

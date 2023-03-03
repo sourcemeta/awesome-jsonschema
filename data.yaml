@@ -849,3 +849,8 @@
   year: 2022
   type: paper
   summary: This paper presents a new streaming algorithm to validate JSON documents against a set of constraints given as a JSON schema. It proves that there always exists a visibly pushdown automaton (VPA) that accepts the same set of JSON documents as a JSON schema
+
+- title: Manfred
+  url: https://www.youtube.com/watch?v=KB2DkeQo8d8
+  type: adoption
+  summary: Manfred uses JSON Schema to define their APIs and their open CV format
