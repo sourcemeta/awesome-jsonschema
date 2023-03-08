@@ -45,6 +45,7 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 - [GitHub](https://github.com/json-schema-org?utm_source=awesome-jsonschema) - The official GitHub organization of the JSON Schema project.
 - [GitHub Discussions](https://github.com/json-schema-org/community/discussions?utm_source=awesome-jsonschema) - The discussions page of JSON Schema.
+- [Learn JSON Schema](https://www.learnjsonschema.com?utm_source=awesome-jsonschema) - Reference documentation for JSON Schema.
 - [Slack](https://json-schema.org/slack?utm_source=awesome-jsonschema) - The official Slack workspace of JSON Schema.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/jsonschema?utm_source=awesome-jsonschema) - The JSON Schema tag in Stack Overflow.
 - [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite?utm_source=awesome-jsonschema) - The official test suite for JSON Schema implementations.

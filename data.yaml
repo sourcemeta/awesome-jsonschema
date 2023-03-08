@@ -854,3 +854,8 @@
   url: https://www.youtube.com/watch?v=KB2DkeQo8d8
   type: adoption
   summary: Manfred uses JSON Schema to define their APIs and their open CV format
+
+- title: Learn JSON Schema
+  url: https://www.learnjsonschema.com
+  type: official
+  summary: Reference documentation for JSON Schema
