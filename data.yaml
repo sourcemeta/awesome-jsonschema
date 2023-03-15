@@ -859,3 +859,9 @@
   url: https://www.learnjsonschema.com
   type: official
   summary: Reference documentation for JSON Schema
+
+- title: Understanding JSON Schema compatibility
+  url: https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/
+  year: 2021
+  type: article
+  summary: A study of open, closed, and partially-open content models when evolving schemas in a backward, forward, or fully compatible manners
