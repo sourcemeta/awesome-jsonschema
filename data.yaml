@@ -865,3 +865,9 @@
   year: 2021
   type: article
   summary: A study of open, closed, and partially-open content models when evolving schemas in a backward, forward, or fully compatible manners
+
+- title: Not Elimination and Witness Generation for JSON Schema
+  url: https://arxiv.org/abs/2104.14828
+  year: 2021
+  type: paper
+  summary: "In this paper, we present an algebraic characterization of JSON Schema, obtained by adding opportune operators, and by mirroring existing ones. We present then algebra-based approaches for dealing with not-elimination and witness generation problems, which play a central role as they lead to solutions for the other mentioned complex problems."
