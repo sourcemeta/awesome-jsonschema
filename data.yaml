@@ -871,3 +871,8 @@
   year: 2021
   type: paper
   summary: "In this paper, we present an algebraic characterization of JSON Schema, obtained by adding opportune operators, and by mirroring existing ones. We present then algebra-based approaches for dealing with not-elimination and witness generation problems, which play a central role as they lead to solutions for the other mentioned complex problems."
+
+- title: National Cancer Institute
+  url: https://github.com/NCI-GDC/gdcdictionary/tree/develop/gdcdictionary/schemas
+  type: adoption
+  summary: The National Cancer Institute uses JSON Schema to model entities for their Genomic Data Commons collection
