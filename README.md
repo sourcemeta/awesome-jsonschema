@@ -189,6 +189,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Books
 
+- (2024) [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://www.oreilly.com/library/view/unifying-business-data/9781098144999/?utm_source=awesome-jsonschema) - Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you a methodology for effective data management..
 - (2021) [API by Design](https://smizell.gumroad.com/l/apibydesign?utm_source=awesome-jsonschema) - Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions.
 - (2017) [JSON at Work](https://www.oreilly.com/library/view/json-at-work/9781491982389/?utm_source=awesome-jsonschema) - A comprehensive overview of the JSON ecosystem, including JSON Schema.
 - (2014) [Using JSON Schema](https://books.apple.com/us/book/using-json-schema/id903248630?utm_source=awesome-jsonschema) - Learn and Apply JSON Schema by Example, with JavaScript (Node.js) and Python Programs.
