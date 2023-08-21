@@ -912,3 +912,9 @@
   year: 2023
   type: article
   summary: Large language models can be exploited to automatically augment JSON Schemas with useful information.
+
+- title: "Unifying Business, Data, and Code: Designing Data Products with JSON Schema"
+  url: https://www.oreilly.com/library/view/unifying-business-data/9781098144999/
+  year: 2024
+  type: book
+  summary: Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you a methodology for effective data management.
