@@ -870,7 +870,7 @@
   url: https://arxiv.org/abs/2104.14828
   year: 2021
   type: paper
-  summary: "In this paper, we present an algebraic characterization of JSON Schema, obtained by adding opportune operators, and by mirroring existing ones. We present then algebra-based approaches for dealing with not-elimination and witness generation problems, which play a central role as they lead to solutions for the other mentioned complex problems."
+  summary: "In this paper, we present an algebraic characterization of JSON Schema, obtained by adding opportune operators, and by mirroring existing ones. We present then algebra-based approaches for dealing with not-elimination and witness generation problems, which play a central role as they lead to solutions for the other mentioned complex problems"
 
 - title: National Cancer Institute
   url: https://github.com/NCI-GDC/gdcdictionary/tree/develop/gdcdictionary/schemas
@@ -881,40 +881,40 @@
   url: https://github.com/dataunitylab/jsonoid-discovery
   year: 2023
   type: paper
-  summary: A tool for distributed JSON schema discovery including many properties of the data.
+  summary: A tool for distributed JSON schema discovery including many properties of the data
 
 - title: Enhancing JSON Schema Discovery by Uncovering Hidden Data
   url: https://ceur-ws.org/Vol-2971/paper11.pdf
   year: 2021
   type: paper
-  summary: Enhancing discovered JSON Schemas by disambiguating data and metadata.
+  summary: Enhancing discovered JSON Schemas by disambiguating data and metadata
 
 - title: 'JSONoid: Monoid-based Enrichment for Configurable and Scalable Data-Driven Schema Discovery'
   url: https://arxiv.org/abs/2307.03113
   year: 2023
   type: paper
-  summary: Meaningful schema information for semi-structured data.
+  summary: Meaningful schema information for semi-structured data
 
 - title: Comprehending Semantic Types in JSON Data with Graph Neural Networks
   url: https://arxiv.org/abs/2307.12807
   year: 2023
   type: paper
-  summary: Graph neural networks for semantic type detection in JSON.
+  summary: Graph neural networks for semantic type detection in JSON
 
 - title: Fast Discovery of Nested Dependencies on JSON Data
   url: https://arxiv.org/abs/2111.10398
   year: 2021
   type: paper
-  summary: Efficient dependency mining algorithms for non-relational data.
+  summary: Efficient dependency mining algorithms for non-relational data
 
 - title: LLMs for Schema Augmentation
   url: https://michael.mior.ca/blog/llms-for-schema-augmentation/
   year: 2023
   type: article
-  summary: Large language models can be exploited to automatically augment JSON Schemas with useful information.
+  summary: Large language models can be exploited to automatically augment JSON Schemas with useful information
 
 - title: "Unifying Business, Data, and Code: Designing Data Products with JSON Schema"
   url: https://www.oreilly.com/library/view/unifying-business-data/9781098144999/
   year: 2024
   type: book
-  summary: Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you a methodology for effective data management.
+  summary: Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you a methodology for effective data management
