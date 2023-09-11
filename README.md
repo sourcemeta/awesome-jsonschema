@@ -224,6 +224,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Papers
 
+- (2023) [An Analysis of Defects in Public JSON Schemas](https://www.cri.minesparis.psl.eu/classement/doc/A-794.pdf) - Analysis of common defects found in publicly available schemas leading to recommend changes to the spec.
 - (2023) [JSONoid: Monoid-based Enrichment for Configurable and Scalable Data-Driven Schema Discovery](https://arxiv.org/abs/2307.03113?utm_source=awesome-jsonschema) - Meaningful schema information for semi-structured data.
 - (2023) [JSONoid: Distributed JSON Schema Discovery](https://github.com/dataunitylab/jsonoid-discovery?utm_source=awesome-jsonschema) - A tool for distributed JSON schema discovery including many properties of the data.
 - (2023) [Comprehending Semantic Types in JSON Data with Graph Neural Networks](https://arxiv.org/abs/2307.12807?utm_source=awesome-jsonschema) - Graph neural networks for semantic type detection in JSON.
