@@ -918,3 +918,9 @@
   year: 2024
   type: book
   summary: Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you a methodology for effective data management
+
+- title: An Analysis of Defects in Public JSON Schemas
+  url: https://www.cri.minesparis.psl.eu/classement/doc/A-794.pdf
+  year: 2023
+  type: paper
+  summary: Analysis of common defects found in publicly available schemas leading to recommend changes to the spec
