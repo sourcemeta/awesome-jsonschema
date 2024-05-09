@@ -924,3 +924,9 @@
   year: 2023
   type: paper
   summary: Analysis of common defects found in publicly available schemas leading to recommend changes to the spec
+
+- title: N.A.S.A 
+  url: https://gcn.nasa.gov/docs/notices/schema
+  year: 2023
+  type: adoption
+  summary: N.A.S.A adopts the GCN Unified Schema is a framework for defining GCN Notices expressed in JSON format using the JSON Schema
