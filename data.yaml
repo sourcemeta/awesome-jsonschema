@@ -855,11 +855,6 @@
   type: adoption
   summary: Manfred uses JSON Schema to define their APIs and their open CV format
 
-- title: Learn JSON Schema
-  url: https://www.learnjsonschema.com
-  type: official
-  summary: Reference documentation for JSON Schema
-
 - title: Understanding JSON Schema compatibility
   url: https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/
   year: 2021
