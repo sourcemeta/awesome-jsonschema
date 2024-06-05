@@ -624,10 +624,20 @@
   type: registry
   summary: The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found
 
-- title: Sourcemeta Schemas
-  url: https://schemas.sourcemeta.com
+- title: Conda Schemas
+  url: https://github.com/conda/schemas
   type: registry
-  summary: An immutable collection of curated and versioned modern JSON Schema definitions
+  summary: Conda file formats and schemas
+
+- title: Intelligence.AI Schemas
+  url: https://studio.intelligence.ai
+  type: registry
+  summary: A schema registry by Intelligence.AI
+
+- title: OCSF Schemas
+  url: https://github.com/ocsf/ocsf-schema
+  type: registry
+  summary: This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework
 
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema

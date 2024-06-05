@@ -94,8 +94,10 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 ## Registries
 
+- [Conda Schemas](https://github.com/conda/schemas?utm_source=awesome-jsonschema) - Conda file formats and schemas.
+- [Intelligence.AI Schemas](https://studio.intelligence.ai?utm_source=awesome-jsonschema) - A schema registry by Intelligence.AI.
+- [OCSF Schemas](https://github.com/ocsf/ocsf-schema?utm_source=awesome-jsonschema) - This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework.
 - [SchemaStore](https://www.schemastore.org?utm_source=awesome-jsonschema) - The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found.
-- [Sourcemeta Schemas](https://schemas.sourcemeta.com?utm_source=awesome-jsonschema) - An immutable collection of curated and versioned modern JSON Schema definitions.
 
 ## Adoption
 
