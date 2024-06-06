@@ -639,6 +639,11 @@
   type: registry
   summary: This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework
 
+- title: KrakenD Schemas
+  url: https://github.com/krakend/krakend-schema
+  type: registry
+  summary: This repository contains the source code used to publish KrakenD's configuration schemas
+
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema
   type: adoption
