@@ -19,8 +19,8 @@ documents.
 
 ---
 
-**Interested in JSON Schema? Come join us at the official [JSON Schema Office
-Hours](https://github.com/json-schema-org/community/discussions/34)!**
+**Would you like to promote your company or product here? [Sponsor us on
+GitHub](https://github.com/sponsors/sourcemeta)**
 
 ---
 
