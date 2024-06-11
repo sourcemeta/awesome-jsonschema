@@ -644,6 +644,11 @@
   type: registry
   summary: This repository contains the source code used to publish KrakenD's configuration schemas
 
+- title: AsyncAPI Schemas
+  url: https://github.com/asyncapi/spec-json-schemas
+  type: registry
+  summary: This repository contains all the JSON Schema documents for validating AsyncAPI documents
+
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema
   type: adoption

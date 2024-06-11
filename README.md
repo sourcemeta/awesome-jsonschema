@@ -94,6 +94,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Registries
 
+- [AsyncAPI Schemas](https://github.com/asyncapi/spec-json-schemas?utm_source=awesome-jsonschema) - This repository contains all the JSON Schema documents for validating AsyncAPI documents.
 - [Conda Schemas](https://github.com/conda/schemas?utm_source=awesome-jsonschema) - Conda file formats and schemas.
 - [Intelligence.AI Schemas](https://studio.intelligence.ai?utm_source=awesome-jsonschema) - A schema registry by Intelligence.AI.
 - [KrakenD Schemas](https://github.com/krakend/krakend-schema?utm_source=awesome-jsonschema) - This repository contains the source code used to publish KrakenD&#x27;s configuration schemas.
