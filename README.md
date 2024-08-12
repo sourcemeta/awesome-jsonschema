@@ -273,6 +273,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [JSON Schema Viewer](http://jlblcc.github.io/json-schema-viewer/?utm_source=awesome-jsonschema) - An online tool to visualize JSON Schema definitions.
 - [JSON Schema Validator and Generator](https://extendsclass.com/json-schema-validator.html?utm_source=awesome-jsonschema) - An online JSON Schema validator that can generate JSON Schema from JSON documents and generate random JSON documents from JSON Schema.
 - [JSON Schema Validator](https://www.jsonschemavalidator.net?utm_source=awesome-jsonschema) - An online JSON Schema validator with support for JSON Schema Draft 3, Draft 4, Draft 6, Draft 7 and Draft 2019-09.
+- [JSON Schema CLI](https://github.com/intelligence-ai/jsonschema?utm_source=awesome-jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines.
 - [Hyperjump JSON Schema Validator](https://json-schema.hyperjump.io?utm_source=awesome-jsonschema) - An online JSON Schema validator that supports Draft 04, 06, 07, 2019-09, and 2020-12.
 - [AlterSchema](https://alterschema.sourcemeta.com?utm_source=awesome-jsonschema) - Convert a JSON Schema definition between specification versions.
 
