@@ -956,3 +956,9 @@
   year: 2022
   type: paper
   summary: This paper discussed the use of JSON Schema to define human and machine readable metadata models
+
+- title: "Blaze: Compiling JSON Schema for 10x Faster Validation"
+  url: https://arxiv.org/abs/2503.02770
+  year: 2025
+  type: paper
+  summary: This paper introduces Blaze, a JSON Schema validator compiles complex schemas to an efficient representation in seconds to minutes, adding minimal overhead at build time. Blaze incorporates several unique optimizations to reduce the validation time by an average of approximately 10x compared existing validators on a variety of datasets. In some cases, Blaze achieves a reduction in validation time of multiple orders of magnitude compared to the next fastest validator. We also demonstrate that several popular validators produce incorrect results in some cases, while Blaze maintains strict adherence to the JSON Schema specification.
