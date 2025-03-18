@@ -559,6 +559,11 @@
   type: tool
   summary: An online JSON Schema validator that can generate JSON Schema from JSON documents and generate random JSON documents from JSON Schema
 
+- title: JSON Schema Generator
+  url: https://jsoning.com/jsonschema/
+  type: tool
+  summary: An online JSON Schema generator that can generate JSON Schema from JSON documents
+
 - title: Top-Down Model-Driven Engineering of Web Services from Extended OpenAPI Models
   url: https://ieeexplore.ieee.org/abstract/document/9000020
   year: 2018
