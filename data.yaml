@@ -624,10 +624,30 @@
   type: registry
   summary: The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found
 
-- title: Sourcemeta Schemas
-  url: https://schemas.sourcemeta.com
+- title: Conda Schemas
+  url: https://github.com/conda/schemas
   type: registry
-  summary: An immutable collection of curated and versioned modern JSON Schema definitions
+  summary: Conda file formats and schemas
+
+- title: Intelligence.AI Schemas
+  url: https://studio.intelligence.ai
+  type: registry
+  summary: A schema registry by Intelligence.AI
+
+- title: OCSF Schemas
+  url: https://github.com/ocsf/ocsf-schema
+  type: registry
+  summary: This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework
+
+- title: KrakenD Schemas
+  url: https://github.com/krakend/krakend-schema
+  type: registry
+  summary: This repository contains the source code used to publish KrakenD's configuration schemas
+
+- title: AsyncAPI Schemas
+  url: https://github.com/asyncapi/spec-json-schemas
+  type: registry
+  summary: This repository contains all the JSON Schema documents for validating AsyncAPI documents
 
 - title: TILT (machine-readable privacy policies)
   url: https://github.com/Transparency-Information-Language/schema
@@ -855,11 +875,6 @@
   type: adoption
   summary: Manfred uses JSON Schema to define their APIs and their open CV format
 
-- title: Learn JSON Schema
-  url: https://www.learnjsonschema.com
-  type: official
-  summary: Reference documentation for JSON Schema
-
 - title: Understanding JSON Schema compatibility
   url: https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/
   year: 2021
@@ -930,3 +945,26 @@
   year: 2023
   type: adoption
   summary: NASA maintains the GCN Unified Schema, a collection of JSON Schemas designed for crafting GCN notices expressed in JSON format
+
+- title: JSON Schema CLI
+  url: https://github.com/intelligence-ai/jsonschema
+  type: tool
+  summary: The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines
+
+- title: "Validation of Modern JSON Schema: Formalization and Complexity"
+  url: https://arxiv.org/abs/2307.10034
+  year: 2024
+  type: paper
+  summary: In this paper, we give the first formal description of Modern JSON Schema, which we consider a central contribution of the work that we present here. We then prove that its data validation problem is PSPACE-complete. We prove that the origin of the problem lies in dynamic references, and not in annotation-dependent validation. We study the schema and data complexities, showing that the problem is PSPACE-complete with respect to the schema size even with a fixed instance, but is in PTIME when the schema is fixed and only the instance size is allowed to vary. Finally, we run experiments that show that there are families of schemas where the difference in asymptotic complexity between dynamic and static references is extremely visible, even with small schemas.
+
+- title: "Machine actionable metadata models"
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9525592/
+  year: 2022
+  type: paper
+  summary: This paper discussed the use of JSON Schema to define human and machine readable metadata models
+
+- title: "Blaze: Compiling JSON Schema for 10x Faster Validation"
+  url: https://arxiv.org/abs/2503.02770
+  year: 2025
+  type: paper
+  summary: This paper introduces Blaze, a JSON Schema validator compiles complex schemas to an efficient representation in seconds to minutes, adding minimal overhead at build time. Blaze incorporates several unique optimizations to reduce the validation time by an average of approximately 10x compared existing validators on a variety of datasets. In some cases, Blaze achieves a reduction in validation time of multiple orders of magnitude compared to the next fastest validator. We also demonstrate that several popular validators produce incorrect results in some cases, while Blaze maintains strict adherence to the JSON Schema specification.

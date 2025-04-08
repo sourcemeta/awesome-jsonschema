@@ -19,10 +19,17 @@ documents.
 
 ---
 
-**Interested in JSON Schema? Come join us at the official [JSON Schema Office
-Hours](https://github.com/json-schema-org/community/discussions/34)!**
+**Would you like to promote your company or product here? [Sponsor us on
+GitHub](https://github.com/sponsors/sourcemeta)**
 
 ---
+
+> [!TIP]
+> Do you want to level up your JSON Schema skills? Check out
+> [learnjsonschema.com](https://www.learnjsonschema.com), our growing JSON
+> Schema documentation website, and our O'Reilly book [Unifying Business, Data,
+> and Code: Designing Data Products with JSON
+> Schema](https://www.oreilly.com/library/view/unifying-business-data/9781098144999/).
 
 ## Contents
 
@@ -45,7 +52,6 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 - [GitHub](https://github.com/json-schema-org?utm_source=awesome-jsonschema) - The official GitHub organization of the JSON Schema project.
 - [GitHub Discussions](https://github.com/json-schema-org/community/discussions?utm_source=awesome-jsonschema) - The discussions page of JSON Schema.
-- [Learn JSON Schema](https://www.learnjsonschema.com?utm_source=awesome-jsonschema) - Reference documentation for JSON Schema.
 - [Slack](https://json-schema.org/slack?utm_source=awesome-jsonschema) - The official Slack workspace of JSON Schema.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/jsonschema?utm_source=awesome-jsonschema) - The JSON Schema tag in Stack Overflow.
 - [Test Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite?utm_source=awesome-jsonschema) - The official test suite for JSON Schema implementations.
@@ -88,8 +94,12 @@ Hours](https://github.com/json-schema-org/community/discussions/34)!**
 
 ## Registries
 
+- [AsyncAPI Schemas](https://github.com/asyncapi/spec-json-schemas?utm_source=awesome-jsonschema) - This repository contains all the JSON Schema documents for validating AsyncAPI documents.
+- [Conda Schemas](https://github.com/conda/schemas?utm_source=awesome-jsonschema) - Conda file formats and schemas.
+- [Intelligence.AI Schemas](https://studio.intelligence.ai?utm_source=awesome-jsonschema) - A schema registry by Intelligence.AI.
+- [KrakenD Schemas](https://github.com/krakend/krakend-schema?utm_source=awesome-jsonschema) - This repository contains the source code used to publish KrakenD&#x27;s configuration schemas.
+- [OCSF Schemas](https://github.com/ocsf/ocsf-schema?utm_source=awesome-jsonschema) - This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework.
 - [SchemaStore](https://www.schemastore.org?utm_source=awesome-jsonschema) - The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found.
-- [Sourcemeta Schemas](https://schemas.sourcemeta.com?utm_source=awesome-jsonschema) - An immutable collection of curated and versioned modern JSON Schema definitions.
 
 ## Adoption
 
@@ -225,6 +235,8 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 
 ## Papers
 
+- (2025) [Blaze: Compiling JSON Schema for 10x Faster Validation](https://arxiv.org/abs/2503.02770?utm_source=awesome-jsonschema) - This paper introduces Blaze, a JSON Schema validator compiles complex schemas to an efficient representation in seconds to minutes, adding minimal overhead at build time. Blaze incorporates several unique optimizations to reduce the validation time by an average of approximately 10x compared existing validators on a variety of datasets. In some cases, Blaze achieves a reduction in validation time of multiple orders of magnitude compared to the next fastest validator. We also demonstrate that several popular validators produce incorrect results in some cases, while Blaze maintains strict adherence to the JSON Schema specification..
+- (2024) [Validation of Modern JSON Schema: Formalization and Complexity](https://arxiv.org/abs/2307.10034?utm_source=awesome-jsonschema) - In this paper, we give the first formal description of Modern JSON Schema, which we consider a central contribution of the work that we present here. We then prove that its data validation problem is PSPACE-complete. We prove that the origin of the problem lies in dynamic references, and not in annotation-dependent validation. We study the schema and data complexities, showing that the problem is PSPACE-complete with respect to the schema size even with a fixed instance, but is in PTIME when the schema is fixed and only the instance size is allowed to vary. Finally, we run experiments that show that there are families of schemas where the difference in asymptotic complexity between dynamic and static references is extremely visible, even with small schemas..
 - (2023) [JSONoid: Monoid-based Enrichment for Configurable and Scalable Data-Driven Schema Discovery](https://arxiv.org/abs/2307.03113?utm_source=awesome-jsonschema) - Meaningful schema information for semi-structured data.
 - (2023) [JSONoid: Distributed JSON Schema Discovery](https://github.com/dataunitylab/jsonoid-discovery?utm_source=awesome-jsonschema) - A tool for distributed JSON schema discovery including many properties of the data.
 - (2023) [Comprehending Semantic Types in JSON Data with Graph Neural Networks](https://arxiv.org/abs/2307.12807?utm_source=awesome-jsonschema) - Graph neural networks for semantic type detection in JSON.
@@ -232,6 +244,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - (2022) [Witness Generation for JSON Schema](https://arxiv.org/abs/2202.12849?utm_source=awesome-jsonschema) - JSON Schema is an important, evolving standard schema language for families of JSON documents. It is based on a complex combination of structural and Boolean assertions, and features negation and recursion. The static analysis of JSON Schema documents comprises practically relevant problems, including schema satisfiability, inclusion, and equivalence. These three problems can be reduced to witness generation: given a schema, generate an element of the schema, if it exists, and report failure otherwise.
 - (2022) [Validating Streaming JSON Documents with Learned VPAs](https://arxiv.org/abs/2211.08891?utm_source=awesome-jsonschema) - This paper presents a new streaming algorithm to validate JSON documents against a set of constraints given as a JSON schema. It proves that there always exists a visibly pushdown automaton (VPA) that accepts the same set of JSON documents as a JSON schema.
 - (2022) [The Usage of Negation in Real-World JSON Schema Documents](http://bilioso.isti.cnr.it/sebd2022/preprint/SEBD_2022_Camera-ready_PDF_8.pdf?utm_source=awesome-jsonschema) - Many software tools, but also formal frameworks for working with JSON Schema, do not fully support negation. This motivates us to study whether negation is actually used in practice, for which aims, and whether it could, in principle, be replaced by simpler operators. We have collected a large corpus of 80k open source JSON Schema documents. We perform a systematic analysis, quantify usage patterns of negation, and also qualitatively analyze schemas. We show that negation is indeed used, albeit infrequently, following a stable set of patterns.
+- (2022) [Machine actionable metadata models](https://pmc.ncbi.nlm.nih.gov/articles/PMC9525592/?utm_source=awesome-jsonschema) - This paper discussed the use of JSON Schema to define human and machine readable metadata models.
 - (2022) [JSON BinPack: A space-efficient schema-driven and schema-less binary serialization specification based on JSON Schema](https://www.jviotti.com/assets/dissertation.pdf?utm_source=awesome-jsonschema) - A survey and benchmark of JSON-compatible binary serialization specifications followed by the introduction of JSON BinPack, a novel protocol-independent schema-driven and schema-less binary serialization specification that is strictly-compatible with JSON and takes advantage of JSON Schema formal definitions to produce bit-strings that are space-efficient in comparison to every considered alternative serialization specification.
 - (2022) [Implicit JSON Schema Versioning Triggered by Temporal Updates to JSON-Based Big Data in the τJSchema Framework](https://link.springer.com/chapter/10.1007/978-3-031-07969-6_3?utm_source=awesome-jsonschema) - This paper proposes an approach for handling implicit schema changes triggered by temporal updates of JSON-based Big Data. More precisely, when a user specifies a temporal JSON update operation that modifies a snapshot JSON component assigning a valid-time timestamp to its new value, the execution of such an operation requires the JSON component to become temporal, which is for all intents a schema change. Thus, a new version of the τJSchema temporal characteristics document is generated, with the addition of a new valid-time characteristic. New versions of the temporal JSON schema and of the temporal JSON document are also accordingly created.
 - (2021) [TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy Engineering](https://dl.acm.org/doi/10.1145/3442188.3445925?utm_source=awesome-jsonschema) - We present TILT, a transparency information language and toolkit explicitly designed to represent and process transparency information in line with the requirements of the GDPR and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do.
@@ -264,6 +277,7 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 - [JSON Schema Viewer](http://jlblcc.github.io/json-schema-viewer/?utm_source=awesome-jsonschema) - An online tool to visualize JSON Schema definitions.
 - [JSON Schema Validator and Generator](https://extendsclass.com/json-schema-validator.html?utm_source=awesome-jsonschema) - An online JSON Schema validator that can generate JSON Schema from JSON documents and generate random JSON documents from JSON Schema.
 - [JSON Schema Validator](https://www.jsonschemavalidator.net?utm_source=awesome-jsonschema) - An online JSON Schema validator with support for JSON Schema Draft 3, Draft 4, Draft 6, Draft 7 and Draft 2019-09.
+- [JSON Schema CLI](https://github.com/intelligence-ai/jsonschema?utm_source=awesome-jsonschema) - The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines.
 - [Hyperjump JSON Schema Validator](https://json-schema.hyperjump.io?utm_source=awesome-jsonschema) - An online JSON Schema validator that supports Draft 04, 06, 07, 2019-09, and 2020-12.
 - [AlterSchema](https://alterschema.sourcemeta.com?utm_source=awesome-jsonschema) - Convert a JSON Schema definition between specification versions.
 
