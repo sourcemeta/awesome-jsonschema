@@ -940,6 +940,12 @@
   type: paper
   summary: Analysis of common defects found in publicly available schemas leading to recommend changes to the spec
 
+- title: NASA
+  url: https://gcn.nasa.gov/docs/notices/schema
+  year: 2023
+  type: adoption
+  summary: NASA maintains the GCN Unified Schema, a collection of JSON Schemas designed for crafting GCN notices expressed in JSON format
+
 - title: JSON Schema CLI
   url: https://github.com/intelligence-ai/jsonschema
   type: tool
