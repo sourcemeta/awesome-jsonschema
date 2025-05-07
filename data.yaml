@@ -968,3 +968,9 @@
   year: 2025
   type: paper
   summary: This paper introduces JSONSchemaBench, a benchmark for constrained decoding comprising 10K real-world JSON schemas that encompass a wide range of constraints with varying complexity. We pair the benchmark with the existing official JSON Schema Test Suite and evaluate six state-of-the-art constrained decoding frameworks, including Guidance, Outlines, Llamacpp, XGrammar, OpenAI, and Gemini. Through extensive experiments, we gain insights into the capabilities and limitations of constrained decoding on structured generation with real-world JSON schemas.
+
+- title: "Elimination of annotation dependencies in validation for Modern JSON Schema"
+  url: https://arxiv.org/abs/2503.11288
+  year: 2025
+  type: paper
+  summary: This paper proves that the elimination of annotation dependent keywords cannot, in general, avoid an exponential increase of the schema dimension. We provide an algorithm to eliminate these keywords that, despite the theoretical lower bound, behaves quite well in practice, as we verify with an extensive set of experiments.
