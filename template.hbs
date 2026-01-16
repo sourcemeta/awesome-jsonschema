@@ -33,42 +33,46 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Contents
 
-- [Official](#official)
 - [Getting Started](#getting-started)
-- [Vocabularies](#vocabularies)
-- [Registries](#registries)
-- [Adoption](#adoption)
-- [Articles](#articles)
-- [Specifications](#specifications)
-- [Books](#books)
 - [Courses](#courses)
+- [Development Tools](#development-tools)
+- [Books](#books)
+- [Registries](#registries)
+- [Articles](#articles)
+- [Related Specifications](#related-specifications)
 - [Videos](#videos)
-- [Podcasts](#podcasts)
 - [Papers](#papers)
-- [Tools](#tools)
 - [Libraries](#libraries)
-
-## Official
-
-{{#each (sortBy data "title")}}
-{{#compare type "==" "official"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
-{{/compare}}
-{{/each}}
 
 ## Getting Started
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "tutorial"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
-## Vocabularies
+## Courses
+
+{{#each (reverseSortBy data "year")}}
+{{#compare type "==" "course"}}
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{/compare}}
+{{/each}}
+
+## Development Tools
 
 {{#each (sortBy data "title")}}
-{{#compare type "==" "vocabulary"}}
+{{#compare type "==" "tool"}}
 - [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{/compare}}
+{{/each}}
+
+## Books
+
+{{#each (reverseSortBy data "year")}}
+{{#compare type "==" "book"}}
+- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
@@ -76,18 +80,6 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 {{#each (sortBy data "title")}}
 {{#compare type "==" "registry"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
-{{/compare}}
-{{/each}}
-
-## Adoption
-
-*Awesome products and companies that adopted JSON Schema. Did we miss any? [Let
-us
-know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&labels=adoption&template=course.md&title=)*
-
-{{#each (sortBy data "title")}}
-{{#compare type "==" "adoption"}}
 - [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
@@ -100,42 +92,20 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 {{/compare}}
 {{/each}}
 
-## Specifications
+## Related Specifications
 
-{{#each (reverseSortBy data "year")}}
+{{#each (sortBy data "title")}}
 {{#compare type "==" "spec"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
-{{/compare}}
-{{/each}}
-
-## Books
-
-{{#each (reverseSortBy data "year")}}
-{{#compare type "==" "book"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
-{{/compare}}
-{{/each}}
-
-## Courses
-
-{{#each (reverseSortBy data "year")}}
-{{#compare type "==" "course"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
 ## Videos
 
+For more video content, check out the [official JSON Schema YouTube channel](https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA) and the [JSON Schema Conference](https://conference.json-schema.org) website.
+
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "video"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
-{{/compare}}
-{{/each}}
-
-## Podcasts
-
-{{#each (reverseSortBy data "year")}}
-{{#compare type "==" "podcast"}}
 - ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
@@ -148,18 +118,13 @@ know!](https://github.com/jviotti/awesome-jsonschema/issues/new?assignees=&label
 {{/compare}}
 {{/each}}
 
-## Tools
-
-{{#each (sortBy data "subtype")}}
-{{#compare type "==" "tool"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
-{{/compare}}
-{{/each}}
-
 ## Libraries
 
 The JSON Schema website includes an extensive list of implementations and
-related libraries: https://json-schema.org/implementations.html.
+related libraries: https://json-schema.org/implementations.html. Check out the
+[Bowtie](https://bowtie.report) project that measures compliance of JSON Schema
+implementations to help users select properly compliant and maintained
+libraries.
 
 ---
 

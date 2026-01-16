@@ -14,41 +14,6 @@
   type: book
   summary: Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions
 
-- title: 'JSON Schema in Production - #1 Chuck Reeves at Zones'
-  url: https://www.youtube.com/watch?v=fkziMQD7pqQ
-  year: 2022
-  type: video
-  summary: Ben talks to Chuck Reeves, previously at Zones, about how they used JSON Schema to validate data and keep it in a consistent format across their application. Chuck shares how using a public API gateway to validate incoming data saved developers time and compute effort, making sure only valid data was passed downstream to serverless functions or other services
-
-- title: 'JSON Schema in Production - #2 Kin Lane at F5'
-  url: https://www.youtube.com/watch?v=pibZF049zqE
-  year: 2022
-  type: video
-  summary: Kin shares the challenges of building a company wide index of data structures (or Schema Registry), aiming to help understand previous, and avoid future, unexpected breaking changes that really impact customers
-
-- title: 'JSON Schema in Production: #3 Mads Kristensen at Microsoft'
-  url: https://www.youtube.com/watch?v=-yYTxLZZk58
-  year: 2022
-  type: video
-  summary: Mads shares the story of bringing JSON Schema support into Visual Studio back in version 2013, the first editor supporting JSON Schema. What's called .Net Core today needed tooling for their "project.json" file, similar to a "package.json" file. JSON Schema ended up playing a key role in the autocompletion and validation infastructure ontop of a basic JSON editor
-
-- title: 'JSON Schema in Production - #4 David Brownman at Zapier'
-  url: https://www.youtube.com/watch?v=yDL98sd4KVE
-  year: 2022
-  type: video
-  summary: David shares the story of using JSON Schema at Zapier to validate and document their intergration payloads, enabling a better developer experience for their 4000+ intergration partners.
-
-- title: 'JSON Schema in Production - #5 Jens Neuse at Wundergraph'
-  url: https://www.youtube.com/watch?v=_TCU6da0GA8
-  year: 2022
-  type: video
-  summary: Jens Neuse, Founder of Wundergraph shares how Wundergraph compiles GraphQL definitions into JSON RPC and create JSON Schema definitions for each JSON RPC endpoint. Input data is validated using JSON Schema at the middleware-level before executing the corresponding GraphQL query
-
-- title: 'JSON Schema in Production - #6 Suresh Srinivas at OpenMetadata'
-  url: https://www.youtube.com/watch?v=ZrVTZwmTR3k
-  year: 2022
-  type: video
-  summary: We talk to Suresh Srinivas, Co-Founder at Collate, building OpenMetadata. (Previously engineering leadership at Uber and Founder of Hortonworks.)
 
 
 - title: Configuring Umbraco on .NET Core - JSON Schema
@@ -81,21 +46,22 @@
   year: 2021
   type: video
   summary: An tutorial of performing JSON Schema validation in Postman in API tests
-- title: Processing and Interchanging JSON Data
-  url: https://www.linkedin.com/learning/processing-and-interchanging-json-data
-  year: 2017
+- title: Master JSON Schema for OpenAPI
+  url: https://www.sourcemeta.com/courses/jsonschema-for-openapi/
+  year: 2024
   type: course
-  summary: An in-depth guide to working with JSON and the JSON ecosystem including using JSON Schema for validation purposes
-- title: JSON Schema - Crash Course for Beginners
-  url: https://www.udemy.com/course/json-schema-crash-course-for-beginners/
-  year: 2017
-  type: course
-  summary: Learn JSON & JSON Schema in a Quick 30-40 minutes & use it for the rest of your life for complex projects
-- title: JSON Schema Tutorial
-  url: https://www.w3resource.com/JSON/JSON-Schema.php
-  year: 2020
+  summary: A comprehensive 9+ hour video course teaching advanced JSON Schema techniques for API design, covering dynamic references, unevaluated properties, schema composition, testing, linting, and deployment to registries
+- title: JSON Schema Tour
+  url: https://tour.json-schema.org
+  year: 2024
   type: tutorial
-  summary: A tutorial of JSON Schema that discusses validation, documentation and hyperlinking
+  summary: An interactive tutorial to learn JSON Schema step by step
+
+- title: Learn JSON Schema
+  url: https://www.learnjsonschema.com
+  year: 2024
+  type: tutorial
+  summary: A comprehensive JSON Schema documentation website covering all specification versions
 - title: JSON Schema bundling finally formalised
   url: https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
   year: 2021
@@ -112,26 +78,6 @@
   year: 2018
   type: article
   summary: How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
-- title: "REST API Tutorial: JSON Schema"
-  url: https://restfulapi.net/json-schema/
-  year: 2019
-  type: tutorial
-  summary: An short introduction to JSON Schema validation
-- title: "TutorialsPoint: JSON Schema"
-  url: https://www.tutorialspoint.com/json/json_schema.htm
-  year: 2013
-  type: tutorial
-  summary: A short introduction to JSON Schema Draft4 validation
-- title: "An introduction to JSON Schema"
-  url: https://medium.com/swlh/an-introduction-to-json-schema-8eaea643fcda
-  year: 2020
-  type: tutorial
-  summary: An introduction to JSON Schema covering its history, common keywords and how to use the AJV validator
-- title: "Introduction to JSON Schema in Java"
-  url: https://www.baeldung.com/introduction-to-json-schema-in-java
-  year: 2021
-  type: tutorial
-  summary: A short introduction to validating JSON documents with JSON Schema in Java
 - title: "Using the JSON Schema standard for scientific applications?"
   url: https://cerfacs.fr/coop/json-schema-for-sci-apps
   year: 2020
@@ -147,16 +93,6 @@
   year: 2019
   type: article
   summary: Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals
-- title: "Validating and documenting JSON with JSON Schema"
-  url: https://www.mscharhag.com/api-design/json-schema
-  year: 2020
-  type: tutorial
-  summary: An introduction to JSON Schema by example by showing an annotated JSON Schema that validates an example document
-- title: How to Integrate "React JSON Schema Form" into a Redux and Typescript Project
-  url: https://www.xtivia.com/blog/how-to-integrate-react-json-schema-form-into-a-redux-and-typescript-project/
-  year: 2020
-  type: tutorial
-  summary: Adding a form using "React JSON Schema Form" and integrating it with Redux and Typescript
 - title: JSON Schema Validation & Expressive Query Syntax in MongoDB 3.6
   url: https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/
   year: 2018
@@ -167,11 +103,6 @@
   year: 2020
   type: article
   summary: Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax highlighting and validation support of Azure Pipelines workflows
-- title: PHP With MySQL
-  url: https://elephantdolphin.blogspot.com/2019/07/json-schema-validation-with-mysql-8017.html
-  year: 2019
-  type: tutorial
-  summary: A practical tutorial on expressing JSON Schema table constraints on MySQL
 
 - title: Definitions for filtering properties in JSON schema
   url: https://gist.github.com/LucianBuzzo/5ff9106ce3ae12fb58e4def572b9344d
@@ -179,322 +110,54 @@
   type: article
   summary: An introduction to the problem of using JSON Schema for data filtering and querying purposes
 
-- title: Getting started with JSON Hyper-Schema
-  url: https://apisyouwonthate.com/blog/getting-started-with-json-hyper-schema
-  year: 2017
-  type: tutorial
-  summary: An introduction to the Hyper-Schema JSON Schema vocabulary
-
-- title: "JSON Schema: Getting Started Step-By-Step"
-  url: https://json-schema.org/learn/getting-started-step-by-step.html
-  year: 2021
-  type: tutorial
-  summary: A comprehensive introduction to JSON Schema
-
-- title: Understanding JSON Schema
-  url: https://json-schema.org/understanding-json-schema/
-  year: 2021
-  type: tutorial
-  summary: An in-depth guide to JSON Schema
 
 - title: OpenAPI
-  url: https://swagger.io/specification/
-  year: 2021
+  url: https://www.openapis.org
   type: spec
-  summary: The OpenAPI specification embeds and extends JSON Schema for defining API request and responses
+  summary: The OpenAPI Specification embeds and extends JSON Schema for defining API requests and responses
+
 - title: RAML
   url: https://raml.org
-  year: 2021
   type: spec
   summary: The RAML specification supports modeling API data using JSON Schema
 
 - title: W3C Web of Things
   url: https://www.w3.org/WoT/
-  year: 2020
   type: spec
   summary: The Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. WoT models data using JSON Schema
 
 - title: AsyncAPI
-  url: https://www.asyncapi.com/docs/specifications/v2.1.0
-  year: 2021
+  url: https://www.asyncapi.com
   type: spec
   summary: AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). The AsyncAPI specification supports data modeling using JSON Schema
 
 - title: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
-  year: 2021
   type: spec
-  summary: This document introduces an RDF vocabulary for JSON schema definitions. This vocabulary provides a stable namespace IRI for JSON schema keywords, as well as simple axioms, defined against schema.org's meta-model. Various examples on how to use the vocabulary are also introduced, e.g. to annotate schemas with JSON-LD metadata or to embed schema annotations inside RDF graphs
+  summary: This document introduces an RDF vocabulary for JSON Schema definitions. This vocabulary provides a stable namespace IRI for JSON Schema keywords, as well as simple axioms, defined against schema.org's meta-model
 
-- title: JSON Schema Core 2020-12
-  url: https://json-schema.org/draft/2020-12/json-schema-core.html
-  year: 2020
+- title: Semantic Definition Format (SDF)
+  url: https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf/
   type: spec
-  summary: JSON Schema defines the media type "application/schema+json", a JSON-based format for describing the structure of JSON data. JSON Schema asserts what a JSON document must look like, ways to extract information from it, and how to interact with it. The "application/schema-instance+json" media type provides additional feature-rich integration with "application/schema+json" beyond what can be offered for "application/json" documents
+  summary: An IETF specification for modeling Internet of Things devices and their interactions through Properties, Actions, and Events. SDF uses JSON to represent definitions and incorporates JSON Schema for data validation
 
-- title: JSON Schema Validation 2020-12
-  url: https://json-schema.org/draft/2020-12/json-schema-validation.html
-  year: 2020
+- title: Model Context Protocol (MCP)
+  url: https://modelcontextprotocol.io
   type: spec
-  summary: JSON Schema (application/schema+json) has several purposes, one of which is JSON instance validation. This document specifies a vocabulary for JSON Schema to describe the meaning of JSON documents, provide hints for user interfaces working with JSON data, and to make assertions about what a valid document must look like
+  summary: An open standard by Anthropic that enables AI systems like large language models to integrate with external tools and data sources. MCP uses JSON-RPC 2.0 and JSON Schema for defining server capabilities
 
-- title: Relative JSON Pointers
-  url: https://json-schema.org/draft/2020-12/relative-json-pointer.html
-  year: 2020
+- title: Agent2Agent Protocol (A2A)
+  url: https://a2a-protocol.org
   type: spec
-  summary: JSON Pointer is a syntax for specifying locations in a JSON document, starting from the document root. This document defines an extension to the JSON Pointer syntax, allowing relative locations from within the document
+  summary: An open protocol by Google enabling communication and interoperability between agentic applications. A2A uses JSON-RPC 2.0 over HTTP and JSON Schema for defining Agent Cards and message structures
 
-- title: JSON Hyper-Schema
-  url: https://datatracker.ietf.org/doc/html/draft-handrews-json-schema-hyperschema-02
-  year: 2019
+- title: REST API Linked Data Keywords
+  url: https://www.ietf.org/archive/id/draft-polli-restapi-ld-keywords-07.html
   type: spec
-  summary: JSON Schema is a JSON-based format for describing JSON data using various vocabularies.  This document specifies a vocabulary for annotating JSON documents with hyperlinks.  These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
+  summary: An Internet-Draft proposing JSON Schema keywords to attach semantic information to OpenAPI and JSON Schema documents, enabling contract-first API design with RDF type information and JSON-LD context
 
-- title: JSON:API
-  url: https://github.com/json-api/json-api/blob/a0296352b6eb57a4ea3eb08a1332e311f78adafa/schema
-  type: adoption
-  summary: The JSON:API 1.0 and later specifications for building APIs in JSON use JSON Schema to define JSON:API responses
-- title: MongoDB
-  url: https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/
-  type: adoption
-  summary: MongoDB 3.6 and later support JSON Schema for querying data and defining collection constraints
-- title: Assertible
-  url: https://assertible.com/json-schema-validation
-  type: adoption
-  summary: Assertible provides a free-to-use API to validate a JSON document against a JSON Schema and a service to test and monitor web services using JSON Schema
-- title: MySQL
-  url: https://dev.mysql.com/doc/refman/8.0/en/json-validation-functions.html
-  type: adoption
-  summary: MySQL 8.0.17 and later support table constraints to validate a JSON document against a JSON Schema
-- title: Amazon EventBridge Schema Registry
-  url: https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-eventbridge-schema-registry-announces-support-for-json-schema/
-  type: adoption
-  summary: Amazon EventBridge Schema Registry has support for JSON Schema, allowing customers to validate, annotate, and manipulate JSON documents conforming to JSON Schema Draft 4 specification
 
-- title: KrakenD
-  url: https://www.krakend.io/docs/endpoints/json-schema/
-  type: adoption
-  summary: KrakenD endpoints receiving a JSON object in its body can apply automatic validations using the JSON Schema vocabulary before the content passes to the backends
-- title: IBM App Connect
-  url: https://www.ibm.com/docs/en/app-connect/11.0.0?topic=schema-json-requirements-message-maps
-  type: adoption
-  summary: The Graphical Data Mapping editor can be used to create and transform JSON messages with the data model defined from a JSON schema
-- title: Confluent Schema Registry
-  url: https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-json.html
-  type: adoption
-  summary: JSON Schema can be configured with the Apache Kafka Java client and console tools to fail if the payload is not valid for the given schema
-- title: RESTHeart
-  url: https://restheart.org/docs/json-schema-validation/
-  type: adoption
-  summary: "RESTHeart supports MongoDB schema validation to enforce a format to documents: rules-based validation from MongoDB 3.2 and Json Schema validation from MongoDB 3.6"
-- title: MuleSoft
-  url: https://docs.mulesoft.com/json-module/2.1/json-schema-validation
-  type: adoption
-  summary: The MuleSoft integration framework supports validating a JSON document against a JSON Schema
-- title: Apiary
-  url: https://help.apiary.io/api_101/json-schema/
-  type: adoption
-  summary: Apiary's interactive documentation is able to render JSON Schema documents associated with payloads
-- title: Axway API Gateway
-  url: https://docs.axway.com/bundle/APIGateway_762_PolicyDevFilterReference_allOS_en_HTML5/page/Content/PolicyDevTopics/content_schema_json.htm
-  type: adoption
-  summary: The API Gateway can check that JavaScript Object Notation (JSON) messages conform to the format expected by a web service by validating requests against a specified JSON schema
-- title: Ory Kratos
-  url: https://www.ory.sh/kratos/docs/reference/json-schema-json-paths/
-  type: adoption
-  summary: The Ory Kratos identity & user management product relies on JSON Schema from configuration validation, documentation generation for defining identity schemas
-- title: Hackolade
-  url: https://hackolade.com/help/JSONSchema.html
-  type: adoption
-  summary: The Hackolade data modelling service supports defining entities using JSON Schema
-- title: JamF
-  url: https://docs.jamf.com/technical-papers/jamf-pro/json-schema/10.26.0/Understanding_the_Structure_of_a_JSON_Schema_Manifest.html
-  type: adoption
-  summary: The JamF Apple enterprise management service supports creating app manifests using JSON Schema
-- title: SpreadJS
-  url: https://www.grapecity.com/spreadjs/docs/v13/online/jsonschema.html
-  type: adoption
-  summary: The SpreadJS JavaScript spreadsheet library uses JSON Schema to describe the SpreadJS JSON data format
-- title: Contentstack
-  url: https://www.contentstack.com/docs/developers/create-content-types/json-schema-for-creating-a-content-type/
-  type: adoption
-  summary: The Contentstack CMS platform supports creating content types using JSON Schema
-- title: Decisions
-  url: https://documentation.decisions.com/docs/create-types-json-schema
-  type: adoption
-  summary: The Decisions rules-driven business process automation platform support using JSON Schema to generate JSON deserializers
-- title: Informatica
-  url: https://docs.informatica.com/data-integration/b2b-data-transformation/10-2-2/user-guide/wizard-input-and-output-formats/json/sample-json-schema.html
-  type: adoption
-  summary: The Informatica data management platform supports creating auto-generated data processor transformations using JSON Schema
-- title: JetBrains
-  url: https://www.jetbrains.com/help/objc/json.html
-  type: adoption
-  summary: The suite of JetBrains programming editors supports JSON code-completion based on JSON Schema
-- title: Postman
-  url: https://learning.postman.com/docs/writing-scripts/script-references/test-examples/
-  type: adoption
-  summary: The Postman API platform supports running JSON Schema validation in API tests
-- title: Human Cell Atlas
-  url: https://data.humancellatlas.org/metadata/structure
-  type: adoption
-  summary: The open data generated by the Human Cell Atlas describes metadata structure using JSON Schema
-- title: Genomic Data Commons
-  url: https://gdc.cancer.gov/developers/gdc-data-model
-  type: adoption
-  summary: The Genomic Data Commons data model is defined using JSON Schema
-- title: Drupal Patternkit
-  url: https://www.drupal.org/project/patternkit
-  type: adoption
-  summary: The Drupal Patternkit module uses JSON Schema to define pattern templates
-- title: Smart Data Models
-  url: https://github.com/smart-data-models
-  type: adoption
-  summary: The Smart Data Models GitHub organization makes use of JSON Schema to describe harmonized Data Models for different Smart Domains
-- title: Walmart eCommerce
-  url: https://developer.walmart.com/documentation/item-object-v4-0/
-  type: adoption
-  summary: Walmart publishes JSON Schema documents for certain resources that developers can make use of when integratting with the Walmart eCommerce platform
-- title: Retool
-  url: https://docs.retool.com/docs/working-with-json-schema-form
-  type: adoption
-  summary: The Retool no-code platform supports generating web forms using JSON Schema
-- title: Adobe Experience Manager
-  url: https://experienceleague.adobe.com/docs/experience-manager-65/forms/adaptive-forms-advanced-authoring/adaptive-form-json-schema-form-model.html?lang=en
-  type: adoption
-  summary: The Adobe Experience Manager content management solution for building websites, mobile apps and forms supports creating adaptative forms using JSON Schema
-- title: Form.io
-  url: https://www.form.io/article/angular-json-schema-form-builder
-  type: adoption
-  summary: The Form.io online web form generator supports generating Angular.js forms using JSON Schema
-- title: Cloudflare
-  url: https://blog.cloudflare.com/cloudflares-json-powered-documentation-generator/
-  type: adoption
-  summary: The Cloudflare makes use of JSON Schema and Hyper Schema to keep track of their API endpoints
-- title: Lightblue.io
-  url: https://docs.lightblue.io/standards/json_schema.html
-  type: adoption
-  summary: The Lightblue document based data access layer framework uses JSON Schema to define certain file resources in the project
-- title: Open Policy Agent (OPA)
-  url: https://blog.openpolicyagent.org/enhanced-type-checking-for-opa-with-json-schema-annotations-826acb0f575
-  type: adoption
-  summary: The OPA policy-based control platform 0.27.0 and newer support statically type-checking Rego policy code using JSON Schema
-- title: Serverless
-  url: https://www.serverless.com/framework/docs/configuration-validation/
-  type: adoption
-  summary: The Serverless framework validates service configuration files using JSON Schema
-- title: Snowplow
-  url: https://docs.snowplowanalytics.com/docs/understanding-tracking-design/understanding-schemas-and-validation/
-  type: adoption
-  summary: The Snowplow analytics platform support using JSON Schema to define the structure of the data to collect
-- title: Heroku
-  url: https://blog.heroku.com/json_schema_for_heroku_platform_api
-  type: adoption
-  summary: Heroku makes use of JSON Schema to publish machine-readable schema definitions for their public APIs
-- title: DocSpring
-  url: https://docspring.com/docs/api/get_template_schema.html
-  type: adoption
-  summary: The DocSpring service to automatically fill out PDF forms supports generating JSON Schema definitions for user-created templates
-- title: Nakadi
-  url: https://nakadi.io
-  type: adoption
-  summary: The Nakadi open-source distributed event bus supports defining event types with JSON Schema
-- title: Mozilla Data Pipeline
-  url: https://docs.telemetry.mozilla.org/concepts/pipeline/schemas.html
-  type: adoption
-  summary: Mozilla Data Pipeline uses JSON Schema to define telemetry data ingested from Mozilla products and logs from various services
-- title: nf-core
-  url: https://nf-co.re/tools/#pipeline-schema
-  type: adoption
-  summary: The nf-core Nextflow analysis pipelines collection uses JSON Schema to define the parameters used by Nextflow workflows
-- title: Linux
-  url: https://www.kernel.org/doc/html/latest/devicetree/bindings/writing-schema.html
-  type: adoption
-  summary: The Linux kernel uses JSON Schema to define Devicetree bindings
-- title: Cloudflare Terraform
-  url: https://www.infoq.com/news/2021/04/cloudflare-terraform/
-  type: adoption
-  summary: The Cloudflare Terraform provider comes with a tool to generate Terraform configuration from existing Cloudflare resources that uses JSON Schema to map data between both technologies
 
-- title: RDA DMP Common Standard for machine-actionable Data Management Plans
-  url: https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard
-  type: adoption
-  summary: The RDA DMP Common Standards Working Group maintains JSON Schemas to validate maDMP JSON documents
-- title: NinJS
-  url: https://www.iptc.org/std/ninjs/userguide/
-  type: adoption
-  summary: NinJS standardises the representation of news content in JSON and maintains a JSON Schema document to help validate NinJS implementations
-
-- title: JSON BinPack
-  url: https://www.jsonbinpack.org
-  type: adoption
-  summary: JSON BinPack uses JSON Schema to perform space-efficient JSON binary serialization
-
-- title: GitHub Discussions
-  url: https://github.com/json-schema-org/community/discussions
-  type: official
-  summary: The discussions page of JSON Schema
-- title: Twitter
-  url: https://twitter.com/jsonschema
-  type: official
-  summary: The Twitter account of the JSON Schema project
-- title: GitHub
-  url: https://github.com/json-schema-org
-  type: official
-  summary: The official GitHub organization of the JSON Schema project
-- title: Test Suite
-  url: https://github.com/json-schema-org/JSON-Schema-Test-Suite
-  type: official
-  summary: The official test suite for JSON Schema implementations
-- title: Slack
-  url: https://json-schema.org/slack
-  type: official
-  summary: The official Slack workspace of JSON Schema
-- title: Stack Overflow
-  url: https://stackoverflow.com/questions/tagged/jsonschema
-  type: official
-  summary: The JSON Schema tag in Stack Overflow
-- title: YouTube
-  url: https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA
-  type: official
-  summary: The JSON Schema official YouTube channel
-
-- title: JSON Schema 2020-12 Core
-  url: https://json-schema.org/draft/2020-12/vocab/core
-  type: vocabulary
-  summary: Keywords that are either required in order to process any schema or meta-schema, including those split across multiple documents, or exist to reserve keywords for purposes that require guaranteed interoperability
-- title: JSON Schema 2020-12 Applicator
-  url: https://json-schema.org/draft/2020-12/vocab/applicator
-  type: vocabulary
-  summary: Applicator keywords that are recommended for use as the basis of other vocabularies
-- title: JSON Schema 2020-12 Unevaluated
-  url: https://json-schema.org/draft/2020-12/vocab/unevaluated
-  type: vocabulary
-  summary: Keywords that enable schema authors to apply subschemas to array items or object properties that have not been successfully evaluated against any dynamic-scope subschema of any adjacent keywords
-- title: JSON Schema 2020-12 Validation
-  url: https://json-schema.org/draft/2020-12/vocab/validation
-  type: vocabulary
-  summary: Validation keywords in a schema impose requirements for successful validation of an instance. These keywords are all assertions without any annotation behavior
-- title: JSON Schema 2020-12 Format Annotation
-  url: https://json-schema.org/draft/2020-12/vocab/format-annotation
-  type: vocabulary
-  summary: An annotation keyword defined to allow schema authors to convey semantic information for a fixed subset of values which are accurately described by authoritative resources
-- title: JSON Schema 2020-12 Format Assertion
-  url: https://json-schema.org/draft/2020-12/vocab/format-assertion
-  type: vocabulary
-  summary: An assertion keyword defined to allow schema authors to convey semantic information for a fixed subset of values which are accurately described by authoritative resources
-- title: JSON Schema 2020-12 Content
-  url: https://json-schema.org/draft/2020-12/vocab/content
-  type: vocabulary
-  summary: Annotations keywords that indicate that an instance contains non-JSON data encoded in a JSON string
-- title: JSON Schema 2020-12 Meta-Data
-  url: https://json-schema.org/draft/2020-12/vocab/meta-data
-  type: vocabulary
-  summary: These general-purpose annotation keywords provide commonly used information for documentation and user interface display purposes
-- title: Hyper-Schema 2019-09
-  url: https://json-schema.org/draft/2019-09/vocab/hyper-schema
-  type: vocabulary
-  summary: Keywords to annotate JSON documents with hyperlinks. These hyperlinks include attributes describing how to manipulate and interact with remote resources through hypermedia environments such as HTTP, as well as determining whether the link is usable based on the instance value
 
 - title: Type Safety with JSON Subschema
   url: https://arxiv.org/abs/1911.12651
@@ -532,32 +195,6 @@
   type: paper
   summary: In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
 
-- title: JSONSchema.dev
-  url: https://jsonschema.dev
-  type: tool
-  summary: An online JSON Schema validator created by the JSON Schema specification lead
-
-- title: JSON Schema Viewer
-  url: http://jlblcc.github.io/json-schema-viewer/
-  type: tool
-  summary: An online tool to visualize JSON Schema definitions
-
-- title: Hyperjump JSON Schema Validator
-  url: https://json-schema.hyperjump.io
-  type: tool
-  summary: An online JSON Schema validator that supports Draft 04, 06, 07, 2019-09, and 2020-12
-- title: JSONschema.Net
-  url: https://www.jsonschema.net
-  type: tool
-  summary: An online tool that generates JSON schema from JSON documents
-- title: JSON Schema Validator
-  url: https://www.jsonschemavalidator.net
-  type: tool
-  summary: An online JSON Schema validator with support for JSON Schema Draft 3, Draft 4, Draft 6, Draft 7 and Draft 2019-09
-- title: JSON Schema Validator and Generator
-  url: https://extendsclass.com/json-schema-validator.html
-  type: tool
-  summary: An online JSON Schema validator that can generate JSON Schema from JSON documents and generate random JSON documents from JSON Schema
 
 - title: Top-Down Model-Driven Engineering of Web Services from Extended OpenAPI Models
   url: https://ieeexplore.ieee.org/abstract/document/9000020
@@ -619,45 +256,21 @@
   type: article
   summary: Applying the Robustness Principle and increasing schema entropy when making changes to an API
 
-- title: SchemaStore
-  url: https://www.schemastore.org
+- title: Sourcemeta One
+  url: https://one.sourcemeta.com
   type: registry
-  summary: The largest collection of independent JSON schemas in the world meant as a universal JSON schema store, where schemas for popular JSON documents can be found
+  summary: A self-hosted JSON Schema microservice that transforms Git repositories into searchable, discoverable schema catalogs with a web explorer, editor integration, schema health checks, and a rich HTTP API
 
-- title: Conda Schemas
-  url: https://github.com/conda/schemas
+- title: Sourcemeta Schemas
+  url: https://schemas.sourcemeta.com
   type: registry
-  summary: Conda file formats and schemas
+  summary: A public free instance of Sourcemeta One re-offering various open source schema collections
 
-- title: Intelligence.AI Schemas
-  url: https://studio.intelligence.ai
+- title: Apicurio Registry
+  url: https://www.apicur.io/registry/
   type: registry
-  summary: A schema registry by Intelligence.AI
+  summary: A runtime server system for storing and managing API designs and schemas including OpenAPI, AsyncAPI, Avro, and JSON Schema with configurable content rules for evolution control
 
-- title: OCSF Schemas
-  url: https://github.com/ocsf/ocsf-schema
-  type: registry
-  summary: This repository defines the Open Cybersecurity Schema Framework (OCSF) schema. OCSF is a framework for creating schemas and it also delivers a cybersecurity event schema built with the framework
-
-- title: KrakenD Schemas
-  url: https://github.com/krakend/krakend-schema
-  type: registry
-  summary: This repository contains the source code used to publish KrakenD's configuration schemas
-
-- title: AsyncAPI Schemas
-  url: https://github.com/asyncapi/spec-json-schemas
-  type: registry
-  summary: This repository contains all the JSON Schema documents for validating AsyncAPI documents
-
-- title: TILT (machine-readable privacy policies)
-  url: https://github.com/Transparency-Information-Language/schema
-  type: adoption
-  summary: TILT is a transparency information language and toolkit powered by JSON Schema explicitly designed to represent and process transparency information in line with the requirements of the EU General Data Protection Regulation and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do
-
-- title: Wordpress
-  url: https://make.wordpress.org/themes/2021/11/30/theme-json-schema/
-  type: adoption
-  summary: Wordpress maintains official JSON Schema documents to help with building block based themes
 
 - title: "TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy Engineering"
   url: https://dl.acm.org/doi/10.1145/3442188.3445925
@@ -665,11 +278,6 @@
   type: paper
   summary: We present TILT, a transparency information language and toolkit explicitly designed to represent and process transparency information in line with the requirements of the GDPR and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do
 
-- title: API Lifecycles, Specifications, and Standards with Kin Lane
-  url: https://www.infoq.com/podcasts/api-lifecycles-specifications-standards/
-  year: 2021
-  type: podcast
-  summary: Thomas Betts talks with Kin Lane about managing your API lifecycle using standards and specifications, including OpenAPI, AsyncAPI, and JSON Schema. These specifications and the tooling based on them can help reduce communication problems, by creating documentation, generating code, and automating testing
 
 - title: "JSON Schema, Schema.org, JSON-LD: What's the Difference?"
   url: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a
@@ -689,10 +297,6 @@
   type: paper
   summary: Discusses JSON Schema canonicalization and JSON Schema instance derivation in the context of property-based testing of APIs
 
-- title: Microsoft
-  url: https://github.com/microsoft/json-schemas
-  type: adoption
-  summary: A collection of JSON Schema definitions used by products and services at Microsoft
 
 - title: The Usage of Negation in Real-World JSON Schema Documents
   url: http://bilioso.isti.cnr.it/sebd2022/preprint/SEBD_2022_Camera-ready_PDF_8.pdf
@@ -740,15 +344,6 @@
   type: article
   summary: Representing generic types from strongly-typed programming languages with JSON Schema
 
-- title: Uniqueness of Array Items
-  url: https://json-everything.net/json-schema/#a-vocabulary-for-identifying-uniqueness-of-array-items
-  type: vocabulary
-  summary: A vocabulary defining keywords that can be used to validate that arrary instances contain unique values as determined by one or more given paths within each item
-
-- title: Accessing Data Stored in JSON
-  url: https://json-everything.net/json-schema/#a-vocabulary-for-accessing-data-stored-in-json
-  type: vocabulary
-  summary: A vocabulary defining keywords that can be used to reference values stored in the instance data, the schema data and external JSON data where the dereferenced values serve as input for keywords in a derived subschema
 
 - title: 'Maintaining JSON Schemas at Scale - Jason Desrosiers'
   url: https://www.youtube.com/watch?v=GjJpRsVffg0
@@ -762,66 +357,10 @@
   type: video
   summary: In this session you'll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary
 
-- title: 'JSON Schema In Production - You Can Use It Today - Ben Hutton, Postman'
-  url: https://www.youtube.com/watch?v=48QgjmwLWh0
-  year: 2022
-  type: video
-  summary: Hear the about the journey of organizations that use JSON Schema in production today, and learn about how JSON Schema continues to deliver value
 
-- title: "React JSON Schema Form"
-  url: https://medium.com/javarevisited/react-json-schema-form-cdc8fbb06f8c
-  year: 2022
-  type: tutorial
-  summary: A tutorial on using the React JSON Schema Form project by Mozilla to generate web forms using JSON Schema
 
-- title: "JSON Schema validation for columns"
-  url: https://sqlfordevs.com/json-schema-validation
-  year: 2022
-  type: tutorial
-  summary: A short tutorial on adding MySQL and PostgreSQL table constraints using JSON Schema
 
-- title: Remote
-  url: https://remote.com/blog/how-remote-builds-onboarding-for-60-countries
-  type: adoption
-  summary: Remote uses JSON Schema to perform form generation and data validation in their frontend and backend systems
 
-- title: "Validating POST Data Against JSON Schema"
-  url: https://blog.begin.com/posts/2022-06-27-validating-post-data-agaist-json-schema
-  year: 2022
-  type: tutorial
-  summary: A tutorial on validating HTTP request data using JSON Schema using the Architect Functional Web Apps (FWAs) framework
-
-- title: "U.S. Department of Commerce"
-  url: https://github.com/usnistgov/OSCAL/tree/main/json
-  type: adoption
-  summary: The National Institute of Standards and Technology uses JSON Schema Draft 7 to model Open Security Controls Assessment Language (OSCAL) JSON documents
-
-- title: "Zuplo"
-  url: https://zuplo.com/json-schema/lp-a
-  type: adoption
-  summary: The Zuplo API gateway provides JSON Schema validation and supports generating API documentation out of OpenAPI specifications
-
-- title: "Zapier"
-  url: https://github.com/zapier/zapier-platform/tree/master/packages/schema
-  type: adoption
-  summary: Zapier maintains a large set of JSON Schema definitions that define its platform
-
-- title: "Creating a JSON schema"
-  url: https://publishing-project.rivendellweb.net/creating-a-json-schema/
-  year: 2022
-  type: tutorial
-  summary: A tutorial on creating JSON Schema 2020-12 definitions for a fictitious interviewing platform
-
-- title: "YAML Data Validation"
-  url: https://infrastructureascode.ch/yaml_validation.html
-  year: 2022
-  type: tutorial
-  summary: A tutorial on validating YAML documents using JSON Schema 2020-12
-
-- title: QuickType.io
-  url: https://app.quicktype.io
-  type: tool
-  summary: An online JSON Schema code-generation utility with diverse programming language support
 
 - title: 'JSON Schema - the Good, the Bad and the Ugly'
   url: https://vimeo.com/222489288
@@ -829,16 +368,7 @@
   type: video
   summary: With JSON Schema you are required to define your data and the available tooling to do so is not really great (yet). This presentation provides you with criteria to judge whether JSON Schema could be beneficial for your project or is just too much overhead
 
-- title: "Easy and Quick Form Generation Using JSON Schema in VueJS"
-  url: https://www.bacancytechnology.com/blog/form-generation-using-json-schema-in-vuejs
-  year: 2022
-  type: tutorial
-  summary: A tutorial on generating web forms using JSON Schema and VueJS
 
-- title: TypedWebhook.tools
-  url: https://typedwebhook.tools
-  type: tool
-  summary: An online webhook testing tool that is able to generate JSON Schema definitions out of incoming data
 
 - title: "Docs! Docs! Docs!"
   url: https://brandur.org/nanoglyphs/031-api-docs
@@ -870,10 +400,6 @@
   type: paper
   summary: This paper presents a new streaming algorithm to validate JSON documents against a set of constraints given as a JSON schema. It proves that there always exists a visibly pushdown automaton (VPA) that accepts the same set of JSON documents as a JSON schema
 
-- title: Manfred
-  url: https://www.youtube.com/watch?v=KB2DkeQo8d8
-  type: adoption
-  summary: Manfred uses JSON Schema to define their APIs and their open CV format
 
 - title: Understanding JSON Schema compatibility
   url: https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/
@@ -887,10 +413,6 @@
   type: paper
   summary: "In this paper, we present an algebraic characterization of JSON Schema, obtained by adding opportune operators, and by mirroring existing ones. We present then algebra-based approaches for dealing with not-elimination and witness generation problems, which play a central role as they lead to solutions for the other mentioned complex problems"
 
-- title: National Cancer Institute
-  url: https://github.com/NCI-GDC/gdcdictionary/tree/develop/gdcdictionary/schemas
-  type: adoption
-  summary: The National Cancer Institute uses JSON Schema to model entities for their Genomic Data Commons collection
 
 - title: 'JSONoid: Distributed JSON Schema Discovery'
   url: https://github.com/dataunitylab/jsonoid-discovery
@@ -941,9 +463,14 @@
   summary: Analysis of common defects found in publicly available schemas leading to recommend changes to the spec
 
 - title: JSON Schema CLI
-  url: https://github.com/intelligence-ai/jsonschema
+  url: https://github.com/sourcemeta/jsonschema
   type: tool
-  summary: The CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines
+  summary: A comprehensive command-line tool for working with JSON Schema supporting formatting, linting, testing, bundling, and validation across all JSON Schema versions
+
+- title: Sourcemeta Studio
+  url: https://github.com/sourcemeta/studio
+  type: tool
+  summary: A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation
 
 - title: "Validation of Modern JSON Schema: Formalization and Complexity"
   url: https://arxiv.org/abs/2307.10034

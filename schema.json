@@ -31,7 +31,17 @@
         "required": [ "year", "type" ],
         "properties": {
           "type": {
-            "enum": [ "book", "video", "podcast", "course", "article", "spec", "paper", "tutorial" ]
+            "enum": [ "book", "video", "podcast", "course", "article", "paper", "tutorial" ]
+          }
+        }
+      },
+      {
+        "type": "object",
+        "allOf": [ { "$ref": "#/$defs/base-link" } ],
+        "required": [ "type" ],
+        "properties": {
+          "type": {
+            "enum": [ "spec" ]
           }
         }
       },
