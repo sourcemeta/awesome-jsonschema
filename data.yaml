@@ -974,3 +974,9 @@
   year: 2025
   type: paper
   summary: This paper proves that the elimination of annotation dependent keywords cannot, in general, avoid an exponential increase of the schema dimension. We provide an algorithm to eliminate these keywords that, despite the theoretical lower bound, behaves quite well in practice, as we verify with an extensive set of experiments.
+
+- title: "Negation-Closure for JSON Schema"
+  url: https://arxiv.org/abs/2202.13434
+  year: 2022
+  type: paper
+  summary: Examines how JSON Schema handles negation, demonstrates that the language lacks negation closure, explores how recent schema drafts address this limitation, and proposes enrichments to the language. Includes an algebraic reformulation of JSON Schema and a prototype system for generating schema witnesses
