@@ -151,6 +151,11 @@
   type: spec
   summary: An open protocol by Google enabling communication and interoperability between agentic applications. A2A uses JSON-RPC 2.0 over HTTP and JSON Schema for defining Agent Cards and message structures
 
+- title: Decision Reasoning Format (DRF)
+  url: https://github.com/reasoning-formats/reasoning-formats
+  type: spec
+  summary: A vendor-neutral, machine-readable YAML/JSON format for representing technical decisions with explicit reasoning, assumptions, and trade-offs. DRF includes a JSON Schema for validation of decision documents
+
 - title: REST API Linked Data Keywords
   url: https://www.ietf.org/archive/id/draft-polli-restapi-ld-keywords-07.html
   type: spec
