@@ -50,6 +50,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 - [AlterSchema](https://alterschema.sourcemeta.com?utm_source=awesome-jsonschema) - Convert a JSON Schema definition between specification versions.
 - [JSON Schema CLI](https://github.com/sourcemeta/jsonschema?utm_source=awesome-jsonschema) - A comprehensive command-line tool for working with JSON Schema supporting formatting, linting, testing, bundling, and validation across all JSON Schema versions.
+- [JSON Web Tools - Schema Validator](https://jsonwebtools.com/json-schema-validator.html) - Free browser-based JSON Schema validator. Paste your schema and data, validate instantly with detailed error messages. No login required.
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Sourcemeta Studio](https://github.com/sourcemeta/studio?utm_source=awesome-jsonschema) - A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation.
 
