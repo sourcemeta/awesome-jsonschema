@@ -309,6 +309,11 @@
   type: tool
   summary: A JSON editor and validator desktop application for Windows
 
+- title: Schema Gateway
+  url: https://github.com/sravan27/schema-gateway
+  type: tool
+  summary: Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API
+
 - title: Implicit JSON Schema Versioning Triggered by Temporal Updates to JSON-Based Big Data in the τJSchema Framework
   url: https://link.springer.com/chapter/10.1007/978-3-031-07969-6_3
   year: 2022
