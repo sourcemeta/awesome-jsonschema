@@ -512,3 +512,9 @@
   year: 2022
   type: paper
   summary: Examines how JSON Schema handles negation, demonstrates that the language lacks negation closure, explores how recent schema drafts address this limitation, and proposes enrichments to the language. Includes an algebraic reformulation of JSON Schema and a prototype system for generating schema witnesses
+
+- title: "In 76% of modern OpenAPI specs, JSON Schema dominates the specification"
+  url: https://www.sourcemeta.com/blog/json-schema-dominates-openapi/
+  year: 2026
+  type: article
+  summary: An empirical analysis of 4,127 real-world OpenAPI specifications showing that JSON Schema makes up the majority of content in three-quarters of modern API documents, with the schema layer growing more dominant as APIs mature

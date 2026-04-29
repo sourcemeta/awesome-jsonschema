@@ -69,6 +69,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Articles
 
+- (2026) [In 76% of modern OpenAPI specs, JSON Schema dominates the specification](https://www.sourcemeta.com/blog/json-schema-dominates-openapi/?utm_source=awesome-jsonschema) - An empirical analysis of 4,127 real-world OpenAPI specifications showing that JSON Schema makes up the majority of content in three-quarters of modern API documents, with the schema layer growing more dominant as APIs mature.
 - (2023) [LLMs for Schema Augmentation](https://michael.mior.ca/blog/llms-for-schema-augmentation/?utm_source=awesome-jsonschema) - Large language models can be exploited to automatically augment JSON Schemas with useful information.
 - (2022) [What is &quot;Modern&quot; JSON Schema?](https://modern-json-schema.com/what-is-modern-json-schema?utm_source=awesome-jsonschema) - How &quot;modern&quot; JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than &quot;classical&quot; JSON Schema (draft-07 and earlier).
 - (2022) [Using Dynamic References to Support Generic Types](https://json-schema.org/blog/posts/dynamicref-and-generics?utm_source=awesome-jsonschema) - Representing generic types from strongly-typed programming languages with JSON Schema.
