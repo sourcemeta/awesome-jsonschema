@@ -518,3 +518,9 @@
   year: 2026
   type: article
   summary: An empirical analysis of 4,127 real-world OpenAPI specifications showing that JSON Schema makes up the majority of content in three-quarters of modern API documents, with the schema layer growing more dominant as APIs mature
+
+- title: "The only schema language AI speaks is JSON Schema"
+  url: https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/
+  year: 2026
+  type: article
+  summary: A survey of how every major LLM provider (OpenAI, Google, Anthropic, Mistral, xAI, DeepSeek), the Model Context Protocol, and the AI products built on top of them have all converged on JSON Schema as the contract language for structured outputs, tool calls, and agent interoperability
