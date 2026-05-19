@@ -477,6 +477,11 @@
   type: tool
   summary: A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation
 
+- title: UCP JavaScript SDK
+  url: https://github.com/OmnixHQ/ucp-js-sdk
+  type: tool
+  summary: Runtime-validated Zod schemas and TypeScript types auto-generated from the Universal Commerce Protocol (UCP) JSON Schema spec. Provides 100% spec coverage including checkout, orders, payments, discovery profiles, and all inline enums. Dual ESM/CJS build available on npm as @omnixhq/ucp-js-sdk.
+
 - title: "Validation of Modern JSON Schema: Formalization and Complexity"
   url: https://arxiv.org/abs/2307.10034
   year: 2024
