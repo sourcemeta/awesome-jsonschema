@@ -477,6 +477,11 @@
   type: tool
   summary: A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation
 
+- title: YAML Validator
+  url: https://yamlvalidator.dev
+  type: tool
+  summary: An online YAML validator and Chrome extension that validates YAML against JSON Schema for Kubernetes, Docker Compose, GitHub Actions, GitLab CI, Helm Charts, OpenAPI 3.0, Swagger 2.0, Ansible, and more
+
 - title: "Validation of Modern JSON Schema: Formalization and Complexity"
   url: https://arxiv.org/abs/2307.10034
   year: 2024
