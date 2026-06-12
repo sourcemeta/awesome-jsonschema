@@ -309,6 +309,11 @@
   type: tool
   summary: A JSON editor and validator desktop application for Windows
 
+- title: jsonic
+  url: https://jsonic.io/json-schema-validator
+  type: tool
+  summary: In-browser JSON Schema validator and generator — validate JSON against a schema or infer a schema from sample JSON, fully client-side with no signup
+
 - title: Schema Gateway
   url: https://github.com/sravan27/schema-gateway
   type: tool

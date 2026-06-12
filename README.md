@@ -53,6 +53,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Schema Gateway](https://github.com/sravan27/schema-gateway?utm_source=awesome-jsonschema) - Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API.
 - [Sourcemeta Studio](https://github.com/sourcemeta/studio?utm_source=awesome-jsonschema) - A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation.
+- [jsonic](https://jsonic.io/json-schema-validator?utm_source=awesome-jsonschema) - In-browser JSON Schema validator and generator — validate JSON against a schema or infer a schema from sample JSON, fully client-side with no signup.
 
 ## Books
 
