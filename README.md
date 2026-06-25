@@ -48,6 +48,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Development Tools
 
+- [AIJSONMedic](https://aijsonmedic.com) - AI-powered JSON repair and validation tool that automatically fixes malformed JSON from LLM outputs, APIs, and broken parsers.
 - [AlterSchema](https://alterschema.sourcemeta.com?utm_source=awesome-jsonschema) - Convert a JSON Schema definition between specification versions.
 - [JSON Schema CLI](https://github.com/sourcemeta/jsonschema?utm_source=awesome-jsonschema) - A comprehensive command-line tool for working with JSON Schema supporting formatting, linting, testing, bundling, and validation across all JSON Schema versions.
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
