@@ -477,6 +477,11 @@
   type: tool
   summary: A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation
 
+- title: rtblint
+  url: https://github.com/aleksUIX/rtblint
+  type: tool
+  summary: A spec-validation CLI, browser tester, and MCP server for OpenRTB bid requests, checking them against the IAB Tech Lab OpenRTB specification for missing fields, unknown or deprecated fields, and type mismatches
+
 - title: "Validation of Modern JSON Schema: Formalization and Complexity"
   url: https://arxiv.org/abs/2307.10034
   year: 2024

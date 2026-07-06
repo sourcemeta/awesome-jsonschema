@@ -53,6 +53,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Schema Gateway](https://github.com/sravan27/schema-gateway?utm_source=awesome-jsonschema) - Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API.
 - [Sourcemeta Studio](https://github.com/sourcemeta/studio?utm_source=awesome-jsonschema) - A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation.
+- [rtblint](https://github.com/aleksUIX/rtblint?utm_source=awesome-jsonschema) - A spec-validation CLI, browser tester, and MCP server for OpenRTB bid requests, checking them against the IAB Tech Lab OpenRTB specification for missing fields, unknown or deprecated fields, and type mismatches.
 
 ## Books
 
