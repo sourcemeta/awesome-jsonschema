@@ -501,6 +501,12 @@
   type: paper
   summary: This paper introduces JSONSchemaBench, a benchmark for constrained decoding comprising 10K real-world JSON schemas that encompass a wide range of constraints with varying complexity. We pair the benchmark with the existing official JSON Schema Test Suite and evaluate six state-of-the-art constrained decoding frameworks, including Guidance, Outlines, Llamacpp, XGrammar, OpenAI, and Gemini. Through extensive experiments, we gain insights into the capabilities and limitations of constrained decoding on structured generation with real-world JSON schemas.
 
+- title: "StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs"
+  url: https://arxiv.org/abs/2505.20139
+  year: 2025
+  type: paper
+  summary: A comprehensive benchmark for structured-output generation and conversion across 18 non-renderable and renderable formats, with syntax, structural-fidelity, and visual-fidelity evaluation; the official implementation is available at https://github.com/TIGER-AI-Lab/StructEval
+
 - title: "Elimination of annotation dependencies in validation for Modern JSON Schema"
   url: https://arxiv.org/abs/2503.11288
   year: 2025
