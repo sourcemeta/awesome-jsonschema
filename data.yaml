@@ -530,3 +530,8 @@
   year: 2026
   type: article
   summary: A review of how every G7 government (United States, United Kingdom, France, Germany, Italy, Japan, and Canada), along with nine out of ten of the OECD's top digital governments, relies on JSON Schema for its digital public infrastructure
+
+- title: LLM JSON Schema
+  url: https://percymcn.github.io/llm-json-schema/
+  type: tool
+  summary: A browser-based tool that rewrites a JSON Schema into the dialect subset accepted by the OpenAI, Anthropic, and Gemini structured output APIs, citing the provider documentation rule behind each transform and flagging unsupported keywords
