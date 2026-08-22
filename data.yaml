@@ -530,3 +530,8 @@
   year: 2026
   type: article
   summary: A review of how every G7 government (United States, United Kingdom, France, Germany, Italy, Japan, and Canada), along with nine out of ten of the OECD's top digital governments, relies on JSON Schema for its digital public infrastructure
+
+- title: Context.dev Extract API
+  url: https://www.context.dev/data/extract
+  type: tool
+  summary: Crawl a website and extract structured data matching a caller-defined JSON Schema
