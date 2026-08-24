@@ -535,3 +535,8 @@
   url: https://www.context.dev/data/extract
   type: tool
   summary: Crawl a website and extract structured data matching a caller-defined JSON Schema
+
+- title: JSON Utility
+  url: https://www.json-util.com/json-schema-validator
+  type: tool
+  summary: Validate JSON against a JSON Schema in your browser with clear error messages. Also includes a dedicated validator for OpenAI and Anthropic tool-calling schemas
