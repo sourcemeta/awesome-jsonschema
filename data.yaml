@@ -535,3 +535,8 @@
   url: https://www.context.dev/data/extract
   type: tool
   summary: Crawl a website and extract structured data matching a caller-defined JSON Schema
+
+- title: Nutilz JSON Schema Generator
+  url: https://nutilz.com/json-schema-generator
+  type: tool
+  summary: A free browser-based tool to automatically generate JSON Schema definitions from JSON documents with customizable options
