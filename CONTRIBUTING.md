@@ -16,23 +16,33 @@ npm start
 After rendering the README with your changes, send a pull request that includes 
 *both* the `data.yaml` and the `README.md`.
 
-## Adding a Resource Hub resource
+## Adding a resource
 
-The Resource Hub organizes community-authored resources using three levels:
+The top-level README is the resource index. Before contributing, check its
+existing categories and confirm that the resource is not already listed.
 
-- **Journey stage**: where the resource fits in the JSON Schema journey.
-- **Topic**: what the resource teaches or covers.
-- **Resource type**: whether it is an article, tutorial, video, course, book,
-  tool, library, paper, specification, registry, or another useful format.
+1. Find the existing README category that best fits the resource. Use that
+   category as the `type` in `data.yaml`.
+2. If no category is appropriate, propose one in the same pull request. Add the
+   new category to `template.hbs` and place the resource under it. New
+   categories should only be introduced when the resource genuinely does not
+   fit the existing structure.
+3. Add the resource to `data.yaml` with its `name`, `url`, short
+   `description`, `type`, and `level`. Keep category names consistent between
+   the README and YAML.
+4. Choose exactly one learning level based on the knowledge expected of the
+   reader: `beginner`, `intermediate`, or `advanced`. The level does not rate
+   the quality or importance of the resource.
+5. Make sure the resource is publicly accessible and technically accurate. It
+   must not teach incorrect or non-compliant JSON Schema behavior.
+6. Run `npm start` to regenerate the README, then run `npm test` and
+   `npm run lint`.
+7. Open a focused pull request containing both `data.yaml` and the generated
+   `README.md`, plus `template.hbs` when proposing a new category.
 
-To contribute a resource:
-
-1. Open `resource-hub/` and choose the journey stage that best matches it.
-2. Open that stage's `README.md` and find an existing topic that fits.
-3. Add the link under the appropriate resource-type heading.
-4. Check that the resource is not already listed in the hub.
-5. Keep any description concise and factual.
-6. Prefer existing topics instead of creating unnecessary new categories. If
-   none fits, explain why a new topic is needed in the pull request.
-7. Run `npm start`, `npm test`, and `npm run lint`.
-8. Open a pull request with the Markdown change.
+Community-created resources are welcome. Do not describe a community resource
+as officially produced or endorsed by the JSON Schema organization unless it
+actually is. Maintainers may review and fact-check resources before accepting
+them. Follow the repository's existing formatting and contribution conventions
+and keep the pull request focused on the resource or structural change being
+proposed.

@@ -26,7 +26,6 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Contents
 
-- [Resource Hub](#resource-hub)
 - [Getting Started](#getting-started)
 - [Courses](#courses)
 - [Development Tools](#development-tools)
@@ -38,65 +37,59 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 - [Papers](#papers)
 - [Libraries](#libraries)
 
-## Resource Hub
-
-Explore community-authored resources organized around the JSON Schema journey.
-
-[Explore the JSON Schema Resource Hub](./resource-hub/README.md)
-
 ## Getting Started
 
 {{#each (reverseSortBy data "year")}}
-{{#compare type "==" "tutorial"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#compare type "==" "Getting Started"}}
+- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Courses
 
 {{#each (reverseSortBy data "year")}}
-{{#compare type "==" "course"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#compare type "==" "Courses"}}
+- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Development Tools
 
-{{#each (sortBy data "title")}}
-{{#compare type "==" "tool"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#each (sortBy data "name")}}
+{{#compare type "==" "Development Tools"}}
+- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Books
 
 {{#each (reverseSortBy data "year")}}
-{{#compare type "==" "book"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#compare type "==" "Books"}}
+- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Registries
 
-{{#each (sortBy data "title")}}
-{{#compare type "==" "registry"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#each (sortBy data "name")}}
+{{#compare type "==" "Registries"}}
+- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Articles
 
 {{#each (reverseSortBy data "year")}}
-{{#compare type "==" "article"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#compare type "==" "Articles"}}
+- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Related Specifications
 
-{{#each (sortBy data "title")}}
-{{#compare type "==" "spec"}}
-- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#each (sortBy data "name")}}
+{{#compare type "==" "Related Specifications"}}
+- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
@@ -105,16 +98,16 @@ Explore community-authored resources organized around the JSON Schema journey.
 For more video content, check out the [official JSON Schema YouTube channel](https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA) and the [JSON Schema Conference](https://conference.json-schema.org) website.
 
 {{#each (reverseSortBy data "year")}}
-{{#compare type "==" "video"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#compare type "==" "Videos"}}
+- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 
 ## Papers
 
 {{#each (reverseSortBy data "year")}}
-{{#compare type "==" "paper"}}
-- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
+{{#compare type "==" "Papers"}}
+- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
 {{/compare}}
 {{/each}}
 

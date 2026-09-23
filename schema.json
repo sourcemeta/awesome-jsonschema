@@ -6,16 +6,31 @@
     "base-link": {
       "type": "object",
       "additionalProperties": false,
-      "required": [ "type", "title", "summary", "url" ],
+      "required": [ "name", "url", "description", "type", "level" ],
       "properties": {
-        "type": { "type": "string" },
+        "type": {
+          "enum": [
+            "Getting Started",
+            "Courses",
+            "Development Tools",
+            "Books",
+            "Registries",
+            "Articles",
+            "Related Specifications",
+            "Videos",
+            "Papers"
+          ]
+        },
+        "level": {
+          "enum": [ "beginner", "intermediate", "advanced" ]
+        },
         "subtype": { "type": "string" },
         "year": {
           "type": "integer",
           "minimum": 0
         },
-        "title": { "type": "string" },
-        "summary": { "type": "string" },
+        "name": { "type": "string" },
+        "description": { "type": "string" },
         "url": {
           "type": "string",
           "format": "uri"
@@ -23,48 +38,5 @@
       }
     }
   },
-  "items": {
-    "anyOf": [
-      {
-        "type": "object",
-        "allOf": [ { "$ref": "#/$defs/base-link" } ],
-        "required": [ "year", "type" ],
-        "properties": {
-          "type": {
-            "enum": [ "book", "video", "podcast", "course", "article", "paper", "tutorial" ]
-          }
-        }
-      },
-      {
-        "type": "object",
-        "allOf": [ { "$ref": "#/$defs/base-link" } ],
-        "required": [ "type" ],
-        "properties": {
-          "type": {
-            "enum": [ "spec" ]
-          }
-        }
-      },
-      {
-        "type": "object",
-        "allOf": [ { "$ref": "#/$defs/base-link" } ],
-        "required": [ "type" ],
-        "properties": {
-          "type": {
-            "enum": [ "adoption", "official", "vocabulary", "tool" ]
-          }
-        }
-      },
-      {
-        "type": "object",
-        "allOf": [ { "$ref": "#/$defs/base-link" } ],
-        "required": [ "type" ],
-        "properties": {
-          "type": {
-            "enum": [ "adoption", "official", "vocabulary", "tool", "registry" ]
-          }
-        }
-      }
-    ]
-  }
+  "items": { "$ref": "#/$defs/base-link" }
 }

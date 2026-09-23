@@ -26,7 +26,6 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Contents
 
-- [Resource Hub](#resource-hub)
 - [Getting Started](#getting-started)
 - [Courses](#courses)
 - [Development Tools](#development-tools)
@@ -37,12 +36,6 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 - [Videos](#videos)
 - [Papers](#papers)
 - [Libraries](#libraries)
-
-## Resource Hub
-
-Explore community-authored resources organized around the JSON Schema journey.
-
-[Explore the JSON Schema Resource Hub](./resource-hub/README.md)
 
 ## Getting Started
 

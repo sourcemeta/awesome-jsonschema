@@ -1,542 +1,767 @@
-- title: Using JSON Schema
+- name: Using JSON Schema
   url: https://books.apple.com/us/book/using-json-schema/id903248630
+  description: Learn and Apply JSON Schema by Example, with JavaScript (Node.js) and Python Programs
+  type: Books
+  level: beginner
   year: 2014
-  type: book
-  summary: Learn and Apply JSON Schema by Example, with JavaScript (Node.js) and Python Programs
-- title: JSON at Work
+- name: JSON at Work
   url: https://www.oreilly.com/library/view/json-at-work/9781491982389/
+  description: A comprehensive overview of the JSON ecosystem, including JSON Schema
+  type: Books
+  level: intermediate
   year: 2017
-  type: book
-  summary: A comprehensive overview of the JSON ecosystem, including JSON Schema
-- title: API by Design
+- name: API by Design
   url: https://smizell.gumroad.com/l/apibydesign
+  description: Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions
+  type: Books
+  level: intermediate
   year: 2021
-  type: book
-  summary: Introduces an approach to measure API complexity by analyzing entropy in JSON Schema definitions
-
-
-
-- title: Configuring Umbraco on .NET Core - JSON Schema
+- name: Configuring Umbraco on .NET Core - JSON Schema
   url: https://www.youtube.com/watch?v=rpUg-oySw8g
+  description: >-
+    Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json
+    using SchemaStore
+  type: Videos
+  level: intermediate
   year: 2021
-  type: video
-  summary: Configuring Umbraco on .NET Core with JSON Schema-powered autocompletions for appsettings.json using SchemaStore
-- title: API Storytelling with Ben Hutton
+- name: API Storytelling with Ben Hutton
   url: https://www.youtube.com/watch?v=4xbA82lo_lc
+  description: >-
+    This episode we sit down with Ben Hutton, the lead behind the JSON Schema community to talk
+    about vocabularies and other ways we validate and annotate how we tell stories we tell in the
+    API space
+  type: Videos
+  level: intermediate
   year: 2021
-  type: video
-  summary: This episode we sit down with Ben Hutton, the lead behind the JSON Schema community to talk about vocabularies and other ways we validate and annotate how we tell stories we tell in the API space
-- title: What is JSON Schema
+- name: What is JSON Schema
   url: https://www.youtube.com/watch?v=kK-_gL7Vsc0
+  description: >-
+    A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an
+    existing JSON document
+  type: Videos
+  level: beginner
   year: 2020
-  type: video
-  summary: A basic introduction to JSON Schema showing how to auto-generate JSON Schema document from an existing JSON document
-- title: "What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example"
+- name: "What is a JSON Schema? Generate, Modify, and Understand a JSON Schema: Example"
   url: https://www.youtube.com/watch?v=hGXxXyJmaUo
+  description: >-
+    An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using
+    QuickType.io
+  type: Videos
+  level: beginner
   year: 2019
-  type: video
-  summary: An in-depth introduction to JSON Schema including auto-generating JSON Schema documents using QuickType.io
-- title: "JSON Schema Validation: How to Validate JSON Schema with Postman?"
+- name: "JSON Schema Validation: How to Validate JSON Schema with Postman?"
   url: https://www.youtube.com/watch?v=X072eKtOIio
+  description: An introduction to JSON Schema and how to use it in Postman
+  type: Videos
+  level: intermediate
   year: 2019
-  type: video
-  summary: An introduction to JSON Schema and how to use it in Postman
-- title: JSON Schema Validation in Postman
+- name: JSON Schema Validation in Postman
   url: https://www.youtube.com/watch?v=8BfshV5n6ac
+  description: An tutorial of performing JSON Schema validation in Postman in API tests
+  type: Videos
+  level: intermediate
   year: 2021
-  type: video
-  summary: An tutorial of performing JSON Schema validation in Postman in API tests
-- title: Master JSON Schema for OpenAPI
+- name: Master JSON Schema for OpenAPI
   url: https://www.sourcemeta.com/courses/jsonschema-for-openapi/
+  description: >-
+    A comprehensive 9+ hour video course teaching advanced JSON Schema techniques for API design,
+    covering dynamic references, unevaluated properties, schema composition, testing, linting, and
+    deployment to registries
+  type: Courses
+  level: intermediate
   year: 2024
-  type: course
-  summary: A comprehensive 9+ hour video course teaching advanced JSON Schema techniques for API design, covering dynamic references, unevaluated properties, schema composition, testing, linting, and deployment to registries
-- title: JSON Schema Tour
+- name: JSON Schema Tour
   url: https://tour.json-schema.org
+  description: An interactive tutorial to learn JSON Schema step by step
+  type: Getting Started
+  level: beginner
   year: 2024
-  type: tutorial
-  summary: An interactive tutorial to learn JSON Schema step by step
-
-- title: Learn JSON Schema
+- name: Learn JSON Schema
   url: https://www.learnjsonschema.com
+  description: A comprehensive JSON Schema documentation website covering all specification versions
+  type: Getting Started
+  level: beginner
   year: 2024
-  type: tutorial
-  summary: A comprehensive JSON Schema documentation website covering all specification versions
-- title: JSON Schema bundling finally formalised
+- name: JSON Schema bundling finally formalised
   url: https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
+  description: A close look at bundling and de-referencing JSON Schema documents
+  type: Articles
+  level: intermediate
   year: 2021
-  type: article
-  summary: A close look at bundling and de-referencing JSON Schema documents
-- title: Modeling a file system with JSON Schema
+- name: Modeling a file system with JSON Schema
   url: https://json-schema.org/learn/file-system.html
+  description: >-
+    This example shows a possible JSON Schema representation of file system mount points as
+    represented in an /etc/fstab file
+  type: Articles
+  level: intermediate
   year: 2021
-  type: article
-  summary: This example shows a possible JSON Schema representation of file system mount points as represented in an /etc/fstab file
-
-- title: JSON Schema Validator, Generator & Editor Guide
+- name: JSON Schema Validator, Generator & Editor Guide
   url: https://stoplight.io/json-guide/
+  description: >-
+    How the JSON and JSON Schema standards are defined and how to put them to use in your code and
+    in your APIs
+  type: Articles
+  level: beginner
   year: 2018
-  type: article
-  summary: How the JSON and JSON Schema standards are defined and how to put them to use in your code and in your APIs
-- title: "Using the JSON Schema standard for scientific applications?"
+- name: Using the JSON Schema standard for scientific applications?
   url: https://cerfacs.fr/coop/json-schema-for-sci-apps
+  description: >-
+    A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill
+    missing parts, and create graphical user interfaces in the context of scientific applications
+  type: Articles
+  level: intermediate
   year: 2020
-  type: article
-  summary: A discussion on how to use JSON Schema to validate input, add precise documentation, auto-fill missing parts, and create graphical user interfaces in the context of scientific applications
-- title: "Building a No-Code JSON Schema Form Builder with ReactJS"
+- name: Building a No-Code JSON Schema Form Builder with ReactJS
   url: https://www.ginkgobioworks.com/2020/10/08/building-a-no-code-json-schema-form-builder/
+  description: >-
+    An update on the additional features implemented in the react-json-schema-form-builder
+    open-source JSON Schema form builder project
+  type: Articles
+  level: intermediate
   year: 2020
-  type: article
-  summary: An update on the additional features implemented in the react-json-schema-form-builder open-source JSON Schema form builder project
-- title: "Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs"
+- name: "Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs"
   url: https://blog.heroku.com/json-schema-document-debug-apis
+  description: >-
+    Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped
+    them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals
+  type: Articles
+  level: intermediate
   year: 2019
-  type: article
-  summary: Learn how Heroku uses JSON Schema to test and document their Platform API, and how it helped them uncover an unexpected bug, rooted in the way the Oj gem parses Big Decimals
-- title: JSON Schema Validation & Expressive Query Syntax in MongoDB 3.6
+- name: JSON Schema Validation & Expressive Query Syntax in MongoDB 3.6
   url: https://www.sitepoint.com/json-schema-validation-expressive-query-syntax-in-mongodb-3-6/
+  description: An in-depth discussion about using JSON Schema to define collection validation on MongoDB
+  type: Articles
+  level: intermediate
   year: 2018
-  type: article
-  summary: An in-depth discussion about using JSON Schema to define collection validation on MongoDB
-- title: Azure Pipelines autocomplete in PyCharm, IntelliJ, WebStorm, CLion, and Rider
+- name: Azure Pipelines autocomplete in PyCharm, IntelliJ, WebStorm, CLion, and Rider
   url: https://tonybaloney.github.io/posts/azure-pipelines-autocomplete-in-pycharm.html
+  description: >-
+    Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax
+    highlighting and validation support of Azure Pipelines workflows
+  type: Articles
+  level: intermediate
   year: 2020
-  type: article
-  summary: Setting up PyCharm, IntelliJ, WebStorm, CLion and Rider to have auto-complete, syntax highlighting and validation support of Azure Pipelines workflows
-
-- title: Definitions for filtering properties in JSON schema
+- name: Definitions for filtering properties in JSON schema
   url: https://gist.github.com/LucianBuzzo/5ff9106ce3ae12fb58e4def572b9344d
+  description: An introduction to the problem of using JSON Schema for data filtering and querying purposes
+  type: Articles
+  level: intermediate
   year: 2018
-  type: article
-  summary: An introduction to the problem of using JSON Schema for data filtering and querying purposes
-
-
-- title: OpenAPI
+- name: OpenAPI
   url: https://www.openapis.org
-  type: spec
-  summary: The OpenAPI Specification embeds and extends JSON Schema for defining API requests and responses
-
-- title: RAML
+  description: The OpenAPI Specification embeds and extends JSON Schema for defining API requests and responses
+  type: Related Specifications
+  level: advanced
+- name: RAML
   url: https://raml.org
-  type: spec
-  summary: The RAML specification supports modeling API data using JSON Schema
-
-- title: W3C Web of Things
+  description: The RAML specification supports modeling API data using JSON Schema
+  type: Related Specifications
+  level: advanced
+- name: W3C Web of Things
   url: https://www.w3.org/WoT/
-  type: spec
-  summary: The Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending existing, standardized Web technologies. WoT models data using JSON Schema
-
-- title: AsyncAPI
+  description: >-
+    The Web of Things (WoT) seeks to counter the fragmentation of the IoT by using and extending
+    existing, standardized Web technologies. WoT models data using JSON Schema
+  type: Related Specifications
+  level: advanced
+- name: AsyncAPI
   url: https://www.asyncapi.com
-  type: spec
-  summary: AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven Architectures (EDA). The AsyncAPI specification supports data modeling using JSON Schema
-
-- title: JSON Schema in RDF
+  description: >-
+    AsyncAPI is an open source initiative that seeks to improve the current state of Event-Driven
+    Architectures (EDA). The AsyncAPI specification supports data modeling using JSON Schema
+  type: Related Specifications
+  level: advanced
+- name: JSON Schema in RDF
   url: https://www.w3.org/2019/wot/json-schema
-  type: spec
-  summary: This document introduces an RDF vocabulary for JSON Schema definitions. This vocabulary provides a stable namespace IRI for JSON Schema keywords, as well as simple axioms, defined against schema.org's meta-model
-
-- title: Semantic Definition Format (SDF)
+  description: >-
+    This document introduces an RDF vocabulary for JSON Schema definitions. This vocabulary provides
+    a stable namespace IRI for JSON Schema keywords, as well as simple axioms, defined against
+    schema.org's meta-model
+  type: Related Specifications
+  level: advanced
+- name: Semantic Definition Format (SDF)
   url: https://datatracker.ietf.org/doc/draft-ietf-asdf-sdf/
-  type: spec
-  summary: An IETF specification for modeling Internet of Things devices and their interactions through Properties, Actions, and Events. SDF uses JSON to represent definitions and incorporates JSON Schema for data validation
-
-- title: Model Context Protocol (MCP)
+  description: >-
+    An IETF specification for modeling Internet of Things devices and their interactions through
+    Properties, Actions, and Events. SDF uses JSON to represent definitions and incorporates JSON
+    Schema for data validation
+  type: Related Specifications
+  level: advanced
+- name: Model Context Protocol (MCP)
   url: https://modelcontextprotocol.io
-  type: spec
-  summary: An open standard by Anthropic that enables AI systems like large language models to integrate with external tools and data sources. MCP uses JSON-RPC 2.0 and JSON Schema for defining server capabilities
-
-- title: Agent2Agent Protocol (A2A)
+  description: >-
+    An open standard by Anthropic that enables AI systems like large language models to integrate
+    with external tools and data sources. MCP uses JSON-RPC 2.0 and JSON Schema for defining server
+    capabilities
+  type: Related Specifications
+  level: advanced
+- name: Agent2Agent Protocol (A2A)
   url: https://a2a-protocol.org
-  type: spec
-  summary: An open protocol by Google enabling communication and interoperability between agentic applications. A2A uses JSON-RPC 2.0 over HTTP and JSON Schema for defining Agent Cards and message structures
-
-- title: REST API Linked Data Keywords
+  description: >-
+    An open protocol by Google enabling communication and interoperability between agentic
+    applications. A2A uses JSON-RPC 2.0 over HTTP and JSON Schema for defining Agent Cards and
+    message structures
+  type: Related Specifications
+  level: advanced
+- name: REST API Linked Data Keywords
   url: https://www.ietf.org/archive/id/draft-polli-restapi-ld-keywords-07.html
-  type: spec
-  summary: An Internet-Draft proposing JSON Schema keywords to attach semantic information to OpenAPI and JSON Schema documents, enabling contract-first API design with RDF type information and JSON-LD context
-
-
-
-
-- title: Type Safety with JSON Subschema
+  description: >-
+    An Internet-Draft proposing JSON Schema keywords to attach semantic information to OpenAPI and
+    JSON Schema documents, enabling contract-first API design with RDF type information and JSON-LD
+    context
+  type: Related Specifications
+  level: advanced
+- name: Type Safety with JSON Subschema
   url: https://arxiv.org/abs/1911.12651
+  description: >-
+    Deciding whether one schema is a subschema of another is non-trivial because of the richness of
+    the JSON Schema specification language. Given a pair of schemas, our approach first
+    canonicalizes and simplifies both schemas, then decides the subschema question on the canonical
+    forms, dispatching simpler subschema queries to type-specific checkers
+  type: Papers
+  level: advanced
   year: 2020
-  type: paper
-  summary: Deciding whether one schema is a subschema of another is non-trivial because of the richness of the JSON Schema specification language. Given a pair of schemas, our approach first canonicalizes and simplifies both schemas, then decides the subschema question on the canonical forms, dispatching simpler subschema queries to type-specific checkers
-
-- title: Witness Generation for JSON Schema
+- name: Witness Generation for JSON Schema
   url: https://arxiv.org/abs/2202.12849
+  description: >-
+    JSON Schema is an important, evolving standard schema language for families of JSON documents.
+    It is based on a complex combination of structural and Boolean assertions, and features negation
+    and recursion. The static analysis of JSON Schema documents comprises practically relevant
+    problems, including schema satisfiability, inclusion, and equivalence. These three problems can
+    be reduced to witness generation: given a schema, generate an element of the schema, if it
+    exists, and report failure otherwise
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: "JSON Schema is an important, evolving standard schema language for families of JSON documents. It is based on a complex combination of structural and Boolean assertions, and features negation and recursion. The static analysis of JSON Schema documents comprises practically relevant problems, including schema satisfiability, inclusion, and equivalence. These three problems can be reduced to witness generation: given a schema, generate an element of the schema, if it exists, and report failure otherwise"
-
-- title: What Are Real JSON Schemas Like?
+- name: What Are Real JSON Schemas Like?
   url: https://link.springer.com/chapter/10.1007/978-3-030-34146-6_9
+  description: >-
+    A first empirical analysis of a curated collection of real-world JSON Schemas. Knowing what real
+    JSON Schemas are like (to borrow from a title of a related study on DTDs) helps practitioners
+    and researchers in making realistic assumptions when building tools for JSON Schema processing
+  type: Papers
+  level: advanced
   year: 2019
-  type: paper
-  summary: A first empirical analysis of a curated collection of real-world JSON Schemas. Knowing what real JSON Schemas are like (to borrow from a title of a related study on DTDs) helps practitioners and researchers in making realistic assumptions when building tools for JSON Schema processing
-
-- title: Challenges in Checking JSON Schema Containment over Evolving Real-World Schemas
+- name: Challenges in Checking JSON Schema Containment over Evolving Real-World Schemas
   url: https://link.springer.com/chapter/10.1007/978-3-030-65847-2_20
+  description: >-
+    This paper presents the results of an empirical study of the first generation of tools for
+    checking JSON Schema containment which is applied to a diverse collection of over 230 real-world
+    schemas and their altogether 1k historic versions
+  type: Papers
+  level: advanced
   year: 2020
-  type: paper
-  summary: This paper presents the results of an empirical study of the first generation of tools for checking JSON Schema containment which is applied to a diverse collection of over 230 real-world schemas and their altogether 1k historic versions
-
-- title: Schema Inference for Massive JSON Datasets
+- name: Schema Inference for Massive JSON Datasets
   url: https://hal.archives-ouvertes.fr/hal-01491765
+  description: >-
+    Recent years have seen the widespread use of JSON as a data format to represent massive data
+    collections. JSON data collections are usually schemaless. While this ensures several
+    advantages, the absence of schema information has important negative consequences: the
+    correctness of complex queries and programs cannot be statically checked, users cannot rely on
+    schema information to quickly figure out structural properties that could speed up the
+    formulation of correct queries, and many schema-based optimizations are not possible. In this
+    paper we deal with the problem of inferring a schema from massive JSON data sets
+  type: Papers
+  level: advanced
   year: 2017
-  type: paper
-  summary: "Recent years have seen the widespread use of JSON as a data format to represent massive data collections. JSON data collections are usually schemaless. While this ensures several advantages, the absence of schema information has important negative consequences: the correctness of complex queries and programs cannot be statically checked, users cannot rely on schema information to quickly figure out structural properties that could speed up the formulation of correct queries, and many schema-based optimizations are not possible. In this paper we deal with the problem of inferring a schema from massive JSON data sets"
-
-- title: JSON Schema Inference Approaches
+- name: JSON Schema Inference Approaches
   url: https://link.springer.com/chapter/10.1007/978-3-030-65847-2_16
+  description: >-
+    In the context of document NoSQL databases, namely those assuming the JSON data format, this
+    paper focuses on several representatives of the existing inference approaches and provide their
+    thorough comparison
+  type: Papers
+  level: advanced
   year: 2020
-  type: paper
-  summary: In the context of document NoSQL databases, namely those assuming the JSON data format, this paper focuses on several representatives of the existing inference approaches and provide their thorough comparison
-
-
-- title: Top-Down Model-Driven Engineering of Web Services from Extended OpenAPI Models
+- name: Top-Down Model-Driven Engineering of Web Services from Extended OpenAPI Models
   url: https://ieeexplore.ieee.org/abstract/document/9000020
+  description: >-
+    Shows how OpenAPI can be extended to add implementation details inside models. These extensions
+    link services to assemblies of components that describe computations. Hence a top-down
+    development process that keeps model and implementation aligned
+  type: Papers
+  level: advanced
   year: 2018
-  type: paper
-  summary: Shows how OpenAPI can be extended to add implementation details inside models. These extensions link services to assemblies of components that describe computations. Hence a top-down development process that keeps model and implementation aligned
-
-- title: Foundations of JSON Schema
+- name: Foundations of JSON Schema
   url: https://dl.acm.org/doi/abs/10.1145/2872427.2883029
+  description: >-
+    In this paper we provide the first formal definition of syntax and semantics for JSON Schema and
+    use it to show that implementing this layer on top of JSON is feasible in practice
+  type: Papers
+  level: advanced
   year: 2016
-  type: paper
-  summary: In this paper we provide the first formal definition of syntax and semantics for JSON Schema and use it to show that implementing this layer on top of JSON is feasible in practice
-
-- title: "User profile integration made easy: model-driven extraction and transformation of social network schemas"
+- name: >-
+    User profile integration made easy: model-driven extraction and transformation of social network
+    schemas
   url: https://dl.acm.org/doi/abs/10.1145/2187980.2188227
+  description: >-
+    This paper presents, firstly, a semi-automatic approach to extract schema information from
+    instance data. Secondly, transformations of the derived schemas to different technical spaces
+    are utilized, thereby allowing, amongst other benefits, the application of established
+    integration tools and methods. Finally, as a case study, schemas are derived for Facebook,
+    Google+, and LinkedIn
+  type: Papers
+  level: advanced
   year: 2012
-  type: paper
-  summary: This paper presents, firstly, a semi-automatic approach to extract schema information from instance data. Secondly, transformations of the derived schemas to different technical spaces are utilized, thereby allowing, amongst other benefits, the application of established integration tools and methods. Finally, as a case study, schemas are derived for Facebook, Google+, and LinkedIn
-
-- title: Example-Driven Web API Specification Discovery
+- name: Example-Driven Web API Specification Discovery
   url: https://link.springer.com/chapter/10.1007/978-3-319-61482-3_16
+  description: >-
+    In this paper we present an example-driven discovery process that generates model-based OpenAPI
+    specifications for REST Web APIs by using API call examples. A tool implementing our approach
+    and a community-driven repository for the discovered APIs are also presented
+  type: Papers
+  level: advanced
   year: 2017
-  type: paper
-  summary: In this paper we present an example-driven discovery process that generates model-based OpenAPI specifications for REST Web APIs by using API call examples. A tool implementing our approach and a community-driven repository for the discovered APIs are also presented
-
-- title: "Jsongen: a quickcheck based library for testing JSON web services"
+- name: "Jsongen: a quickcheck based library for testing JSON web services"
   url: https://dl.acm.org/doi/abs/10.1145/2633448.2633454
+  description: >-
+    This article describes a systematic approach to testing behavioural aspects of Web Services that
+    communicate using the JSON data format. To generate random JSON data for populating tests we
+    have developed a new library, jsongen, which given a characterisation of the JSON data as a JSON
+    schema, (i) automatically derives a QuickCheck generator which can generate an infinite number
+    of JSON values that validate against the schema, and (ii) provides a generic QuickCheck state
+    machine which is capable of following the (hyper)links documented in the JSON schema, to
+    automatically explore the web service
+  type: Papers
+  level: advanced
   year: 2014
-  type: paper
-  summary: This article describes a systematic approach to testing behavioural aspects of Web Services that communicate using the JSON data format. To generate random JSON data for populating tests we have developed a new library, jsongen, which given a characterisation of the JSON data as a JSON schema, (i) automatically derives a QuickCheck generator which can generate an infinite number of JSON values that validate against the schema, and (ii) provides a generic QuickCheck state machine which is capable of following the (hyper)links documented in the JSON schema, to automatically explore the web service
-
-- title: An Approach for Schema Extraction of JSON and Extended JSON Document Collections
+- name: An Approach for Schema Extraction of JSON and Extended JSON Document Collections
   url: https://ieeexplore.ieee.org/abstract/document/8424731
+  description: >-
+    This paper presents an approach that extracts a schema from a JSON or Extended JSON document
+    collection stored in a NoSQL document-oriented database or other document repository.
+    Aggregation operations are considered in order to obtain a schema for each distinct structure in
+    the collection, and a hierarchical data structure is proposed to group these schemas in order to
+    generate a global schema in JSON Schema format
+  type: Papers
+  level: advanced
   year: 2018
-  type: paper
-  summary: This paper presents an approach that extracts a schema from a JSON or Extended JSON document collection stored in a NoSQL document-oriented database or other document repository. Aggregation operations are considered in order to obtain a schema for each distinct structure in the collection, and a hierarchical data structure is proposed to group these schemas in order to generate a global schema in JSON Schema format
-
-- title: Schema extraction and structural outlier detection for JSON-based nosql data stores
+- name: Schema extraction and structural outlier detection for JSON-based nosql data stores
   url: https://dl.gi.de/handle/20.500.12116/2420
+  description: >-
+    Rather than designing the schema up front, extracting a schema in hindsight can be seen as a
+    reverse-engineering step. Based on the extracted schema information, we propose set of
+    similarity measures that capture the degree of heterogeneity of JSON data and which reveal
+    structural outliers in the data
+  type: Papers
+  level: advanced
   year: 2015
-  type: paper
-  summary: Rather than designing the schema up front, extracting a schema in hindsight can be seen as a reverse-engineering step. Based on the extracted schema information, we propose set of similarity measures that capture the degree of heterogeneity of JSON data and which reveal structural outliers in the data
-
-- title: Definition of REST web services with JSON schema
+- name: Definition of REST web services with JSON schema
   url: https://dl.acm.org/doi/abs/10.1002/spe.2466
+  description: >-
+    The aim of this article is to demonstrate how JSON Schema, and particularly the JSON Hyper
+    Schema extension, is suitable to describe JSON-based web services that follow the REST
+    architectural pattern
+  type: Papers
+  level: advanced
   year: 2017
-  type: paper
-  summary: The aim of this article is to demonstrate how JSON Schema, and particularly the JSON Hyper Schema extension, is suitable to describe JSON-based web services that follow the REST architectural pattern
-
-- title: Understanding API Complexity Through Schema Entropy
+- name: Understanding API Complexity Through Schema Entropy
   url: https://smizell.com/posts/2021/05/understanding-api-complexity-through-schema-entropy/
+  description: A look at API complexity by analyzing entropy of JSON Schema documents
+  type: Articles
+  level: intermediate
   year: 2021
-  type: article
-  summary: A look at API complexity by analyzing entropy of JSON Schema documents
-
-- title: Robustness, Tolerance, and JSON Schema
+- name: Robustness, Tolerance, and JSON Schema
   url: https://smizell.com/posts/2021/07/robustness-tolerance-and-json-schema/
+  description: Applying the Robustness Principle and increasing schema entropy when making changes to an API
+  type: Articles
+  level: intermediate
   year: 2021
-  type: article
-  summary: Applying the Robustness Principle and increasing schema entropy when making changes to an API
-
-- title: Sourcemeta One
+- name: Sourcemeta One
   url: https://one.sourcemeta.com
-  type: registry
-  summary: A self-hosted JSON Schema microservice that transforms Git repositories into searchable, discoverable schema catalogs with a web explorer, editor integration, schema health checks, and a rich HTTP API
-
-- title: Sourcemeta Schemas
+  description: >-
+    A self-hosted JSON Schema microservice that transforms Git repositories into searchable,
+    discoverable schema catalogs with a web explorer, editor integration, schema health checks, and
+    a rich HTTP API
+  type: Registries
+  level: intermediate
+- name: Sourcemeta Schemas
   url: https://schemas.sourcemeta.com
-  type: registry
-  summary: A public free instance of Sourcemeta One re-offering various open source schema collections
-
-- title: Apicurio Registry
+  description: A public free instance of Sourcemeta One re-offering various open source schema collections
+  type: Registries
+  level: intermediate
+- name: Apicurio Registry
   url: https://www.apicur.io/registry/
-  type: registry
-  summary: A runtime server system for storing and managing API designs and schemas including OpenAPI, AsyncAPI, Avro, and JSON Schema with configurable content rules for evolution control
-
-
-- title: "TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy Engineering"
+  description: >-
+    A runtime server system for storing and managing API designs and schemas including OpenAPI,
+    AsyncAPI, Avro, and JSON Schema with configurable content rules for evolution control
+  type: Registries
+  level: intermediate
+- name: >-
+    TILT: A GDPR-Aligned Transparency Information Language and Toolkit for Practical Privacy
+    Engineering
   url: https://dl.acm.org/doi/10.1145/3442188.3445925
+  description: >-
+    We present TILT, a transparency information language and toolkit explicitly designed to
+    represent and process transparency information in line with the requirements of the GDPR and
+    allowing for a more automated and adaptive use of such information than established, legalese
+    data protection policies do
+  type: Papers
+  level: advanced
   year: 2021
-  type: paper
-  summary: We present TILT, a transparency information language and toolkit explicitly designed to represent and process transparency information in line with the requirements of the GDPR and allowing for a more automated and adaptive use of such information than established, legalese data protection policies do
-
-
-- title: "JSON Schema, Schema.org, JSON-LD: What's the Difference?"
+- name: "JSON Schema, Schema.org, JSON-LD: What's the Difference?"
   url: https://dashjoin.medium.com/json-schema-schema-org-json-ld-whats-the-difference-e30d7315686a
+  description: >-
+    An overview of the difference between JSON Schema and JSON-LD, their relationship and the role
+    of Schema.org
+  type: Articles
+  level: intermediate
   year: 2020
-  type: article
-  summary: An overview of the difference between JSON Schema and JSON-LD, their relationship and the role of Schema.org
-
-- title: "Project Cambria: Translate your data with lenses"
+- name: "Project Cambria: Translate your data with lenses"
   url: https://www.inkandswitch.com/cambria/
+  description: >-
+    A proposal for an isolated software layer that translates data between JSON Schema definitions
+    on demand. Translation logic is defined by composing bidirectional lenses, a kind of data
+    transformation that can run both forward and backward
+  type: Articles
+  level: intermediate
   year: 2020
-  type: article
-  summary: A proposal for an isolated software layer that translates data between JSON Schema definitions on demand. Translation logic is defined by composing bidirectional lenses, a kind of data transformation that can run both forward and backward
-
-- title: "Deriving Semantics-Aware Fuzzers from Web API Schemas"
+- name: Deriving Semantics-Aware Fuzzers from Web API Schemas
   url: https://arxiv.org/abs/2112.10328
+  description: >-
+    Discusses JSON Schema canonicalization and JSON Schema instance derivation in the context of
+    property-based testing of APIs
+  type: Papers
+  level: advanced
   year: 2021
-  type: paper
-  summary: Discusses JSON Schema canonicalization and JSON Schema instance derivation in the context of property-based testing of APIs
-
-
-- title: The Usage of Negation in Real-World JSON Schema Documents
+- name: The Usage of Negation in Real-World JSON Schema Documents
   url: http://bilioso.isti.cnr.it/sebd2022/preprint/SEBD_2022_Camera-ready_PDF_8.pdf
+  description: >-
+    Many software tools, but also formal frameworks for working with JSON Schema, do not fully
+    support negation. This motivates us to study whether negation is actually used in practice, for
+    which aims, and whether it could, in principle, be replaced by simpler operators. We have
+    collected a large corpus of 80k open source JSON Schema documents. We perform a systematic
+    analysis, quantify usage patterns of negation, and also qualitatively analyze schemas. We show
+    that negation is indeed used, albeit infrequently, following a stable set of patterns
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: Many software tools, but also formal frameworks for working with JSON Schema, do not fully support negation. This motivates us to study whether negation is actually used in practice, for which aims, and whether it could, in principle, be replaced by simpler operators. We have collected a large corpus of 80k open source JSON Schema documents. We perform a systematic analysis, quantify usage patterns of negation, and also qualitatively analyze schemas. We show that negation is indeed used, albeit infrequently, following a stable set of patterns
-
-- title: JSONBuddy
+- name: JSONBuddy
   url: https://www.json-buddy.com
-  type: tool
-  summary: A JSON editor and validator desktop application for Windows
-
-- title: Schema Gateway
+  description: A JSON editor and validator desktop application for Windows
+  type: Development Tools
+  level: intermediate
+- name: Schema Gateway
   url: https://github.com/sravan27/schema-gateway
-  type: tool
-  summary: Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API
-
-- title: Implicit JSON Schema Versioning Triggered by Temporal Updates to JSON-Based Big Data in the τJSchema Framework
+  description: >-
+    Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and
+    Ollama, then lint portability issues locally, in CI, or through a hosted API
+  type: Development Tools
+  level: intermediate
+- name: >-
+    Implicit JSON Schema Versioning Triggered by Temporal Updates to JSON-Based Big Data in the
+    τJSchema Framework
   url: https://link.springer.com/chapter/10.1007/978-3-031-07969-6_3
+  description: >-
+    This paper proposes an approach for handling implicit schema changes triggered by temporal
+    updates of JSON-based Big Data. More precisely, when a user specifies a temporal JSON update
+    operation that modifies a snapshot JSON component assigning a valid-time timestamp to its new
+    value, the execution of such an operation requires the JSON component to become temporal, which
+    is for all intents a schema change. Thus, a new version of the τJSchema temporal characteristics
+    document is generated, with the addition of a new valid-time characteristic. New versions of the
+    temporal JSON schema and of the temporal JSON document are also accordingly created
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: This paper proposes an approach for handling implicit schema changes triggered by temporal updates of JSON-based Big Data. More precisely, when a user specifies a temporal JSON update operation that modifies a snapshot JSON component assigning a valid-time timestamp to its new value, the execution of such an operation requires the JSON component to become temporal, which is for all intents a schema change. Thus, a new version of the τJSchema temporal characteristics document is generated, with the addition of a new valid-time characteristic. New versions of the temporal JSON schema and of the temporal JSON document are also accordingly created
-
-- title: "τJSchema: A Framework for Managing Temporal JSON-Based NoSQL Databases"
+- name: "τJSchema: A Framework for Managing Temporal JSON-Based NoSQL Databases"
   url: https://link.springer.com/chapter/10.1007/978-3-319-44406-2_13
+  description: >-
+    This paper proposes a framework called Temporal JSON Schema (τJSchema), inspired by the τXSchema
+    framework defined for XML data. τJSchema allows defining a temporal JSON schema from a
+    conventional JSON schema and a set of temporal logical and physical characteristics. Our
+    framework guarantees logical and physical data independence for temporal schemas and provides a
+    low-impact solution since it requires neither modifications of existing JSON documents, nor
+    extensions to the JSON format, the JSON Schema language, and all related tools and languages
+  type: Papers
+  level: advanced
   year: 2016
-  type: paper
-  summary: This paper proposes a framework called Temporal JSON Schema (τJSchema), inspired by the τXSchema framework defined for XML data. τJSchema allows defining a temporal JSON schema from a conventional JSON schema and a set of temporal logical and physical characteristics. Our framework guarantees logical and physical data independence for temporal schemas and provides a low-impact solution since it requires neither modifications of existing JSON documents, nor extensions to the JSON format, the JSON Schema language, and all related tools and languages
-
-- title: AlterSchema
+- name: AlterSchema
   url: https://alterschema.sourcemeta.com
-  type: tool
-  summary: Convert a JSON Schema definition between specification versions
-
-- title: Introducing SchemaVer for semantic versioning of schemas
-  url: https://snowplowanalytics.com/blog/2014/05/13/introducing-schemaver-for-semantic-versioning-of-schemas/#feedback
+  description: Convert a JSON Schema definition between specification versions
+  type: Development Tools
+  level: intermediate
+- name: Introducing SchemaVer for semantic versioning of schemas
+  url: >-
+    https://snowplowanalytics.com/blog/2014/05/13/introducing-schemaver-for-semantic-versioning-of-schemas/#feedback
+  description: A proposal for a versioning convention for JSON Schema definitions based on SemVer
+  type: Articles
+  level: intermediate
   year: 2014
-  type: article
-  summary: A proposal for a versioning convention for JSON Schema definitions based on SemVer
-
-- title: "JSON BinPack: A space-efficient schema-driven and schema-less binary serialization specification based on JSON Schema"
+- name: >-
+    JSON BinPack: A space-efficient schema-driven and schema-less binary serialization specification
+    based on JSON Schema
   url: https://www.jviotti.com/assets/dissertation.pdf
+  description: >-
+    A survey and benchmark of JSON-compatible binary serialization specifications followed by the
+    introduction of JSON BinPack, a novel protocol-independent schema-driven and schema-less binary
+    serialization specification that is strictly-compatible with JSON and takes advantage of JSON
+    Schema formal definitions to produce bit-strings that are space-efficient in comparison to every
+    considered alternative serialization specification
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: A survey and benchmark of JSON-compatible binary serialization specifications followed by the introduction of JSON BinPack, a novel protocol-independent schema-driven and schema-less binary serialization specification that is strictly-compatible with JSON and takes advantage of JSON Schema formal definitions to produce bit-strings that are space-efficient in comparison to every considered alternative serialization specification
-
-- title: Using Dynamic References to Support Generic Types
+- name: Using Dynamic References to Support Generic Types
   url: https://json-schema.org/blog/posts/dynamicref-and-generics
+  description: Representing generic types from strongly-typed programming languages with JSON Schema
+  type: Articles
+  level: intermediate
   year: 2022
-  type: article
-  summary: Representing generic types from strongly-typed programming languages with JSON Schema
-
-
-- title: 'Maintaining JSON Schemas at Scale - Jason Desrosiers'
+- name: Maintaining JSON Schemas at Scale - Jason Desrosiers
   url: https://www.youtube.com/watch?v=GjJpRsVffg0
+  description: >-
+    In this talk, we will cover the keywords, concepts, and patterns for maintaining large schemas
+    or large collections of schemas. We'll tackle problems like how to breakdown and organize
+    schemas, how to bundle schemas, how to make large schemas efficient, how to get better error
+    messages from large schemas, and more
+  type: Videos
+  level: intermediate
   year: 2021
-  type: video
-  summary: In this talk, we will cover the keywords, concepts, and patterns for maintaining large schemas or large collections of schemas. We'll tackle problems like how to breakdown and organize schemas, how to bundle schemas, how to make large schemas efficient, how to get better error messages from large schemas, and more
-
-- title: 'So you think you understand JSON Schema? - Ben Hutton'
+- name: So you think you understand JSON Schema? - Ben Hutton
   url: https://www.youtube.com/watch?v=vMG0NCDifI0
+  description: >-
+    In this session you'll learn some key fundamentals, intracacies that even catch out the
+    experienced, and how to develop your own interoperable JSON Schema Vocabulary
+  type: Videos
+  level: intermediate
   year: 2021
-  type: video
-  summary: In this session you'll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary
-
-
-
-
-
-
-- title: 'JSON Schema - the Good, the Bad and the Ugly'
+- name: JSON Schema - the Good, the Bad and the Ugly
   url: https://vimeo.com/222489288
+  description: >-
+    With JSON Schema you are required to define your data and the available tooling to do so is not
+    really great (yet). This presentation provides you with criteria to judge whether JSON Schema
+    could be beneficial for your project or is just too much overhead
+  type: Videos
+  level: intermediate
   year: 2017
-  type: video
-  summary: With JSON Schema you are required to define your data and the available tooling to do so is not really great (yet). This presentation provides you with criteria to judge whether JSON Schema could be beneficial for your project or is just too much overhead
-
-
-
-- title: "Docs! Docs! Docs!"
+- name: Docs! Docs! Docs!
   url: https://brandur.org/nanoglyphs/031-api-docs
+  description: An overview of API documentation generation using Hyper Schema and OpenAPI
+  type: Articles
+  level: intermediate
   year: 2022
-  type: article
-  summary: An overview of API documentation generation using Hyper Schema and OpenAPI
-
-- title: "Forming new relationships: Contributing to Open source"
+- name: "Forming new relationships: Contributing to Open source"
   url: https://www.crossref.org/blog/forming-new-relationships-contributing-to-open-source/
+  description: >-
+    A description of adopting and extending JSON Forms, a JSON Schema based form rendering library,
+    to support VueJS and Vuetify.
+  type: Articles
+  level: intermediate
   year: 2022
-  type: article
-  summary: A description of adopting and extending JSON Forms, a JSON Schema based form rendering library, to support VueJS and Vuetify.
-
-- title: "JSON Schema is a constraint system"
+- name: JSON Schema is a constraint system
   url: https://modern-json-schema.com/json-schema-is-a-constraint-system
+  description: "Or: Why object-oriented programming is a mis-matched mental model for JSON Schema"
+  type: Articles
+  level: intermediate
   year: 2022
-  type: article
-  summary: "Or: Why object-oriented programming is a mis-matched mental model for JSON Schema"
-
-- title: "What is \"Modern\" JSON Schema?"
+- name: What is "Modern" JSON Schema?
   url: https://modern-json-schema.com/what-is-modern-json-schema
+  description: >-
+    How "modern" JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than
+    "classical" JSON Schema (draft-07 and earlier)
+  type: Articles
+  level: intermediate
   year: 2022
-  type: article
-  summary: "How \"modern\" JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than \"classical\" JSON Schema (draft-07 and earlier)"
-
-- title: Validating Streaming JSON Documents with Learned VPAs
+- name: Validating Streaming JSON Documents with Learned VPAs
   url: https://arxiv.org/abs/2211.08891
+  description: >-
+    This paper presents a new streaming algorithm to validate JSON documents against a set of
+    constraints given as a JSON schema. It proves that there always exists a visibly pushdown
+    automaton (VPA) that accepts the same set of JSON documents as a JSON schema
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: This paper presents a new streaming algorithm to validate JSON documents against a set of constraints given as a JSON schema. It proves that there always exists a visibly pushdown automaton (VPA) that accepts the same set of JSON documents as a JSON schema
-
-
-- title: Understanding JSON Schema compatibility
+- name: Understanding JSON Schema compatibility
   url: https://yokota.blog/2021/03/29/understanding-json-schema-compatibility/
+  description: >-
+    A study of open, closed, and partially-open content models when evolving schemas in a backward,
+    forward, or fully compatible manners
+  type: Articles
+  level: intermediate
   year: 2021
-  type: article
-  summary: A study of open, closed, and partially-open content models when evolving schemas in a backward, forward, or fully compatible manners
-
-- title: Not Elimination and Witness Generation for JSON Schema
+- name: Not Elimination and Witness Generation for JSON Schema
   url: https://arxiv.org/abs/2104.14828
+  description: >-
+    In this paper, we present an algebraic characterization of JSON Schema, obtained by adding
+    opportune operators, and by mirroring existing ones. We present then algebra-based approaches
+    for dealing with not-elimination and witness generation problems, which play a central role as
+    they lead to solutions for the other mentioned complex problems
+  type: Papers
+  level: advanced
   year: 2021
-  type: paper
-  summary: "In this paper, we present an algebraic characterization of JSON Schema, obtained by adding opportune operators, and by mirroring existing ones. We present then algebra-based approaches for dealing with not-elimination and witness generation problems, which play a central role as they lead to solutions for the other mentioned complex problems"
-
-
-- title: 'JSONoid: Distributed JSON Schema Discovery'
+- name: "JSONoid: Distributed JSON Schema Discovery"
   url: https://github.com/dataunitylab/jsonoid-discovery
+  description: A tool for distributed JSON schema discovery including many properties of the data
+  type: Papers
+  level: advanced
   year: 2023
-  type: paper
-  summary: A tool for distributed JSON schema discovery including many properties of the data
-
-- title: Enhancing JSON Schema Discovery by Uncovering Hidden Data
+- name: Enhancing JSON Schema Discovery by Uncovering Hidden Data
   url: https://ceur-ws.org/Vol-2971/paper11.pdf
+  description: Enhancing discovered JSON Schemas by disambiguating data and metadata
+  type: Papers
+  level: advanced
   year: 2021
-  type: paper
-  summary: Enhancing discovered JSON Schemas by disambiguating data and metadata
-
-- title: 'JSONoid: Monoid-based Enrichment for Configurable and Scalable Data-Driven Schema Discovery'
+- name: "JSONoid: Monoid-based Enrichment for Configurable and Scalable Data-Driven Schema Discovery"
   url: https://arxiv.org/abs/2307.03113
+  description: Meaningful schema information for semi-structured data
+  type: Papers
+  level: advanced
   year: 2023
-  type: paper
-  summary: Meaningful schema information for semi-structured data
-
-- title: Comprehending Semantic Types in JSON Data with Graph Neural Networks
+- name: Comprehending Semantic Types in JSON Data with Graph Neural Networks
   url: https://arxiv.org/abs/2307.12807
+  description: Graph neural networks for semantic type detection in JSON
+  type: Papers
+  level: advanced
   year: 2023
-  type: paper
-  summary: Graph neural networks for semantic type detection in JSON
-
-- title: Fast Discovery of Nested Dependencies on JSON Data
+- name: Fast Discovery of Nested Dependencies on JSON Data
   url: https://arxiv.org/abs/2111.10398
+  description: Efficient dependency mining algorithms for non-relational data
+  type: Papers
+  level: advanced
   year: 2021
-  type: paper
-  summary: Efficient dependency mining algorithms for non-relational data
-
-- title: LLMs for Schema Augmentation
+- name: LLMs for Schema Augmentation
   url: https://michael.mior.ca/blog/llms-for-schema-augmentation/
+  description: >-
+    Large language models can be exploited to automatically augment JSON Schemas with useful
+    information
+  type: Articles
+  level: intermediate
   year: 2023
-  type: article
-  summary: Large language models can be exploited to automatically augment JSON Schemas with useful information
-
-- title: "Unifying Business, Data, and Code: Designing Data Products with JSON Schema"
+- name: "Unifying Business, Data, and Code: Designing Data Products with JSON Schema"
   url: https://www.oreilly.com/library/view/unifying-business-data/9781098144999/
+  description: >-
+    Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema
+    annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you
+    a methodology for effective data management
+  type: Books
+  level: intermediate
   year: 2024
-  type: book
-  summary: Covers topics such as writing your own JSON Schema vocabularies, understanding JSON Schema annotations, and hosting your own JSON Schema registries. More importantly, our book teaches you a methodology for effective data management
-
-- title: An Analysis of Defects in Public JSON Schemas
+- name: An Analysis of Defects in Public JSON Schemas
   url: https://www.cri.minesparis.psl.eu/classement/doc/A-794.pdf
+  description: >-
+    Analysis of common defects found in publicly available schemas leading to recommend changes to
+    the spec
+  type: Papers
+  level: advanced
   year: 2023
-  type: paper
-  summary: Analysis of common defects found in publicly available schemas leading to recommend changes to the spec
-
-- title: JSON Schema CLI
+- name: JSON Schema CLI
   url: https://github.com/sourcemeta/jsonschema
-  type: tool
-  summary: A comprehensive command-line tool for working with JSON Schema supporting formatting, linting, testing, bundling, and validation across all JSON Schema versions
-
-- title: Sourcemeta Studio
+  description: >-
+    A comprehensive command-line tool for working with JSON Schema supporting formatting, linting,
+    testing, bundling, and validation across all JSON Schema versions
+  type: Development Tools
+  level: intermediate
+- name: Sourcemeta Studio
   url: https://github.com/sourcemeta/studio
-  type: tool
-  summary: A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation
-
-- title: "Validation of Modern JSON Schema: Formalization and Complexity"
+  description: >-
+    A Visual Studio Code extension providing professional JSON Schema tooling with real-time
+    linting, automatic formatting, and metaschema validation
+  type: Development Tools
+  level: intermediate
+- name: "Validation of Modern JSON Schema: Formalization and Complexity"
   url: https://arxiv.org/abs/2307.10034
+  description: >-
+    In this paper, we give the first formal description of Modern JSON Schema, which we consider a
+    central contribution of the work that we present here. We then prove that its data validation
+    problem is PSPACE-complete. We prove that the origin of the problem lies in dynamic references,
+    and not in annotation-dependent validation. We study the schema and data complexities, showing
+    that the problem is PSPACE-complete with respect to the schema size even with a fixed instance,
+    but is in PTIME when the schema is fixed and only the instance size is allowed to vary. Finally,
+    we run experiments that show that there are families of schemas where the difference in
+    asymptotic complexity between dynamic and static references is extremely visible, even with
+    small schemas.
+  type: Papers
+  level: advanced
   year: 2024
-  type: paper
-  summary: In this paper, we give the first formal description of Modern JSON Schema, which we consider a central contribution of the work that we present here. We then prove that its data validation problem is PSPACE-complete. We prove that the origin of the problem lies in dynamic references, and not in annotation-dependent validation. We study the schema and data complexities, showing that the problem is PSPACE-complete with respect to the schema size even with a fixed instance, but is in PTIME when the schema is fixed and only the instance size is allowed to vary. Finally, we run experiments that show that there are families of schemas where the difference in asymptotic complexity between dynamic and static references is extremely visible, even with small schemas.
-
-- title: "Machine actionable metadata models"
+- name: Machine actionable metadata models
   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9525592/
+  description: This paper discussed the use of JSON Schema to define human and machine readable metadata models
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: This paper discussed the use of JSON Schema to define human and machine readable metadata models
-
-- title: "Blaze: Compiling JSON Schema for 10x Faster Validation"
+- name: "Blaze: Compiling JSON Schema for 10x Faster Validation"
   url: https://arxiv.org/abs/2503.02770
+  description: >-
+    This paper introduces Blaze, a JSON Schema validator compiles complex schemas to an efficient
+    representation in seconds to minutes, adding minimal overhead at build time. Blaze incorporates
+    several unique optimizations to reduce the validation time by an average of approximately 10x
+    compared existing validators on a variety of datasets. In some cases, Blaze achieves a reduction
+    in validation time of multiple orders of magnitude compared to the next fastest validator. We
+    also demonstrate that several popular validators produce incorrect results in some cases, while
+    Blaze maintains strict adherence to the JSON Schema specification.
+  type: Papers
+  level: advanced
   year: 2025
-  type: paper
-  summary: This paper introduces Blaze, a JSON Schema validator compiles complex schemas to an efficient representation in seconds to minutes, adding minimal overhead at build time. Blaze incorporates several unique optimizations to reduce the validation time by an average of approximately 10x compared existing validators on a variety of datasets. In some cases, Blaze achieves a reduction in validation time of multiple orders of magnitude compared to the next fastest validator. We also demonstrate that several popular validators produce incorrect results in some cases, while Blaze maintains strict adherence to the JSON Schema specification.
-
-- title: "JSONSchemaBench: A Rigorous Benchmark of Structured Outputs for Language Models"
+- name: "JSONSchemaBench: A Rigorous Benchmark of Structured Outputs for Language Models"
   url: https://arxiv.org/abs/2501.10868
+  description: >-
+    This paper introduces JSONSchemaBench, a benchmark for constrained decoding comprising 10K
+    real-world JSON schemas that encompass a wide range of constraints with varying complexity. We
+    pair the benchmark with the existing official JSON Schema Test Suite and evaluate six
+    state-of-the-art constrained decoding frameworks, including Guidance, Outlines, Llamacpp,
+    XGrammar, OpenAI, and Gemini. Through extensive experiments, we gain insights into the
+    capabilities and limitations of constrained decoding on structured generation with real-world
+    JSON schemas.
+  type: Papers
+  level: advanced
   year: 2025
-  type: paper
-  summary: This paper introduces JSONSchemaBench, a benchmark for constrained decoding comprising 10K real-world JSON schemas that encompass a wide range of constraints with varying complexity. We pair the benchmark with the existing official JSON Schema Test Suite and evaluate six state-of-the-art constrained decoding frameworks, including Guidance, Outlines, Llamacpp, XGrammar, OpenAI, and Gemini. Through extensive experiments, we gain insights into the capabilities and limitations of constrained decoding on structured generation with real-world JSON schemas.
-
-- title: "Elimination of annotation dependencies in validation for Modern JSON Schema"
+- name: Elimination of annotation dependencies in validation for Modern JSON Schema
   url: https://arxiv.org/abs/2503.11288
+  description: >-
+    This paper proves that the elimination of annotation dependent keywords cannot, in general,
+    avoid an exponential increase of the schema dimension. We provide an algorithm to eliminate
+    these keywords that, despite the theoretical lower bound, behaves quite well in practice, as we
+    verify with an extensive set of experiments.
+  type: Papers
+  level: advanced
   year: 2025
-  type: paper
-  summary: This paper proves that the elimination of annotation dependent keywords cannot, in general, avoid an exponential increase of the schema dimension. We provide an algorithm to eliminate these keywords that, despite the theoretical lower bound, behaves quite well in practice, as we verify with an extensive set of experiments.
-
-- title: "Negation-Closure for JSON Schema"
+- name: Negation-Closure for JSON Schema
   url: https://arxiv.org/abs/2202.13434
+  description: >-
+    Examines how JSON Schema handles negation, demonstrates that the language lacks negation
+    closure, explores how recent schema drafts address this limitation, and proposes enrichments to
+    the language. Includes an algebraic reformulation of JSON Schema and a prototype system for
+    generating schema witnesses
+  type: Papers
+  level: advanced
   year: 2022
-  type: paper
-  summary: Examines how JSON Schema handles negation, demonstrates that the language lacks negation closure, explores how recent schema drafts address this limitation, and proposes enrichments to the language. Includes an algebraic reformulation of JSON Schema and a prototype system for generating schema witnesses
-
-- title: "In 76% of modern OpenAPI specs, JSON Schema dominates the specification"
+- name: In 76% of modern OpenAPI specs, JSON Schema dominates the specification
   url: https://www.sourcemeta.com/blog/json-schema-dominates-openapi/
+  description: >-
+    An empirical analysis of 4,127 real-world OpenAPI specifications showing that JSON Schema makes
+    up the majority of content in three-quarters of modern API documents, with the schema layer
+    growing more dominant as APIs mature
+  type: Articles
+  level: intermediate
   year: 2026
-  type: article
-  summary: An empirical analysis of 4,127 real-world OpenAPI specifications showing that JSON Schema makes up the majority of content in three-quarters of modern API documents, with the schema layer growing more dominant as APIs mature
-
-- title: "The only schema language AI speaks is JSON Schema"
+- name: The only schema language AI speaks is JSON Schema
   url: https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/
+  description: >-
+    A survey of how every major LLM provider (OpenAI, Google, Anthropic, Mistral, xAI, DeepSeek),
+    the Model Context Protocol, and the AI products built on top of them have all converged on JSON
+    Schema as the contract language for structured outputs, tool calls, and agent interoperability
+  type: Articles
+  level: intermediate
   year: 2026
-  type: article
-  summary: A survey of how every major LLM provider (OpenAI, Google, Anthropic, Mistral, xAI, DeepSeek), the Model Context Protocol, and the AI products built on top of them have all converged on JSON Schema as the contract language for structured outputs, tool calls, and agent interoperability
-
-- title: "Every G7 government already runs on JSON Schema"
+- name: Every G7 government already runs on JSON Schema
   url: https://www.sourcemeta.com/blog/g7-runs-on-json-schema/
+  description: >-
+    A review of how every G7 government (United States, United Kingdom, France, Germany, Italy,
+    Japan, and Canada), along with nine out of ten of the OECD's top digital governments, relies on
+    JSON Schema for its digital public infrastructure
+  type: Articles
+  level: intermediate
   year: 2026
-  type: article
-  summary: A review of how every G7 government (United States, United Kingdom, France, Germany, Italy, Japan, and Canada), along with nine out of ten of the OECD's top digital governments, relies on JSON Schema for its digital public infrastructure
-
-- title: Context.dev Extract API
+- name: Context.dev Extract API
   url: https://www.context.dev/data/extract
-  type: tool
-  summary: Crawl a website and extract structured data matching a caller-defined JSON Schema
-
-- title: schema-envoy
+  description: Crawl a website and extract structured data matching a caller-defined JSON Schema
+  type: Development Tools
+  level: intermediate
+- name: schema-envoy
   url: https://github.com/tamerkalla/schema-envoy
-  type: tool
-  summary: Convert a JSON Schema to an LLM provider's accepted keyword subset and get a machine-checked report of every constraint the conversion dropped, plus a residual validator over those dropped constraints so widened values can be rejected rather than only logged
+  description: >-
+    Convert a JSON Schema to an LLM provider's accepted keyword subset and get a machine-checked
+    report of every constraint the conversion dropped, plus a residual validator over those dropped
+    constraints so widened values can be rejected rather than only logged
+  type: Development Tools
+  level: intermediate
