@@ -6,7 +6,7 @@
     "base-link": {
       "type": "object",
       "additionalProperties": false,
-      "required": [ "name", "url", "description", "type", "level" ],
+      "required": [ "title", "url", "summary", "type", "level" ],
       "properties": {
         "type": {
           "enum": [
@@ -29,8 +29,8 @@
           "type": "integer",
           "minimum": 0
         },
-        "name": { "type": "string" },
-        "description": { "type": "string" },
+        "title": { "type": "string" },
+        "summary": { "type": "string" },
         "url": {
           "type": "string",
           "format": "uri"

@@ -27,8 +27,8 @@ existing categories and confirm that the resource is not already listed.
    new category to `template.hbs` and place the resource under it. New
    categories should only be introduced when the resource genuinely does not
    fit the existing structure.
-3. Add the resource to `data.yaml` with its `name`, `url`, short
-   `description`, `type`, and `level`. Keep category names consistent between
+3. Add the resource to `data.yaml` with its `title`, `url`, short `summary`,
+   `type`, and `level`. Keep category names consistent between
    the README and YAML.
 4. Choose exactly one learning level based on the knowledge expected of the
    reader: `beginner`, `intermediate`, or `advanced`. The level does not rate

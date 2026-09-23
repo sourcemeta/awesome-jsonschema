@@ -41,7 +41,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "Getting Started"}}
-- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
@@ -49,15 +49,15 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "Courses"}}
-- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
 ## Development Tools
 
-{{#each (sortBy data "name")}}
+{{#each (sortBy data "title")}}
 {{#compare type "==" "Development Tools"}}
-- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
@@ -65,15 +65,15 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "Books"}}
-- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
 ## Registries
 
-{{#each (sortBy data "name")}}
+{{#each (sortBy data "title")}}
 {{#compare type "==" "Registries"}}
-- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
@@ -81,15 +81,15 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "Articles"}}
-- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
 ## Related Specifications
 
-{{#each (sortBy data "name")}}
+{{#each (sortBy data "title")}}
 {{#compare type "==" "Related Specifications"}}
-- [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
@@ -99,7 +99,7 @@ For more video content, check out the [official JSON Schema YouTube channel](htt
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "Videos"}}
-- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
@@ -107,7 +107,7 @@ For more video content, check out the [official JSON Schema YouTube channel](htt
 
 {{#each (reverseSortBy data "year")}}
 {{#compare type "==" "Papers"}}
-- ({{this.year}}) [{{name}}]({{{url}}}?utm_source=awesome-jsonschema) - {{description}}.
+- ({{this.year}}) [{{title}}]({{{url}}}?utm_source=awesome-jsonschema) - {{summary}}.
 {{/compare}}
 {{/each}}
 
