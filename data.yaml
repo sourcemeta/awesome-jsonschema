@@ -467,6 +467,11 @@
   type: paper
   summary: Analysis of common defects found in publicly available schemas leading to recommend changes to the spec
 
+- title: json-schema-diff
+  url: https://git.canutethegreat.com/CanuteTheGreat/json-schema-diff
+  type: tool
+  summary: Zero-dependency Python CLI that compares two JSON Schema documents and classifies every difference as breaking, compatible, or info -- catches accidental breaking API contract changes before you ship
+
 - title: JSON Schema CLI
   url: https://github.com/sourcemeta/jsonschema
   type: tool
