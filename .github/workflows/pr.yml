@@ -6,9 +6,10 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '20'
+          cache: npm
       - run: npm ci
       - run: npm run lint
       - run: npm test
