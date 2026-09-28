@@ -765,3 +765,12 @@
     Convert a JSON Schema to an LLM provider's accepted keyword subset and get a machine-checked
     report of every constraint the conversion dropped, plus a residual validator over those dropped
     constraints so widened values can be rejected rather than only logged
+- title: Under the hood of JSON Schema
+  url: https://lnkd.in/p/dA3K-yJB
+  year: 2026
+  type: Videos
+  level: beginner
+  summary: >-
+    A video presentation exploring the internal mechanics of JSON Schema, covering meta-schemas,
+    AST compilation, and memory pointers. The link to the full slide deck is available in the 
+    comments of the LinkedIn post.

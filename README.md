@@ -112,6 +112,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 For more video content, check out the [official JSON Schema YouTube channel](https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA) and the [JSON Schema Conference](https://conference.json-schema.org) website.
 
+- (2026) [Under the hood of JSON Schema](https://lnkd.in/p/dA3K-yJB?utm_source=awesome-jsonschema) - A video presentation exploring the internal mechanics of JSON Schema, covering meta-schemas, AST compilation, and memory pointers. The link to the full slide deck is available in the  comments of the LinkedIn post..
 - (2021) [So you think you understand JSON Schema? - Ben Hutton](https://www.youtube.com/watch?v=vMG0NCDifI0?utm_source=awesome-jsonschema) - In this session you&#x27;ll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary.
 - (2021) [Maintaining JSON Schemas at Scale - Jason Desrosiers](https://www.youtube.com/watch?v=GjJpRsVffg0?utm_source=awesome-jsonschema) - In this talk, we will cover the keywords, concepts, and patterns for maintaining large schemas or large collections of schemas. We&#x27;ll tackle problems like how to breakdown and organize schemas, how to bundle schemas, how to make large schemas efficient, how to get better error messages from large schemas, and more.
 - (2021) [JSON Schema Validation in Postman](https://www.youtube.com/watch?v=8BfshV5n6ac?utm_source=awesome-jsonschema) - An tutorial of performing JSON Schema validation in Postman in API tests.
