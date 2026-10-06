@@ -82,6 +82,12 @@
   type: Getting Started
   level: beginner
   summary: A comprehensive JSON Schema documentation website covering all specification versions
+- title: JSON Schema master reference
+  url: https://stephcraft.net/docs/json-schema
+  year: 2026
+  type: Getting Started
+  level: beginner
+  summary: A single page master reference about JSON Schema containing intuitive code snippets
 - title: JSON Schema bundling finally formalised
   url: https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
   year: 2021
