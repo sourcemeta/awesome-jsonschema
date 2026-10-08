@@ -70,6 +70,14 @@
     A comprehensive 9+ hour video course teaching advanced JSON Schema techniques for API design,
     covering dynamic references, unevaluated properties, schema composition, testing, linting, and
     deployment to registries
+- title: "JSON Schema Tutorial: How to Write and Validate JSON Schema"
+  url: https://jsonviewertool.com/blog/json-schema-tutorial
+  year: 2026
+  type: Getting Started
+  level: beginner
+  summary: >-
+    An introduction to schema keywords and validation with JavaScript Ajv and Python jsonschema,
+    including dialect selection, format checking, and reporting validation errors
 - title: JSON Schema Tour
   url: https://tour.json-schema.org
   year: 2024
