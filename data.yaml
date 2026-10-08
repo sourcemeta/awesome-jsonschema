@@ -787,3 +787,11 @@
   level: beginner
   summary: >-
     This presentation discusses the very basic ideas of JSON Schema using analogies to help beginners build their concepts with greater clarity.
+- title: greencheck
+  url: https://github.com/simin-yuan/greencheck
+  type: Development Tools
+  level: intermediate
+  summary: >-
+    Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
+    deliberately damage an artefact and re-run the validator to expose mutations that escape, and
+    flag measurements that cannot react differently to inputs they claim to distinguish
