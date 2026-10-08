@@ -55,6 +55,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Schema Gateway](https://github.com/sravan27/schema-gateway?utm_source=awesome-jsonschema) - Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API.
 - [Sourcemeta Studio](https://github.com/sourcemeta/studio?utm_source=awesome-jsonschema) - A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation.
+- [greencheck](https://github.com/simin-yuan/greencheck?utm_source=awesome-jsonschema) - Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics: deliberately damage an artefact and re-run the validator to expose mutations that escape, and flag measurements that cannot react differently to inputs they claim to distinguish.
 - [schema-envoy](https://github.com/tamerkalla/schema-envoy?utm_source=awesome-jsonschema) - Convert a JSON Schema to an LLM provider&#x27;s accepted keyword subset and get a machine-checked report of every constraint the conversion dropped, plus a residual validator over those dropped constraints so widened values can be rejected rather than only logged.
 
 ## Books
