@@ -40,6 +40,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 ## Getting Started
 
 - [JSON Schema master reference](https://stephcraft.net/docs/json-schema?utm_source=awesome-jsonschema) - A single page reference about JSON Schema containing intuitive code snippets.
+- [JSON Schema Tutorial: How to Write and Validate JSON Schema](https://jsonviewertool.com/blog/json-schema-tutorial?utm_source=awesome-jsonschema) - An introduction to schema keywords and validation with JavaScript Ajv and Python jsonschema, including dialect selection, format checking, and reporting validation errors.
 - [Learn JSON Schema](https://www.learnjsonschema.com?utm_source=awesome-jsonschema) - A comprehensive JSON Schema documentation website covering all specification versions.
 - [JSON Schema Tour](https://tour.json-schema.org?utm_source=awesome-jsonschema) - An interactive tutorial to learn JSON Schema step by step.
 
