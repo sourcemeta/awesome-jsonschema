@@ -803,3 +803,10 @@
     Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
     deliberately damage an artefact and re-run the validator to expose mutations that escape, and
     flag measurements that cannot react differently to inputs they claim to distinguish
+- title: Tool Kumar
+  url: https://tools.vikasmaur.com/tools/json-schema-generator
+  type: Development Tools
+  level: beginner
+  summary: >-
+    Generate JSON Schema draft 2020-12 from JSON examples locally in the browser,
+    with inferred property types, required fields, and reusable definitions
