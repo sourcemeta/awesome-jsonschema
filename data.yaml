@@ -788,18 +788,10 @@
     A video presentation exploring the internal mechanics of JSON Schema, covering meta-schemas,
     AST compilation, and memory pointers. The link to the full slide deck is available in the 
     comments of the LinkedIn post.
-- title: What exactly is JSON Schema?
-  url: https://drive.google.com/file/d/1Fhz9hW6amY011HI5fk9j5GZ-DP1z_864/view?usp=sharing
+- title: Twisters and Standard Schemas
+  url: https://drive.google.com/file/d/1kG_vd9rAqbUWKOVK0kZs0p9T_hBSroIc/view?usp=drive_link
   year: 2026
   type: Videos
   level: beginner
   summary: >-
-    This presentation discusses the very basic ideas of JSON Schema using analogies to help beginners build their concepts with greater clarity.
-- title: greencheck
-  url: https://github.com/simin-yuan/greencheck
-  type: Development Tools
-  level: intermediate
-  summary: >-
-    Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
-    deliberately damage an artefact and re-run the validator to expose mutations that escape, and
-    flag measurements that cannot react differently to inputs they claim to distinguish
+    A video presentation discussing an interesting twister- "JSON Schema is written in JSON" and keywords used in a standard schema with the help of some analogies.
