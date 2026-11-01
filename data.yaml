@@ -456,6 +456,13 @@
   type: Development Tools
   level: intermediate
   summary: A JSON editor and validator desktop application for Windows
+- title: JSON Formatter App Schema Tools
+  url: https://jsonformatter.app/tools/json-schema-generator
+  type: Development Tools
+  level: intermediate
+  summary: >-
+    Generate a JSON Schema (draft 2020-12) from a sample document, or validate documents against a
+    schema, entirely in the browser with exact error paths and no uploads
 - title: Schema Gateway
   url: https://github.com/sravan27/schema-gateway
   type: Development Tools
