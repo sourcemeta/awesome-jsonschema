@@ -451,6 +451,13 @@
     collected a large corpus of 80k open source JSON Schema documents. We perform a systematic
     analysis, quantify usage patterns of negation, and also qualitatively analyze schemas. We show
     that negation is indeed used, albeit infrequently, following a stable set of patterns
+- title: CurlyJSON Schema Validator
+  url: https://curlyjson.com/json-schema-validator
+  type: Development Tools
+  level: beginner
+  summary: >-
+    Validate JSON against a schema in the browser (drafts 4, 7, 2019-09 and 2020-12), with every
+    error listed with its path and nothing uploaded
 - title: JSONBuddy
   url: https://www.json-buddy.com
   type: Development Tools

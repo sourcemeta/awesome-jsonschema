@@ -52,6 +52,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 - [AlterSchema](https://alterschema.sourcemeta.com?utm_source=awesome-jsonschema) - Convert a JSON Schema definition between specification versions.
 - [Context.dev Extract API](https://www.context.dev/data/extract?utm_source=awesome-jsonschema) - Crawl a website and extract structured data matching a caller-defined JSON Schema.
+- [CurlyJSON Schema Validator](https://curlyjson.com/json-schema-validator?utm_source=awesome-jsonschema) - Validate JSON against a schema in the browser (drafts 4, 7, 2019-09 and 2020-12), with every error listed with its path and nothing uploaded.
 - [JSON Schema CLI](https://github.com/sourcemeta/jsonschema?utm_source=awesome-jsonschema) - A comprehensive command-line tool for working with JSON Schema supporting formatting, linting, testing, bundling, and validation across all JSON Schema versions.
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Schema Gateway](https://github.com/sravan27/schema-gateway?utm_source=awesome-jsonschema) - Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API.
