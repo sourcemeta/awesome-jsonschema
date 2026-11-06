@@ -39,6 +39,8 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Getting Started
 
+- [JSON Schema master reference](https://stephcraft.net/docs/json-schema?utm_source=awesome-jsonschema) - A single page reference about JSON Schema containing intuitive code snippets.
+- [JSON Schema Tutorial: How to Write and Validate JSON Schema](https://jsonviewertool.com/blog/json-schema-tutorial?utm_source=awesome-jsonschema) - An introduction to schema keywords and validation with JavaScript Ajv and Python jsonschema, including dialect selection, format checking, and reporting validation errors.
 - [Learn JSON Schema](https://www.learnjsonschema.com?utm_source=awesome-jsonschema) - A comprehensive JSON Schema documentation website covering all specification versions.
 - [JSON Schema Tour](https://tour.json-schema.org?utm_source=awesome-jsonschema) - An interactive tutorial to learn JSON Schema step by step.
 
@@ -49,11 +51,14 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 ## Development Tools
 
 - [AlterSchema](https://alterschema.sourcemeta.com?utm_source=awesome-jsonschema) - Convert a JSON Schema definition between specification versions.
+- [Context.dev Extract API](https://www.context.dev/data/extract?utm_source=awesome-jsonschema) - Crawl a website and extract structured data matching a caller-defined JSON Schema.
 - [JSON Schema CLI](https://github.com/sourcemeta/jsonschema?utm_source=awesome-jsonschema) - A comprehensive command-line tool for working with JSON Schema supporting formatting, linting, testing, bundling, and validation across all JSON Schema versions.
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Schema Gateway](https://github.com/sravan27/schema-gateway?utm_source=awesome-jsonschema) - Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API.
 - [Sourcemeta Studio](https://github.com/sourcemeta/studio?utm_source=awesome-jsonschema) - A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation.
 - [YAML Validator](https://yamlvalidator.dev?utm_source=awesome-jsonschema) - An online YAML validator and Chrome extension that validates YAML against JSON Schema for Kubernetes, Docker Compose, GitHub Actions, GitLab CI, Helm Charts, OpenAPI 3.0, Swagger 2.0, Ansible, and more.
+- [greencheck](https://github.com/simin-yuan/greencheck?utm_source=awesome-jsonschema) - Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics: deliberately damage an artefact and re-run the validator to expose mutations that escape, and flag measurements that cannot react differently to inputs they claim to distinguish.
+- [schema-envoy](https://github.com/tamerkalla/schema-envoy?utm_source=awesome-jsonschema) - Convert a JSON Schema to an LLM provider&#x27;s accepted keyword subset and get a machine-checked report of every constraint the conversion dropped, plus a residual validator over those dropped constraints so widened values can be rejected rather than only logged.
 
 ## Books
 
@@ -70,6 +75,9 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Articles
 
+- (2026) [The only schema language AI speaks is JSON Schema](https://www.sourcemeta.com/blog/ai-only-speaks-json-schema/?utm_source=awesome-jsonschema) - A survey of how every major LLM provider (OpenAI, Google, Anthropic, Mistral, xAI, DeepSeek), the Model Context Protocol, and the AI products built on top of them have all converged on JSON Schema as the contract language for structured outputs, tool calls, and agent interoperability.
+- (2026) [In 76% of modern OpenAPI specs, JSON Schema dominates the specification](https://www.sourcemeta.com/blog/json-schema-dominates-openapi/?utm_source=awesome-jsonschema) - An empirical analysis of 4,127 real-world OpenAPI specifications showing that JSON Schema makes up the majority of content in three-quarters of modern API documents, with the schema layer growing more dominant as APIs mature.
+- (2026) [Every G7 government already runs on JSON Schema](https://www.sourcemeta.com/blog/g7-runs-on-json-schema/?utm_source=awesome-jsonschema) - A review of how every G7 government (United States, United Kingdom, France, Germany, Italy, Japan, and Canada), along with nine out of ten of the OECD&#x27;s top digital governments, relies on JSON Schema for its digital public infrastructure.
 - (2023) [LLMs for Schema Augmentation](https://michael.mior.ca/blog/llms-for-schema-augmentation/?utm_source=awesome-jsonschema) - Large language models can be exploited to automatically augment JSON Schemas with useful information.
 - (2022) [What is &quot;Modern&quot; JSON Schema?](https://modern-json-schema.com/what-is-modern-json-schema?utm_source=awesome-jsonschema) - How &quot;modern&quot; JSON Schema, meaning 2019-09, 2020-12, and later, can solve far more problems than &quot;classical&quot; JSON Schema (draft-07 and earlier).
 - (2022) [Using Dynamic References to Support Generic Types](https://json-schema.org/blog/posts/dynamicref-and-generics?utm_source=awesome-jsonschema) - Representing generic types from strongly-typed programming languages with JSON Schema.
@@ -108,6 +116,8 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 For more video content, check out the [official JSON Schema YouTube channel](https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA) and the [JSON Schema Conference](https://conference.json-schema.org) website.
 
+- (2026) [What exactly is JSON Schema?](https://drive.google.com/file/d/1Fhz9hW6amY011HI5fk9j5GZ-DP1z_864/view?usp=sharing?utm_source=awesome-jsonschema) - This presentation discusses the very basic ideas of JSON Schema using analogies to help beginners build their concepts with greater clarity..
+- (2026) [Under the hood of JSON Schema](https://lnkd.in/p/dA3K-yJB?utm_source=awesome-jsonschema) - A video presentation exploring the internal mechanics of JSON Schema, covering meta-schemas, AST compilation, and memory pointers. The link to the full slide deck is available in the  comments of the LinkedIn post..
 - (2021) [So you think you understand JSON Schema? - Ben Hutton](https://www.youtube.com/watch?v=vMG0NCDifI0?utm_source=awesome-jsonschema) - In this session you&#x27;ll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary.
 - (2021) [Maintaining JSON Schemas at Scale - Jason Desrosiers](https://www.youtube.com/watch?v=GjJpRsVffg0?utm_source=awesome-jsonschema) - In this talk, we will cover the keywords, concepts, and patterns for maintaining large schemas or large collections of schemas. We&#x27;ll tackle problems like how to breakdown and organize schemas, how to bundle schemas, how to make large schemas efficient, how to get better error messages from large schemas, and more.
 - (2021) [JSON Schema Validation in Postman](https://www.youtube.com/watch?v=8BfshV5n6ac?utm_source=awesome-jsonschema) - An tutorial of performing JSON Schema validation in Postman in API tests.
