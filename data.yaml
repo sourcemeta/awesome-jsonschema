@@ -803,3 +803,11 @@
     Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
     deliberately damage an artefact and re-run the validator to expose mutations that escape, and
     flag measurements that cannot react differently to inputs they claim to distinguish
+
+- title: JSON Schema Validator (Tidy Byte Tools)
+  url: https://apify.com/tidybytetools/json-schema-validator
+  type: Development Tools
+  level: beginner
+  summary: >-
+    A pay-per-use Apify Actor that checks JSON records against a JSON Schema and
+    reports which records fail and why. It runs on Apify, not as a local library
