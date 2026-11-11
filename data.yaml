@@ -803,3 +803,8 @@
     Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
     deliberately damage an artefact and re-run the validator to expose mutations that escape, and
     flag measurements that cannot react differently to inputs they claim to distinguish
+- title: JSON2Class JSON Schema Generator
+  url: https://json2class.com/en/json-schema-generator/
+  type: Development Tools
+  level: beginner
+  summary: Infer a JSON Schema from a sample JSON document in the browser, without uploading the document
