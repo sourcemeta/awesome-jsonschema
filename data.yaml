@@ -803,3 +803,11 @@
     Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
     deliberately damage an artefact and re-run the validator to expose mutations that escape, and
     flag measurements that cannot react differently to inputs they claim to distinguish
+- title: flowschema
+  url: https://github.com/localixai/flowschema
+  type: Development Tools
+  level: intermediate
+  summary: >-
+    A Rust validator for agents that checks tool calls and structured output from language models
+    against JSON Schema drafts 4 to 2020-12, including a call still streaming, with error messages
+    a model can fix its answer from
