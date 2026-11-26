@@ -803,3 +803,8 @@
     Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics:
     deliberately damage an artefact and re-run the validator to expose mutations that escape, and
     flag measurements that cannot react differently to inputs they claim to distinguish
+- title: JsonMind
+  url: https://www.jsonmind.com/tools/json-schema
+  type: Development Tools
+  level: intermediate
+  summary: Validate a JSON instance against a Draft-07 schema in the browser and report nested type, required-field, and format errors
